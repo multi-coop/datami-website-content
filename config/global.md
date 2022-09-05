@@ -33,7 +33,7 @@ colors:
 matomo:
   matomo_active: true
   matomo_server: multi.matomo.cloud
-  matomo_site_id: 3
+  matomo_site_id: 4
   matomo_track_outlinks: true
 
 seo_keywords: [
