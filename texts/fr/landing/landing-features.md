@@ -4,7 +4,11 @@
 
 <h1
   class="has-text-centered is-uppercase mt-6 mb-6 pt-6">
-  Simple. Transparent. Collaboratif
+  Simple
+  <span class="mx-5">
+    Transparent
+  </span>
+  Collaboratif
 </h1>
 
 <h3

@@ -13,15 +13,15 @@
           <b><i>no code</i></b> -->
           Edit, visualize and share your data
           <br>
-          easily
+          the free and easy way
         </p>
         <p
           class="subtitle mt-4"
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
-          with a <i>no code</i> datavizualisation tool
+          Vizboard is a <i>no code</i> datavizualisation tool :
           <br>
-          sans coder, sans abonnement,
+          no coding, no subscription,
           <span style="border-bottom: 1px solid black;">
             and without pain
           </span>
@@ -105,4 +105,3 @@
     </div>
   </div>
 </div>
-

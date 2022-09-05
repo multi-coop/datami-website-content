@@ -19,7 +19,7 @@
           class="subtitle mt-4"
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
-          grâce à un outil <i>no code</i> de datavisualisation
+          Vizboard est un outil <i>no code</i> d'édition et de datavisualisation :
           <br>
           sans coder, sans abonnement,
           <span style="border-bottom: 1px solid black;">
@@ -105,4 +105,3 @@
     </div>
   </div>
 </div>
-
