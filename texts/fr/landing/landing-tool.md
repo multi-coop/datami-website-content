@@ -48,7 +48,7 @@
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          Vous ne payez que pour notre conseil et notre expertise, par exemple si vous avez besoin de notre aide pour configurer vos vizboards.
+          Vous ne payez que pour notre conseil et notre expertise, par exemple si vous avez besoin de notre aide pour configurer un vizboard.
         </p>
       </article>
     </div>

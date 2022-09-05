@@ -66,7 +66,7 @@
           Data visualisation
         </p>
         <p class="subtitle">
-          <b>Visualisez</b> vos données sous forme de tableau ou de fiches (bientôt des dataviz !)
+          <b>Visualisez</b> vos données sous forme de tableau, de fiches, de graphiques, et de cartographies
         </p>
       </article>
     </div>
@@ -81,7 +81,7 @@
           Open source
         </p>
         <p class="subtitle">
-          Le code source <b>100% gratuit</b>, sans abonnement, sans location de serveur...
+          Le code source est <b>100% gratuit</b>, sans abonnement, sans location de serveur...
           C'est un <b>logiciel libre</b> !
         </p>
       </article>
@@ -95,7 +95,7 @@
           Essaimage
         </P>
         <p class="subtitle">
-          <b>Copiez-collez</b> les widgets <b>dans n'importe quel site</b>  en quelques clics
+          <b>Copiez-collez</b> les vizboards <b>dans n'importe quel site</b> en un clic
         </p>
       </article>
     </div>
