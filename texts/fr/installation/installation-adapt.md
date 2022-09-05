@@ -1,7 +1,7 @@
 
-## Adapter Gitribute à votre site web
+## Adapter Vizboard à votre site web
 
-Nous avons conçu Gitribute afin que ses widgets puissent être personnalisés puis qu'ils puissent afficher vos propres données, de la manière que vous souhaitez.
+Nous avons conçu Vizboard afin que ses widgets puissent être personnalisés puis qu'ils puissent afficher vos propres données, de la manière que vous souhaitez.
 
 Ce site de documentation vous fournit différents exemples de comment personnaliser un widget et l'adapter à vos données.
 

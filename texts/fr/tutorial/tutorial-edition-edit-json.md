@@ -9,7 +9,7 @@
 
 <br> 
 
-Le widget `gitfile` de Gitribute permet également d'éditer un fichier de type `json` (et donc évidemment un fichier `geojson`).
+Le widget `gitfile` de Vizboard permet également d'éditer un fichier de type `json` (et donc évidemment un fichier `geojson`).
 
 Vous disposerez d'exactement les mêmes "vues-édition" lors de l'édition d'un `json`que pour les fichiers : vues `prévisualisation` / `édition` / `diff`.
 

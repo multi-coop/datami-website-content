@@ -20,8 +20,8 @@ As you can imagine the button <span class="icon"><i class="mdi mdi-translate"></
 
 > **Note** :
 >  
-> Changing the language can translate all texts from a Gitribute's widget itself, but can't change the data contained from the document itself.
+> Changing the language can translate all texts from a Vizboard's widget itself, but can't change the data contained from the document itself.
 >
 > For instance if the mardown file displayed in the widget is written in swahili, its stays swahili. 
 
-For now only french and english are available in Gitribute, but we would be glad if you propose to help us translate Gitribute to other languages (anyone speaking German, or Turkish, or Spanish, or Italian, or Arabic, or any other language... ?).
+For now only french and english are available in Vizboard, but we would be glad if you propose to help us translate Vizboard to other languages (anyone speaking German, or Turkish, or Spanish, or Italian, or Arabic, or any other language... ?).

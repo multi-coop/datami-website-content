@@ -12,7 +12,7 @@ Chaque widget permet d'interagir avec ces données de différentes façons :
  
 Le widget principal autour duquel tous les autres sont construits est le widget [Gitfile](/docs-gitfile) : celui-ci permet à tout•e utilisateur•rice - possédant ou non des compétences techniques - de contribuer à un jeu de donnés hébergé sur Github ou Gitlab, cela sans qu'il lui soit nécessaire de créer un compte ou même de savoir ce que sont Github ou Gitlab.
 
-Enfin, les widgets de Gitribute sont conçus pour être copiés-collés, afin que vous puissiez partager et permettre la contribution sur un jeu de données unique mais cela sur une multiplicité de sites... **gratuitement !**
+Enfin, les widgets de Vizboard sont conçus pour être copiés-collés, afin que vous puissiez partager et permettre la contribution sur un jeu de données unique mais cela sur une multiplicité de sites... **gratuitement !**
 
 <div class="columns is-multiline is-8 is-centered mt-0 mb-4">
   <div class="column is-4 has-text-centered">

@@ -7,9 +7,9 @@
     />
 </div>
 
-Une fois avoir terminé vos modifications au fichier affiché dans le widget Gitribute vous pouvez alors "sauver" vos modifications et envoyer vos propositions au.x propriétaire.s du fichier source. Pour cela cliquez sur le bouton "Sauver".
+Une fois avoir terminé vos modifications au fichier affiché dans le widget Vizboard vous pouvez alors "sauver" vos modifications et envoyer vos propositions au.x propriétaire.s du fichier source. Pour cela cliquez sur le bouton "Sauver".
 
-**Cette action - "Sauver" - est ce que nous appelons une _contribution_ dans le projet Gitribute.**
+**Cette action - "Sauver" - est ce que nous appelons une _contribution_ dans le projet Vizboard.**
 
 Un dialogue apparaît une fois que vous avez cliqué sur ce bouton. Dans ce dialogue vous pouvez écrire - si vous le souhaitez - un petit message à l'adresse du ou des propriétaires du fichier source.
 

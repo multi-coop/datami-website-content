@@ -9,7 +9,7 @@
 
 <br>
 
-Avec Gitribute vous pouvez faire un certain nombre d'opérations de base en mode "édition" :
+Avec Vizboard vous pouvez faire un certain nombre d'opérations de base en mode "édition" :
 
 - Modifier le contenu ou la valeur d'une cellule ;
 - Ajouter une nouvelle ligne ;

@@ -2,7 +2,7 @@
 
 Un tel bloc de html peut sembler un peu complexe... À raison.
 
-Toutefois vous n'aurez pas à prendre de leçons intensives de html pour intégrer un widget Gitribute dans votre Wordpress favori.
+Toutefois vous n'aurez pas à prendre de leçons intensives de html pour intégrer un widget Vizboard dans votre Wordpress favori.
 
 Gitribute inclut **un bouton pour copier en un clic un widget existant**. Ainsi vous n'aurez pas à configurer votre widget depuis zéro.
 

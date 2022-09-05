@@ -12,7 +12,7 @@ Each widget allows to play with your data in different ways :
 
 The cornerstone widget is the [Gitfile](/docs-gitfile) widget : this one make possible for anyone - with technical skills or not - to contribute on a dataset stored on Github or Gitlab, but without having to create an account or even without having to deal with Github or Gitlab at all.
 
-Last but not least Gitribute's widgets are designed to be "copy-paste", so you could share the same source dataset in as many websites you want... **for free !**
+Last but not least Vizboard's widgets are designed to be "copy-paste", so you could share the same source dataset in as many websites you want... **for free !**
 
 <div class="columns is-multiline is-8 is-centered mt-0 mb-4">
   <div class="column is-4 has-text-centered">

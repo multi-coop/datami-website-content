@@ -1,5 +1,5 @@
 <p class="has-text-centered mt-5 mb-0 is-size-7 has-text-grey is-italic">
-  Gitribute est un projet de la coopérative numérique
+  Vizboard est un projet de la coopérative numérique
   <a href="https://multi.coop" target="_blank">
     multi
   </a>

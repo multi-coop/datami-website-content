@@ -7,11 +7,11 @@
     />
 </div>
 
-With Gitribute you can add a customized "consolidation field" to request external APIs, in order to delegate some refinement operations to external services.
+With Vizboard you can add a customized "consolidation field" to request external APIs, in order to delegate some refinement operations to external services.
 
 Each API could be configured independantly.
 
-Once consolidation is configured for a particular table file, a Gitribute widget will display a "consolidation" column (or `field`) on the left side of the table.
+Once consolidation is configured for a particular table file, a Vizboard widget will display a "consolidation" column (or `field`) on the left side of the table.
 
 For each row this consolidation field will display a consolidation button. 
 
@@ -41,4 +41,4 @@ This drawer contains the "old" and "new" values : "old" being the value inside y
 
 To overwrite the "old" value by the "new" one, just select the field(s) you want to overwrite and click on "Validate the changes".
 
-> **Note** : More about how to add consolidation properties to a table dataset, with the Gitribute `gitfile` widget, in the **["Documentation > Widget 'gitfile'"](/docs-gitfile)** section.
+> **Note** : More about how to add consolidation properties to a table dataset, with the Vizboard `gitfile` widget, in the **["Documentation > Widget 'gitfile'"](/docs-gitfile)** section.

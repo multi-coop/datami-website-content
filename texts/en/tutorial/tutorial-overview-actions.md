@@ -1,4 +1,4 @@
-## Get on with Gitribute's main actions
+## Get on with Vizboard's main actions
 
 <div>
   <img

@@ -19,8 +19,8 @@ routes:
         fr: Accueil
         en: Homepage
       description:
-        fr: Page d'accueil de la documentation de Gitribute
-        en: Homepage for Gitribute documentation
+        fr: Page d'accueil de la documentation de Vizboard
+        en: Homepage for Vizboard documentation
       keywords:
         fr: [ accueil, landing ]
         en: [ homepage, landing ]
@@ -222,11 +222,11 @@ routes:
   #     summary: true
   #     contrib: true
   #     name:
-  #       fr: Pourquoi Gitribute ?
-  #       en: Why Gitribute ?
+  #       fr: Pourquoi Vizboard ?
+  #       en: Why Vizboard ?
   #     description:
-  #       fr: Pourquoi nous développons le logiciel libre Gitribute ?
-  #       en: Why are we developping the free software Gitribute ?
+  #       fr: Pourquoi nous développons le logiciel libre Vizboard ?
+  #       en: Why are we developping the free software Vizboard ?
   #     keywords:
   #       fr: [ pourquoi, simplifier, aider, ouvrir, réduire les coûts, open data ]
   #       en: [ why, simplify, help, open, cheap, open data ]
@@ -437,8 +437,8 @@ routes:
   #       fr: "100% libre & gratuit"
   #       en: "100% free"
   #     description:
-  #       fr: Gitribute est entièrement open source
-  #       en: Gitribute is entirely free & open source
+  #       fr: Vizboard est entièrement open source
+  #       en: Vizboard is entirely free & open source
   #     keywords:
   #       fr: [ open source, free ]
   #       en: [ open  source, free ]
@@ -512,8 +512,8 @@ routes:
   #       options:
   #         columns-size: full
   #         name:
-  #           fr: Ils soutiennent Gitribute
-  #           en: They support Gitribute
+  #           fr: Ils soutiennent Vizboard
+  #           en: They support Vizboard
   #       files:
   #         fr: ./texts/fr/landing/landing-clients.md
   #         en: ./texts/en/landing/landing-clients.md
@@ -1147,8 +1147,8 @@ routes:
   #     contrib: true
   #     summary: true
   #     name:
-  #       fr: Intégration de Gitribute dans un site web
-  #       en: Gitribute's integration in a website
+  #       fr: Intégration de Vizboard dans un site web
+  #       en: Vizboard's integration in a website
   #   sections: 
   #     - name: integration
   #       component: TextComponent
@@ -1356,8 +1356,8 @@ routes:
   #       options:
   #         columns-size: three-quarters
   #         name:
-  #           fr: Adapter Gitribute à votre site
-  #           en: Adapt Gitribute for your website
+  #           fr: Adapter Vizboard à votre site
+  #           en: Adapt Vizboard for your website
   #       files:
   #         fr: ./texts/fr/installation/installation-adapt.md
   #         en: ./texts/en/installation/installation-adapt.md
@@ -2492,8 +2492,8 @@ routes:
         fr: Espace de blog
         en: Blog section
       description:
-        fr: Espace de blog du projet Gitribute
-        en: Blog section of Gitribute
+        fr: Espace de blog du projet Vizboard
+        en: Blog section of Vizboard
       keywords:
         fr: [ blog ]
         en: [ blog ]

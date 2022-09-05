@@ -1,5 +1,5 @@
 ---
-title: How does Gitribute work ?
+title: How does Vizboard work ?
 tags: [ tech, R&D ]
 created: 17/07/2022
 author: Julien Paris
@@ -7,15 +7,15 @@ author: Julien Paris
 
 Let's have a look under the hood...
 
-## Gitribute is a widgets collection
+## Vizboard is a widgets collection
 
 Gitribute is a web application providing a serie of "[widgets](https://en.wikipedia.org/wiki/Web_widget)". It means that **you could integrate it inside any website**, and you don't have to rely on a centralized website to use any of our widgets.
 
 The term "widget" is equivalent to "web component", it's a way to display an independent dynamic component inside a website. The "widget" approach is similar to the old-fashion _iframe_, but is more flexible and adapted to modern web than iframes.
 
-## Gitribute relies on Git providers
+## Vizboard relies on Git providers
 
-The very difference with proprietary solutions (like GoogleSheet or Airtable) or with equivalent open sourced solutions (like [nocoDB](https://www.nocodb.com/) or [Baserow](https://baserow.io/)) is that the data you edit with Gitribute is not stored on our servers. 
+The very difference with proprietary solutions (like GoogleSheet or Airtable) or with equivalent open sourced solutions (like [nocoDB](https://www.nocodb.com/) or [Baserow](https://baserow.io/)) is that the data you edit with Vizboard is not stored on our servers. 
 
 Your data is where you want it to be, for instance on your own Gitlab server or on your Github organization.
 
@@ -25,7 +25,7 @@ It means if you already have your own Gitlab account (or better, your own Gitlab
 
 This way your data stays where it was, protected, and you can manage the incoming contributions as you would manage any "pull request".
 
-> **Note** : More about our "no-code" solutions benchmark in the **["Why Gitribute ? > Benchmark"](/benchmark)** section
+> **Note** : More about our "no-code" solutions benchmark in the **["Why Vizboard ? > Benchmark"](/benchmark)** section
 
 ## Contribute anonymously (if you feel a bit shy)
 
@@ -33,11 +33,11 @@ Gitribute uses the [tokens](https://docs.gitlab.com/ee/user/profile/personal_acc
 
 To avoid asking to your grandpa' or your grandma' to create an account on those providers, and even worse to avoid asking them to create their own personal tokens, **Gitribute uses a default "ghost user token" (or your own)**.
 
-If you want anonymous contribution onto your data with Gitribute, it is necessary to set your repo and related branches on Github or Gitlab for this "ghost user"'s actions (GET, PUT, POST). 
+If you want anonymous contribution onto your data with Vizboard, it is necessary to set your repo and related branches on Github or Gitlab for this "ghost user"'s actions (GET, PUT, POST). 
 
 > **Note** : Basically you don't want this user's token to make "pushes" on your `main` branch for instance...
 
-To sum up, when you set up your Gitribute widget from scratch you have to :
+To sum up, when you set up your Vizboard widget from scratch you have to :
 
 - 1/ Create your own "ghost user" / default token
 - 2/ Set up the target repo to allow this token to make contributions (create branches, but not pushes directly to your `main` branch)

@@ -1,6 +1,6 @@
 
 <h1 class="has-text-centered">
-  Why Gitribute ?
+  Why Vizboard ?
 </h1>
 
 ---

@@ -11,9 +11,9 @@ Comment s'opère la transition entre :
 
  et :
 
-> — _[Monsieur, auriez-vous une minute pour parler de Gitribute ?](https://www.youtube.com/watch?v=sghOYbR_fXA&ab_channel=TikTokTaciousShorts)_
+> — _[Monsieur, auriez-vous une minute pour parler de Vizboard ?](https://www.youtube.com/watch?v=sghOYbR_fXA&ab_channel=TikTokTaciousShorts)_
 
-Cette partie se focialise sur les travaux préparatoire et le _brainstorming_ qui ont permis de passer d'une bonne idée encore floue au projet Gitribute tel qu'il est aujourd'hui : [un plan, une feuille de route, une architecture "agile"](https://www.linkedin.com/pulse/agile-approach-methodology-carlo-occhiena/).
+Cette partie se focialise sur les travaux préparatoire et le _brainstorming_ qui ont permis de passer d'une bonne idée encore floue au projet Vizboard tel qu'il est aujourd'hui : [un plan, une feuille de route, une architecture "agile"](https://www.linkedin.com/pulse/agile-approach-methodology-carlo-occhiena/).
 
 "_There's no wizard jizz in [making stuff](https://www.youtube.com/watch?v=N4IfPtl3W_M&ab_channel=exurb1a), [only a lot of engineering](https://www.youtube.com/watch?v=qE0UimODxNg&ab_channel=exurb1a)_"
 
@@ -41,7 +41,7 @@ Nous sommes fiers (et un peu gênés aussi) d'affirmer notre `#passionSchema`...
 
 Gitribute started with an idea, while sitting at a cafe near Paris, outside, with a bright sun on a sunny sunday. No laptop around.
 
-We started designing Gitribute a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
+We started designing Vizboard a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
 
 Keeping on with this approach the "wireframes" you will se below are more ideas or sketches than real design canvases. But drawing can still be relevant and more straight-to-the-point, even in the digital world.
 

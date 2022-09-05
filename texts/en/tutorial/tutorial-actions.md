@@ -8,6 +8,6 @@
     />
 </div>
 
-There are several action buttons appearing by default on the Gitribute widgets.
+There are several action buttons appearing by default on the Vizboard widgets.
 
 These buttons allow the user to make some commons actions we will see in details below.

@@ -27,7 +27,7 @@
       Informations & contact
     </h5>
     <p class="has-text-centered">
-      Pour plus d'infos sur Gitribute <br>
+      Pour plus d'infos sur Vizboard <br>
       contactez-nous à
     </p>
     <p class="has-text-centered is-size-4 mt-6">
@@ -39,7 +39,7 @@
   </div> -->
   <div class="column is-half has-text-centered">
     <p class="has-text-centered my-6">
-      Gitribute est un projet développé<br>
+      Vizboard est un projet développé<br>
       par la 
       <a href="https://www.les-scop.coop/les-scop" target="_blank">
         Société Coopérative et Participative

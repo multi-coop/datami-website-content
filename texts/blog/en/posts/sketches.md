@@ -11,9 +11,9 @@ How do you transition from :
 
  to :
 
-> — _[Sir, do you have a minute to speak about Gitribute ?](https://www.youtube.com/watch?v=sghOYbR_fXA&ab_channel=TikTokTaciousShorts)_
+> — _[Sir, do you have a minute to speak about Vizboard ?](https://www.youtube.com/watch?v=sghOYbR_fXA&ab_channel=TikTokTaciousShorts)_
 
-This section focuses on the early works and brainstorming processes that lead to make Gitribute someting more than a good idea : [a plan, a roadmap, an architecture allowing being "agile"](https://www.linkedin.com/pulse/agile-approach-methodology-carlo-occhiena/).
+This section focuses on the early works and brainstorming processes that lead to make Vizboard someting more than a good idea : [a plan, a roadmap, an architecture allowing being "agile"](https://www.linkedin.com/pulse/agile-approach-methodology-carlo-occhiena/).
 
 _There's no wizard jizz in [making stuff](https://www.youtube.com/watch?v=N4IfPtl3W_M&ab_channel=exurb1a), [only a lot of engineering](https://www.youtube.com/watch?v=qE0UimODxNg&ab_channel=exurb1a)_
 
@@ -39,7 +39,7 @@ We are proud (and a bit ashamed too) to apply `#passionSchema` to our brainstorm
 
 Gitribute started with an idea, while sitting at a cafe near Paris, outside, with a bright sun on a sunny sunday. No laptop around.
 
-We started designing Gitribute a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
+We started designing Vizboard a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
 
 Keeping on with this approach the "wireframes" you will se below are more ideas or sketches than real design canvases. But drawing can still be relevant and more straight-to-the-point, even in the digital world.
 

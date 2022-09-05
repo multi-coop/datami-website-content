@@ -170,8 +170,8 @@ buttons-right:
     component: extLink
     options: [ arrowless ]
     label: 
-      fr: Code source de Gitribute
-      en: Gitribute source code
+      fr: Code source de Vizboard
+      en: Vizboard source code
 
   - name: switch-locale
     component: switchLocaleDropdown
