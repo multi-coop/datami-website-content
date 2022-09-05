@@ -7,7 +7,7 @@ Les champs sont listés horizontalement dans la première ligne de la table, et 
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-CSV-FIELDS"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/edit-csv/edit-csv-fields.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-fields.png"
     />
 </div>
 
@@ -18,7 +18,7 @@ Si cette option est activée dans les `options` du widget un champ peut être pr
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-CSV-FIELD-LOCKED"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/edit-csv/edit-csv-field-locked.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-field-locked.png"
     />
 </div>
 
@@ -33,7 +33,7 @@ Vous pouvez voir ces propriétés pour chacun des champs juste en survolant celu
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-CSV-FIELD-TOOLTIP"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/edit-csv/edit-csv-field.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-field.png"
     />
 </div>
 
@@ -59,7 +59,7 @@ Si un schéma ou/et les propriétés _custom_ sont écrites dans des fichiers ex
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-CSV-FIELDS"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/edit-csv/edit-csv-schema_props.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-schema_props.png"
     />
 </div>
 

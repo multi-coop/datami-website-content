@@ -12,7 +12,7 @@
       target="_blank">
       <img
         style="max-height: 45px; width: auto;"
-        src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/logos/logo-multi-003.png"
+        src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-multi-003.png"
         alt="MULTI"
       />
     </a>

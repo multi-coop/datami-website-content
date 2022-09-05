@@ -1,6 +1,6 @@
 ---
 background-color: white
-logo-left: https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/logo_GITRIBUTE.png
+logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logo_GITRIBUTE.png
 fixed-top: true
 
 buttons-left-centered: true
@@ -147,7 +147,7 @@ buttons-right:
 
   - name: multi
     link: https://multi.coop
-    image: https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/logos/logo-multi-003.png
+    image: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-multi-003.png
     icon: open-in-new
     component: extLink
     options: [ arrowless ]

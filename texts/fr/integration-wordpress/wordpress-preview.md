@@ -3,7 +3,7 @@
 <div style="border: thin solid lightgrey;">
   <img
     alt="WORDPRESS-PREVIEW-SWITCH"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/wordpress/wordpress-preview-help-fr.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/wordpress/wordpress-preview-help-fr.png"
     />
 </div>
 <br>
@@ -13,7 +13,7 @@ Sur la prévisualisation de votre page Wordpress vous pouvez maintenant voir le 
 <div style="border: thin solid lightgrey;">
   <img
     alt="WORDPRESS-PREVIEW"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/wordpress/wordpress-preview.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/wordpress/wordpress-preview.png"
     />
 </div>
 <br>

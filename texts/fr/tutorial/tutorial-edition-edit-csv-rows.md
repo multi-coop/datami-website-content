@@ -3,7 +3,7 @@
 <div>
   <img
     alt="TUTORIAL-EDITION-CSV-CONSOLIDATE-ROW"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/commented/tutorial-csv-edition-fr.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-csv-edition-fr.png"
     />
 </div>
 

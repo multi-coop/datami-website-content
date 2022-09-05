@@ -3,7 +3,7 @@
 <div>
   <img
     alt="TUTORIAL-ACTIONS-USER_TOKEN"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/commented/tutorial-06.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-06.png"
     />
 </div>
 
@@ -16,6 +16,6 @@ Cela étant et si vous êtes familier avec Github et/ou Gitlab (et que vous avez
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-ACTIONS-USER_TOKEN-DIALOG"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/actions-token.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/actions-token.png"
     />
 </div>

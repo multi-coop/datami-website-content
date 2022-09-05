@@ -3,7 +3,7 @@
 <div>
   <img
     alt="TUTORIAL-ACTIONS-CHANGE_LOCALE"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/commented/tutorial-09.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-09.png"
     />
 </div>
 
@@ -12,7 +12,7 @@ As you can imagine the button <span class="icon"><i class="mdi mdi-translate"></
 <div>
   <img
     alt="TUTORIAL-ACTIONS-CHANGE_LOCALE-DIALOG"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/actions-language.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/actions-language.png"
     />
 </div>
 

@@ -3,7 +3,7 @@
 
   <div class="column is-half has-text-centered">
     <img
-      src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/logo_GITRIBUTE_title.png"
+      src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logo_GITRIBUTE_title.png"
       alt="GITRIBUTE LOGO"
     />
   </div>
@@ -12,7 +12,7 @@
       href="https://www.multi.coop/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/logos/logo-multi-003.png"
+        src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-multi-003.png"
         alt="TECH COOPERATIVE MULTI"
       />
     </a>
@@ -53,7 +53,7 @@
       href="https://www.multi.coop/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/logos/logo-multi-003.png"
+        src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-multi-003.png"
         alt="TECH COOPERATIVE MULTI"
       />
     </a>

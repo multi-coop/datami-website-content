@@ -3,7 +3,7 @@
 <div>
   <img
     alt="TUTORIAL-ACTIONS-SEARCH"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/commented/tutorial-contribution.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-contribution.png"
     />
 </div>
 
@@ -20,7 +20,7 @@ You can also add your email if you want the owner to contact you (for instance t
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-ACTIONS-SEARCH"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/contribution-dialog.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/contribution-dialog.png"
     />
 </div>
 
@@ -35,7 +35,7 @@ If the request is correctly accepted by the API a notification will appear on to
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-ACTIONS-SEARCH"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/tutorial/contribution-response.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/contribution-response.png"
     />
 </div>
 

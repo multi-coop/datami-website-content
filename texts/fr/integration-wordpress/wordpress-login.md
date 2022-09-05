@@ -3,7 +3,7 @@
 <div>
   <img
     alt="WORDPRESS-LOGIN"
-    src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/wordpress/wordpress-login.png"
+    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/wordpress/wordpress-login.png"
     />
 </div>
 <br>

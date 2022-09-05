@@ -11,14 +11,14 @@
           style="
             width: 900px;
             height: 100%;
-            background-image: url('https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/screenshots/multifiles-preview-02.png');
+            background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/multifiles-preview-02.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 100% 0%;">
         </div> -->
         <img
           class=" "
-          src="https://raw.githubusercontent.com/multi-coop/gitribute-documentation-content/main/images/screenshots/multifiles-preview-02.png"
+          src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/multifiles-preview-02.png"
           alt="MULTIFILES WIDGET"/>
       </article>
     </div>
