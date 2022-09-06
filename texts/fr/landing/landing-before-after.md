@@ -8,7 +8,7 @@
 </h3>
 
 <div
-  class="tile is-ancestor is--fullheight mt-0"
+  class="tile is-ancestor is--fullheight mt-0 mb-6"
   style="height: 400px; box-shadow: 0 0 30px #D7D7D7">
   <div class="tile is-vertical is-5">
     <div class="tile is-parent px-0 py-0">
@@ -82,15 +82,37 @@
     class="is-hidden-mobile px-2 py-2"
     style="
       position: absolute;
-      left: 39%;
-      top: 58%;
+      left: 10%;
+      bottom: 8%;
       box-shadow: 0 0 20px #D7D7D7;
       background-color: #363636;
-      border-radius: 50%;
+      border-radius: 35px;
       color: white;">
-    <span class="icon is-large is-size-1">
-      <i class="mdi mdi-arrow-right-thick"></i>
-    </span>
+    <span class="is-size-4 has-text-weight-bold mx-4 is-flex">
+      Vos données
+      <!-- <span class="icon is-large is-size-1 pt-2 mx-5">
+        <i class="mdi mdi-arrow-right-thick"></i>
+      </span>
+      vos données avec Vizboard -->
+    <span>
+  </div>
+  <div
+    class="is-hidden-mobile px-2 py-2"
+    style="
+      position: absolute;
+      right: 10%;
+      bottom: 8%;
+      box-shadow: 0 0 20px #D7D7D7;
+      background-color: #363636;
+      border-radius: 35px;
+      color: white;">
+    <span class="is-size-4 has-text-weight-bold mx-4 is-flex">
+      <!-- vos données
+      <span class="icon is-large is-size-1 pt-2 mx-5">
+        <i class="mdi mdi-arrow-right-thick"></i>
+      </span> -->
+      Vos données avec Vizboard
+    <span>
   </div>
   <div
     class="is-hidden-tablet px-2 py-2"

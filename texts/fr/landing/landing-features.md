@@ -3,7 +3,7 @@
 </p> -->
 
 <h1
-  class="has-text-centered is-uppercase mt-6 mb-6 pt-6">
+  class="has-text-centered is-uppercase mt-6 mb-6 pt-6 pb-6">
   Simple
   <span class="mx-5">
     Transparent
@@ -12,17 +12,19 @@
 </h1>
 
 <h3
-  class="has-text-centered mt-6 mb-6">
+  class="has-text-centered mt-6">
   Fonctionnalités principales
 </h3>
 
 <div
-  class="tile is-ancestor is--fullheight mt-6 pt-6"
+  class="tile is-ancestor is--fullheight pt-0 mb-6"
   style="">
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent px-6 py-6">
-      <article class="tile is-child notification is-dark py-2">
-        <p class="title">
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-dark py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-pencil"></i>
           </span>
@@ -33,9 +35,11 @@
         </p>
       </article>
     </div>
-    <div class="tile is-parent px-6 py-6">
-      <article class="tile is-child notification is-white-ter py-2">
-        <p class="title">
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-white-ter py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-share-variant"></i>
           </span>
@@ -48,9 +52,11 @@
     </div>
   </div>
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent px-6 py-6">
-      <article class="tile is-child notification is-white-ter py-2">
-        <p class="title">
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-white-ter py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-account-group"></i>
           </span>
@@ -61,13 +67,15 @@
         </p>
       </article>
     </div>
-    <div class="tile is-parent px-6 py-6">
-      <article class="tile is-child notification is-dark py-2">
-        <p class="title">
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-dark py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-table"></i>
           </span>
-          Data visualisation
+          Dataviz
         </p>
         <p class="subtitle pb-4">
           <b>Visualisez</b> vos données sous forme de tableau, de fiches, de graphiques, et de cartographies
@@ -76,9 +84,11 @@
     </div>
   </div>
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent px-6 py-6">
-      <article class="tile is-child notification is-dark py-2">
-        <p class="title">
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-dark py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-currency-usd-off"></i>
           </span>
@@ -90,9 +100,11 @@
         </p>
       </article>
     </div>
-    <div class="tile is-parent px-6 py-6">
-      <article class="tile is-child notification is-white-ter py-2">
-        <p class="title">
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-white-ter py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-content-copy"></i>
           </span>

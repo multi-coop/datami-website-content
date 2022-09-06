@@ -12,7 +12,6 @@
           &
           <b><i>no code</i></b> -->
           Edit, visualize and share your data
-          <br>
           the free and easy way
         </p>
         <p

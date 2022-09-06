@@ -12,7 +12,6 @@
           &
           <b><i>no code</i></b> -->
           Éditez, visualisez et partagez vos données
-          <br>
           en toute simplicité
         </p>
         <p
@@ -20,8 +19,8 @@
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
           Vizboard est un outil <i>no code</i> d'édition et de datavisualisation :
-          <br>
           sans coder, sans abonnement,
+          <!-- <br> -->
           <span style="border-bottom: 1px solid black;">
             et sans souci
           </span>

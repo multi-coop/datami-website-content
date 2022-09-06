@@ -203,7 +203,8 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
               label: 
                 fr: Contactez-nous
                 en: Contact us
@@ -414,7 +415,8 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -1593,13 +1595,15 @@ routes:
             #     en: Roadmap
             - link: https://gitlab.com/multi-coop/gitribute
               icon-left: gitlab
-              rounded: true
+              rounded: false
+              size: is-large
               label: 
                 fr: Code source
                 en: Source code
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
               label: 
                 fr: Nous contacter
                 en: Contact us
