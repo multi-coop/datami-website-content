@@ -205,6 +205,7 @@ routes:
               icon-left: email
               rounded: false
               size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Contactez-nous
                 en: Contact us
@@ -376,6 +377,16 @@ routes:
         files:
           fr: ./texts/fr/main-features/main-features.md
           en: ./texts/en/main-features/main-features.md
+      - name: main-features-visualize
+        component: TextComponent
+        options:
+          columns-size: three-quarters
+          name:
+            fr: Visualiser vos données
+            en: Data-visualisaze your data
+        files:
+          fr: ./texts/fr/main-features/main-features-visualize.md
+          en: ./texts/en/main-features/main-features-visualize.md
       - name: main-features-edit
         component: TextComponent
         options:
@@ -417,6 +428,7 @@ routes:
               icon-left: email
               rounded: false
               size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -1597,6 +1609,7 @@ routes:
               icon-left: gitlab
               rounded: false
               size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Code source
                 en: Source code
@@ -1604,6 +1617,7 @@ routes:
               icon-left: email
               rounded: false
               size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -2311,7 +2325,9 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -2347,7 +2363,9 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -2381,7 +2399,9 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -2415,7 +2435,9 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -2449,7 +2471,9 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us
@@ -2483,7 +2507,9 @@ routes:
           buttons:
             - link: /contact
               icon-left: email
-              rounded: true
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
               label: 
                 fr: Nous contacter
                 en: Contact us

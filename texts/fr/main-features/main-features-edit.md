@@ -14,4 +14,4 @@ La première des fonctionnalités de Vizboard est de permettre à toute personne
 - **Éditer simplement des données hébergées sur Github or Gitlab** (fichiers `csv`, `md`, ou `json`) ;
 - **Permettre à des utilisateurs.rices non identifié.e.s de contribuer à un fichier**, c'est-à-dire en poussant des modifications sur une branche à part et de créer automatiquement une "pull request" ;
 
-> **Note** : Plus de détails sur les fonctionnalités d'édition dans la partie **["Tutoriels > Éditer un document"](/tutorial-edition)**.
+<!-- > **Note** : Plus de détails sur les fonctionnalités d'édition dans la partie **["Tutoriels > Éditer un document"](/tutorial-edition)**. -->
