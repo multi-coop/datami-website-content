@@ -1,5 +1,5 @@
 <div 
-  class="tile is-ancestor is--fullheight mt-5"
+  class="tile is-ancestor is--fullheight mt-5 mb-6"
   style="min-height: 550px">
   <div class="tile is-vertical is-6">
     <div class="tile is-parent">
