@@ -424,7 +424,7 @@ routes:
           buttons-size: half
           custom-class: mt-6
           buttons:
-            - link: /contact
+            - link: "mailto:contact@multi.coop"
               icon-left: email
               rounded: false
               size: is-large

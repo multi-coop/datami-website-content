@@ -18,11 +18,20 @@
           class="subtitle mt-4"
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
-          Vizboard est un outil <i>no code</i> d'édition et de datavisualisation :
-          sans coder, sans abonnement,
-          <!-- <br> -->
-          <span style="border-bottom: 1px solid black;">
-            et sans souci
+          <!-- Vizboard est un outil <i>no code</i> d'édition et de datavisualisation : -->
+          <!-- Vizboard est  -->
+          <span>
+            <i>No code</i>,
+          </span>
+          <span>
+            sans abonnement,
+          </span>
+          <span>
+            sans surcoût,
+          </span>
+          <span
+            style="border-bottom: 1px solid black;">
+           sans souci
           </span>
         </p>
       </article>
@@ -55,7 +64,7 @@
         </article>
         <article class="tile is-5 is-child notification is-white py-1 px-1">
           <a
-            href="/contact?locale=fr"
+            href="mailto:contact@multi.coop"
             class="button is-dark is-large is-fullwidth"
             type="button"
             style="box-shadow: -5px 5px 5px #D7D7D7">

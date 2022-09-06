@@ -9,9 +9,9 @@
 
 <div
   class="tile is-ancestor is--fullheight mt-0 mb-6"
-  style="height: 400px; box-shadow: 0 0 30px #D7D7D7">
-  <div class="tile is-vertical is-5">
-    <div class="tile is-parent px-0 py-0">
+  style="height: 400px;">
+  <div class="tile is-vertical is-6">
+    <div class="tile is-parent px-6 py-0">
       <article
         class="tile is-child notification has-background-dark pr-2 pl-2 py-2"
         style="border-radius: 0;">
@@ -45,8 +45,10 @@
       </article>
     </div>
   </div>
-  <div class="tile is-vertical is-7">
-    <div class="tile is-parent px-0 py-0">
+  <div class="tile is-vertical is-6">
+    <div
+      class="tile is-parent px-6 py-0"
+      style="box-shadow: 0 0 30px #D7D7D7">
       <article class="tile is-child notification has-background-white-ter px-0 py-0">
         <div
           class="content mb-0 is-hidden-mobile"
@@ -89,7 +91,7 @@
       border-radius: 35px;
       color: white;">
     <span class="is-size-4 has-text-weight-bold mx-4 is-flex">
-      Vos données
+      Vos données chez vous
       <!-- <span class="icon is-large is-size-1 pt-2 mx-5">
         <i class="mdi mdi-arrow-right-thick"></i>
       </span>
@@ -100,7 +102,7 @@
     class="is-hidden-mobile px-2 py-2"
     style="
       position: absolute;
-      right: 10%;
+      right: 8%;
       bottom: 8%;
       box-shadow: 0 0 20px #D7D7D7;
       background-color: #363636;

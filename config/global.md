@@ -1,5 +1,6 @@
 ---
-app_name: Vizboard docs
+app_name: Vizboard
+show_app_name: true
 app_default_locale: fr
 app_locales: [
   en,
@@ -37,7 +38,7 @@ matomo:
   matomo_track_outlinks: true
 
 seo_keywords: [
-  widget, vizboard, git, nocode, viz, board, map, table, dataviz, wiki,
+  widget, vizboard, git, no code, viz, board, map, table, dataviz, wiki,
   csv, md, json
 ]
 

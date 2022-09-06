@@ -18,11 +18,14 @@
           class="subtitle mt-4"
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
-          Vizboard is a <i>no code</i> datavizualisation tool :
+          <!-- Vizboard is a <i>no code</i> datavizualisation tool : -->
           <br>
-          no coding, no subscription,
-          <span style="border-bottom: 1px solid black;">
-            and no pain
+          No coding,
+          no subscription,
+          no hiiden cost,
+          <span
+            style="border-bottom: 1px solid black;">
+            no pain
           </span>
         </p>
       </article>
