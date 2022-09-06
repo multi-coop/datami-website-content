@@ -12,33 +12,34 @@
   </ul>
 </p> -->
 
-<div class="columns is-multiline mb-6 pb-6">
+<div class="columns is-multiline mb-6 pb-6 is-size-4">
   <div class="column">
     <article
       class="notification"
       style="box-shadow: -5px 5px 5px #D7D7D7 ;">
-      Manipuler des données complexes et évolutives
+      Manipuler des données <b>complexes</b> et <b>évolutives</b>
     </article>
   </div>
   <div class="column">
     <article
       class="notification"
       style="box-shadow: -5px 5px 5px #D7D7D7 ;">
-      Permettre à sa communauté de contribuer
+      Permettre à sa communauté de <b>contribuer</b>
     </article>
   </div>
   <div class="column">
     <article
       class="notification"
       style="box-shadow: -5px 5px 5px #D7D7D7 ;">
-      Simplifier la contribution de façon sécurisée
+      Simplifier la contribution de 
+      <b>façon sécurisée</b>
     </article>
   </div>
   <div class="column">
     <article
       class="notification"
       style="box-shadow: -5px 5px 5px #D7D7D7 ;">
-      Faire les premiers pas vers une politique d'open data
+      Faire les premiers pas vers une politique d'<b>open data</b>
     </article>
   </div>
 </div>
