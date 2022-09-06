@@ -12,7 +12,7 @@
 </h1>
 
 <h3
-  class="has-text-centered mt-6">
+  class="has-text-centered mt-6 mb-5">
   Fonctionnalités principales
 </h3>
 

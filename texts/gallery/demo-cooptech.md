@@ -7,7 +7,7 @@
 
   <!-- GITRIBUTE WIDGET'S HTML BLOCK-->
   <multi-gitribute-file
-    title="Liste des coopératives de la tech en France - csv ( semicolon separator)"
+    title="Liste des coopératives de la tech en France"
     gitfile="https://github.com/multi-coop/gitribute-content-test/blob/main/data/csv/cooptech/Annuaire-SCOP-SCIC-tech-France.csv"
     options='{
       "height": "500px",

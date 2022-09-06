@@ -30,8 +30,8 @@ buttons-left:
         # hash: section-landing-clients
         component: simpleLink
         label: 
-          fr: Ils utilisent Vizboard
-          en: They use Vizboard
+          fr: Ils soutiennent Vizboard
+          en: They support Vizboard
       - name: simplify
         link: /
         scrollTo: landing-simplify

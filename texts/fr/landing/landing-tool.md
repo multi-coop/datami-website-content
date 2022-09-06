@@ -4,8 +4,8 @@
   <div class="tile is-vertical is-8">
     <div class="tile is-parent">
       <article
-        class="tile is-child notification has-background-white-ter px-2 py-2"
-        style="box-shadow: -5px 5px 5px #D7D7D7">
+        class="tile is-child notification has-background-white-ter px-0 py-0"
+        style="box-shadow: 0 0 20px #D7D7D7;">
         <div 
           class="content is-hidden-mobile"
           style="

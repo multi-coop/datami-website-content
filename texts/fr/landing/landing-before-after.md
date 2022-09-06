@@ -118,8 +118,8 @@
     class="is-hidden-tablet px-2 py-2"
     style="
       position: absolute;
-      left: 48%;
-      top: 55%;
+      left: 50%;
+      top: 50%;
       box-shadow: 0 0 20px #D7D7D7;
       background-color: #363636;
       border-radius: 50%;
