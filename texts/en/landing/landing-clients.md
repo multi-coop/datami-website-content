@@ -1,6 +1,6 @@
-<h3 class="has-text-centered mt-6 mb-6">
+<h2 class="has-text-centered mt-6 mb-6">
   They support Multi-Vizboard
-</h3>
+</h2>
 
 <div class="columns is-multiline is-8 is-mobile is-vcentered is-centered mt-0 mb-6">
   <div class="column is-3 has-text-centered">

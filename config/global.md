@@ -1,5 +1,5 @@
 ---
-app_name: Vizboard
+app_name: Multi Vizboard
 show_app_name: true
 app_default_locale: fr
 app_locales: [

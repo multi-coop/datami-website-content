@@ -1,7 +1,7 @@
-<h1
+<h2
   class="has-text-centered mt-6 mb-6 pt-6">
   Idéal to...
-</h1>
+</h2>
 
 <div class="columns is-multiline mb-6 pb-6 is-size-4">
   <div class="column">

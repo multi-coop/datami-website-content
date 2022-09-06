@@ -4,17 +4,17 @@
 
 <h1
   class="has-text-centered is-uppercase mt-6 mb-6 pt-6 pb-6">
-  Simple
-  <span class="mx-5">
-    Transparent
+  Simple.
+  <span class="">
+    Transparent.
   </span>
   Collaboratif
 </h1>
 
-<h3
+<h2
   class="has-text-centered mt-6 mb-5">
   Fonctionnalités principales
-</h3>
+</h2>
 
 <div
   class="tile is-ancestor is--fullheight pt-0 mb-6"

@@ -9,10 +9,10 @@ buttons-left:
 
   - name: vizboard 
     # icon: cog
-    link: /
+    # link: /
     # hash: features
-    component: simpleLink
-    # component: dropdownLink
+    # component: simpleLink
+    component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
       fr: Accueil

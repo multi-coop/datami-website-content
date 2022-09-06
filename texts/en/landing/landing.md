@@ -21,8 +21,8 @@
           <!-- Vizboard is a <i>no code</i> datavizualisation tool : -->
           <br>
           No coding,
-          no subscription,
-          no hiiden cost,
+          <!-- no subscription, -->
+          no hidden cost,
           <span
             style="border-bottom: 1px solid black;">
             no pain

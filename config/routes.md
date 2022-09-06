@@ -201,7 +201,7 @@ routes:
           custom-class: my-6
           buttons-size: one-third
           buttons:
-            - link: /contact
+            - link: "mailto:contact@multi.coop"
               icon-left: email
               rounded: false
               size: is-large

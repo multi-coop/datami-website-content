@@ -2,10 +2,10 @@
   Simplifiez-vous les données !
 </p> -->
 
-<h3
+<h2
   class="has-text-centered mt-6 mb-6">
   Make your raw data understandable
-</h3>
+</h2>
 
 <div
   class="tile is-ancestor is--fullheight mt-0 mb-6"

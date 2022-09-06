@@ -23,9 +23,9 @@
           <span>
             <i>No code</i>,
           </span>
-          <span>
+          <!-- <span>
             sans abonnement,
-          </span>
+          </span> -->
           <span>
             sans surcoût,
           </span>

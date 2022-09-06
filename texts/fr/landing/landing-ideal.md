@@ -1,7 +1,7 @@
-<h1
+<h2
   class="has-text-centered mt-6 mb-6 pt-6">
   Idéal pour...
-</h1>
+</h2>
 
 <!-- <p class="is-size-3">
   <ul>
