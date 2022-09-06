@@ -39,7 +39,7 @@
     <article
       class="notification"
       style="box-shadow: -5px 5px 5px #D7D7D7 ;">
-      Faire les premiers pas vers une politique d'<b>open data</b>
+      Faire le premier pas d'une politique d'<b>open data</b>
     </article>
   </div>
 </div>

@@ -29,7 +29,7 @@
     <
       class="notification"
       style="box-shadow: -5px 5px 5px #D7D7D7 ;">
-      Make the first steps to begin an <b>open data</b> policy
+      Make the first step of your <b>open data</b> policy
     </article>
   </div>
 </div>
