@@ -65,13 +65,28 @@ routes:
         options:
           columns-size: full
           # hero: true
-          custom-class: my-6 pb-6
+          custom-class: mt-6
           name:
             fr: Fonctionnalités
             en: Features
         files:
           fr: ./texts/fr/landing/landing-features.md
           en: ./texts/en/landing/landing-features.md
+      - name: btn-to-contact
+        component: ButtonsComponent
+        options:
+          columns-size: three-quarters
+          custom-class: mt-0 pt-0 mb-6 pt-6
+          buttons-size: one-third
+          buttons:
+            - link: "mailto:contact@multi.coop"
+              icon-left: email
+              rounded: false
+              size: is-large
+              style: "box-shadow: -5px 5px 5px #D7D7D7;"
+              label: 
+                fr: Contactez-nous
+                en: Contact us
       - name: landing-tool
         component: TextComponent
         options:

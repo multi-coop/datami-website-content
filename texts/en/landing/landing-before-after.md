@@ -2,10 +2,10 @@
   Simplifiez-vous les données !
 </p> -->
 
-<h2
+<h1
   class="has-text-centered mt-6 mb-6">
   Make your raw data understandable
-</h2>
+</h1>
 
 <div
   class="tile is-ancestor is--fullheight mt-0 mb-6"
@@ -91,7 +91,7 @@
       border-radius: 35px;
       color: white;">
     <span class="is-size-4 has-text-weight-bold mx-4 is-flex">
-      Your data
+      Your data without Vizboard
       <!-- <span class="icon is-large is-size-1 pt-2 mx-5">
         <i class="mdi mdi-arrow-right-thick"></i>
       </span>

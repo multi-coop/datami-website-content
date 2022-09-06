@@ -4,17 +4,17 @@
 
 <h1
   class="has-text-centered is-uppercase mt-6 mb-6 pt-6 pb-6">
-  Simple
-  <span class="mx-5">
-    Transparent
+  Simple.
+  <span class="">
+    Transparent.
   </span>
   Collaborative
 </h1>
 
-<h3
+<h1
   class="has-text-centered mt-6 mb-5">
-  Main features
-</h3>
+  Vizboard's features
+</h1>
 
 <div
   class="tile is-ancestor is--fullheight pt-0 mb-6"
@@ -50,6 +50,22 @@
         </p>
       </article>
     </div>
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-dark py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
+          <span class="icon is-small mr-3">
+            <i class="mdi mdi-pencil"></i>
+          </span>
+          Modération
+        </p>
+        <p class="subtitle pb-4">
+          Control and approve modifications
+          done by your community
+        </p>
+      </article>
+    </div>
   </div>
   <div class="tile is-vertical is-4">
     <div class="tile is-parent px-5 py-5">
@@ -82,11 +98,42 @@
         </p>
       </article>
     </div>
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-white-ter py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
+          <span class="icon is-small mr-3">
+            <i class="mdi mdi-translate"></i>
+          </span>
+          Multilingue
+        </p>
+        <p class="subtitle pb-4">
+          Vizboard is tanslated to<b>french</b> and to <b>french</b>
+        </p>
+      </article>
+    </div>
   </div>
   <div class="tile is-vertical is-4">
     <div class="tile is-parent px-5 py-5">
       <article
         class="tile is-child notification is-dark py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
+          <span class="icon is-small mr-3">
+            <i class="mdi mdi-poll"></i>
+          </span>
+          <i>Analytics</i> & RGPD
+        </P>
+        <p class="subtitle pb-4">
+          Vizboard is compatible with Matomo analytics
+          and is conform to RGPD
+        </p>
+      </article>
+    </div>
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-white-ter py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
         <p class="title pt-4">
           <span class="icon is-small mr-3">
@@ -102,7 +149,7 @@
     </div>
     <div class="tile is-parent px-5 py-5">
       <article
-        class="tile is-child notification is-white-ter py-2"
+        class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
         <p class="title pt-4">
           <span class="icon is-small mr-3">

@@ -11,10 +11,10 @@
   Collaboratif
 </h1>
 
-<h2
+<h1
   class="has-text-centered mt-6 mb-5">
-  Fonctionnalités principales
-</h2>
+  Fonctionnalités de Vizboard
+</h1>
 
 <div
   class="tile is-ancestor is--fullheight pt-0 mb-6"
@@ -50,6 +50,22 @@
         </p>
       </article>
     </div>
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-dark py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
+          <span class="icon is-small mr-3">
+            <i class="mdi mdi-pencil"></i>
+          </span>
+          Modération
+        </p>
+        <p class="subtitle pb-4">
+          Contrôlez et approuvez les modifications
+          faites par votre communauté
+        </p>
+      </article>
+    </div>
   </div>
   <div class="tile is-vertical is-4">
     <div class="tile is-parent px-5 py-5">
@@ -75,10 +91,25 @@
           <span class="icon is-small mr-3">
             <i class="mdi mdi-table"></i>
           </span>
-          Dataviz
+          Data-visualisation
         </p>
         <p class="subtitle pb-4">
           <b>Visualisez</b> vos données sous forme de tableau, de fiches, de graphiques, et de cartographies
+        </p>
+      </article>
+    </div>
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-white-ter py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
+          <span class="icon is-small mr-3">
+            <i class="mdi mdi-translate"></i>
+          </span>
+          Multilingue
+        </p>
+        <p class="subtitle pb-4">
+          Vizboard est traduit à l'<b>anglais</b> et en <b>français</b>
         </p>
       </article>
     </div>
@@ -90,19 +121,35 @@
         style="box-shadow: -5px 5px 5px #D7D7D7;">
         <p class="title pt-4">
           <span class="icon is-small mr-3">
-            <i class="mdi mdi-currency-usd-off"></i>
+            <i class="mdi mdi-poll"></i>
           </span>
-          Open source
-        </p>
+          <i>Analytics</i> & RGPD
+        </P>
         <p class="subtitle pb-4">
-          Le code source est <b>100% gratuit</b>, sans abonnement, sans location de serveur...
-          C'est un <b>logiciel libre</b> !
+          Vizboard est compatible avec l'outil d'analyse web Matomo
+          et est conforme au Règlement Général sur la Protection des Données (RGPD)
         </p>
       </article>
     </div>
     <div class="tile is-parent px-5 py-5">
       <article
         class="tile is-child notification is-white-ter py-2"
+        style="box-shadow: -5px 5px 5px #D7D7D7;">
+        <p class="title pt-4">
+          <span class="icon is-small mr-3">
+            <i class="mdi mdi-currency-usd-off"></i>
+          </span>
+          Open source
+        </p>
+        <p class="subtitle pb-4">
+          Le code source est <b>100% gratuit</b> et <b>100% transparent</b>...
+          C'est un <b>logiciel libre</b> !
+        </p>
+      </article>
+    </div>
+    <div class="tile is-parent px-5 py-5">
+      <article
+        class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
         <p class="title pt-4">
           <span class="icon is-small mr-3">
