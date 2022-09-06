@@ -17,7 +17,7 @@ Bref... si on met l'esthétique et la philosophie de comptoir de côté, accordo
 
 ### Des widgets pour la prévisualisation et l'édition de fichiers `csv`
 
-Gitribute s'adresse à des utilisateurs les plus usuels qui soient (pas à des techniciens de la donnée). Donc nous n'avons pas cherché des innovations trop originales en termes d'UX. Nous voulions des interfaces que même Donald Trump serait en mesure de comprendre (même si ce n'est pas exactement le profil de _commoner_ que nous visons vraiment). Nous cherchons des interfaces accessibles et habituelles pour le plus grand nombre : 
+Vizboard s'adresse à des utilisateurs les plus usuels qui soient (pas à des techniciens de la donnée). Donc nous n'avons pas cherché des innovations trop originales en termes d'UX. Nous voulions des interfaces que même Donald Trump serait en mesure de comprendre (même si ce n'est pas exactement le profil de _commoner_ que nous visons vraiment). Nous cherchons des interfaces accessibles et habituelles pour le plus grand nombre : 
 
 - Une table.
 - Une recherche textuelle.

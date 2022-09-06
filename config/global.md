@@ -1,5 +1,5 @@
 ---
-app_name : Vizboard docs
+app_name: Vizboard docs
 app_default_locale: fr
 app_locales: [
   en,

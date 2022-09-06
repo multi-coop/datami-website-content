@@ -21,7 +21,7 @@ C'est parti pour un petit trip...
 
 ## Sketches & wireframes
 
-Gitribute posséde quelques fonctions et composants principaux (_core_), réutilisables par d'autres composants.
+Vizboard posséde quelques fonctions et composants principaux (_core_), réutilisables par d'autres composants.
 
 Les fonctions _core_ sont stockées dans le répertoire `utils` : requêtes des APIs, conversion d'un csv brut à un objet javascript, etc...
 
@@ -39,7 +39,7 @@ Nous sommes fiers (et un peu gênés aussi) d'affirmer notre `#passionSchema`...
 
 🚧  &nbsp; `Translation in progress...`
 
-Gitribute started with an idea, while sitting at a cafe near Paris, outside, with a bright sun on a sunny sunday. No laptop around.
+Vizboard started with an idea, while sitting at a cafe near Paris, outside, with a bright sun on a sunny sunday. No laptop around.
 
 We started designing Vizboard a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
 

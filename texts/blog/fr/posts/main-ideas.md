@@ -5,7 +5,7 @@ created: 17/07/2022
 author: Julien Paris
 ---
 
-Gitribute est conçu comme un "micro-service" léger, qui vous laisse choisir parmi une collection réduite de widgets réutilisables pour **afficher les données que vous voulez**, **où vous voulez**, le tout **gratuitement**.
+Vizboard est conçu comme un "micro-service" léger, qui vous laisse choisir parmi une collection réduite de widgets réutilisables pour **afficher les données que vous voulez**, **où vous voulez**, le tout **gratuitement**.
 
 Pour rendre cela possible techniquement nous avons conçu Vizboard comme un projet _pure frontend_..
 
@@ -28,7 +28,7 @@ Tous les jours nous (enfin nous, développeurs) profitons de ces services pour :
 
 Du coup si nous - développeurs - hébergeons nos données et notre code sur ces services tout le temps, pourquoi ne pas tenter de vous faire bénéficier vous aussi (pas développeur) de tout cela ?
 
-**La base de données préférée de Vizboard est "pas de base de donnée du tout"**, du moins au sens habituel du terme. En lieu et place de base de donnée dédiée pour Vizboard (qui aurait pu être un serveur de _backend_ + BDD en SQL, PostGreSQL, MongoDB...) **Gitribute s'appuie sur Github ou Gitlab (qu'on appellera ici des "services git") pour le stockage des données**, et donc sur la possibilité que les données soient sur un _repo_ qui vous appartient.
+**La base de données préférée de Vizboard est "pas de base de donnée du tout"**, du moins au sens habituel du terme. En lieu et place de base de donnée dédiée pour Vizboard (qui aurait pu être un serveur de _backend_ + BDD en SQL, PostGreSQL, MongoDB...) **Vizboard s'appuie sur Github ou Gitlab (qu'on appellera ici des "services git") pour le stockage des données**, et donc sur la possibilité que les données soient sur un _repo_ qui vous appartient.
 
 Il existe un documentation extrêmement fournie sur les APIs de ces services (Gitlab est un logiciel libre par ailleurs), APIs qui permettent de modifier ces données à distance.
 
@@ -65,7 +65,7 @@ Les données, il y en a pour tous les goûts et toutes les couleurs...
 
 En général si vous ne produisez pas vous-même un jeu de données, les données que vous recevez le sont dans un format et dans un état que vous n'attendiez pas forcément... Et des fois, souvent, plutôt l'inverse.
 
-Une idée centrale dans le projet Vizboard est que Vizboard devrait **pouvoir afficher tout type de donnée arrivant dans un fichier de type commun** (`csv`, `json`, `md`), quel que soit leur contenu : **Gitribute tente de rester "data-agnostique"**.
+Une idée centrale dans le projet Vizboard est que Vizboard devrait **pouvoir afficher tout type de donnée arrivant dans un fichier de type commun** (`csv`, `json`, `md`), quel que soit leur contenu : **Vizboard tente de rester "data-agnostique"**.
 
 Cette intention est fondatrice dans la manière dont nous avons conçu Vizboard et dans sa capacité à afficher des données. Pour aller au bout de cette idée nous avons permis - si l'utilisateur le souhaite - d'adjoindre différentes options de visualisations à un jeu de données afin qu'il soit rendu aussi agréablement que voulu.
 
@@ -73,7 +73,7 @@ En partant du principe que la manière la plus commune de produire des jeux de d
 
 ### Une collection de widgets...
 
-Gitribute est constitué d'une petite collection de widgets que vous pouvez utiliser séparément ou conjointement.
+Vizboard est constitué d'une petite collection de widgets que vous pouvez utiliser séparément ou conjointement.
 
 Nous ne souhaitions pas centraliser et stocker vos données sur un même service. Nous ne souhaitions pas non plus obliger vos utilisateurs à se rendre sur un domaine en particulier pour consulter _vos_ données. **Nous voulions que vous puissiez valoriser vos données sur votre propre site**.
 

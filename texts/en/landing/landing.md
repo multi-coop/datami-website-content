@@ -1,7 +1,7 @@
 <div 
   class="tile is-ancestor is--fullheight mt-5"
   style="min-height: 550px">
-  <div class="tile is-vertical is-7">
+  <div class="tile is-vertical is-6">
     <div class="tile is-parent">
       <article class="tile is-child notification is-white">
         <p
@@ -23,26 +23,17 @@
           <br>
           no coding, no subscription,
           <span style="border-bottom: 1px solid black;">
-            and without pain
+            and no pain
           </span>
         </p>
       </article>
     </div>
-    <div class="tile">
+    <!-- <div class="tile">
       <div class="tile is-parent is-vertical">
         <article class="tile is-child notification is-white py-6">
-          <!-- <p class="is-size-5 has-text-grey is-italic has-text-centered">
-            Personnalisable
-          </p>
-          <p class="subtitle has-text-grey is-italic has-text-centered">
-            Partageable
-          </p>
-          <p class="subtitle has-text-grey is-italic has-text-centered">
-            Sans abonnement
-          </p> -->
         </article>
       </div>
-    </div>
+    </div> -->
     <div class="tile">
       <div class="tile is-parent">
         <article class="tile is-5 is-child notification is-white py-1 px-1">
@@ -52,9 +43,9 @@
             type="button"
             style="box-shadow: -5px 5px 5px #D7D7D7">
             <span class="has-text-white">
-              <span class="icon is-small">
+              <!-- <span class="icon is-small">
                 <i class="mdi mdi-arrow-right-thick"></i>
-              </span>
+              </span> -->
               <span>
                 Discover
               </span>
@@ -70,9 +61,9 @@
             type="button"
             style="box-shadow: -5px 5px 5px #D7D7D7">
             <span class="has-text-white">
-              <span class="icon is-small">
+              <!-- <span class="icon is-small">
                 <i class="mdi mdi-arrow-right-thick"></i>
-              </span>
+              </span> -->
               <span>
                 Contact us
               </span>
@@ -82,7 +73,7 @@
       </div>
     </div>
   </div>
-  <div class="tile is-vertical is-5">
+  <div class="tile is-vertical is-6">
     <div class="tile is-parent">
       <article
         class="tile is-child notification has-background-white-ter px-2 py-2"

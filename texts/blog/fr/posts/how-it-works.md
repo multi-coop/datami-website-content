@@ -9,7 +9,7 @@ C'est parti pour un petit coup d'oeil sous le capot.
 
 ## Vizboard est une collection de widgets
 
-Gitribute est une application web fournissant une série de "[widgets](https://en.wikipedia.org/wiki/Web_widget)". Cela signifie que **vous pouvez intégrer Vizboard dans n'importe quel site web**, et que vous n'avez pas besoin de votre propre serveur pour utiliser un widget de Vizboard.
+Vizboard est une application web fournissant une série de "[widgets](https://en.wikipedia.org/wiki/Web_widget)". Cela signifie que **vous pouvez intégrer Vizboard dans n'importe quel site web**, et que vous n'avez pas besoin de votre propre serveur pour utiliser un widget de Vizboard.
 
 Le terme "widget" est équivalent à celui de "composant web", c'est une façon d'afficher au sein d'un site un composant indépendant fourni par un serveur tiers. L'approche "widget" est similaire à celle de la bonne vieille _iframe_, à ceci près que les widgets sont plus flexibles et plus adaptés au web d'aujourd'hui que les _iframes_.
 
@@ -19,7 +19,7 @@ La différence fondamentale de Vizboard avec des solutions propriétaires (type 
 
 Vos données est stockée là où vous le souhaitez, par exemple sur votre propre instance Gitlab ou dans votre propre compte / organisation Github.
 
-**Gitribute n'a pas de serveur, pas de _backend_**, mais s'adosse à des services largement populaires comme [Gitlab](https://gitlab.com/), [Github](https://github.com/), ou [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) pour l'hébergement de vos données. Les APIs de ces "services Git" permettent de les visualiser et d'opérer des modifications dessus à distance.
+**Vizboard n'a pas de serveur, pas de _backend_**, mais s'adosse à des services largement populaires comme [Gitlab](https://gitlab.com/), [Github](https://github.com/), ou [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) pour l'hébergement de vos données. Les APIs de ces "services Git" permettent de les visualiser et d'opérer des modifications dessus à distance.
 
 Cela signifie que si vous avez déjà un compte sur Gitlab (ou encore mieux que vous avez votre propre instance Gitlab) vous n'avez pas à louer un serveur supplémentaire pour héberger vos données. Vous pouvez laisser vos données là où elles se trouvent (Gitlab / Github / Mediawiki), et c'est très bien ainsi car ces services Git peuvent déjà faire énormément de choses utiles : garder un historique des versions, l'authentification, la gestion des droits, gérer les `pull requests`...
 
@@ -29,9 +29,9 @@ De cette façon les données restent hébergées et protégées, et vous pouvez 
 
 ## Contribuer anonymement (pour les timides)
 
-Gitribute utilise le système de [jetons personnels (ou _tokens_)](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) fourni par Github et Gitlab pour faire des sauvegardes (ou "commit") et contribuer à des données hébergées sur leurs services.
+Vizboard utilise le système de [jetons personnels (ou _tokens_)](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) fourni par Github et Gitlab pour faire des sauvegardes (ou "commit") et contribuer à des données hébergées sur leurs services.
 
-Pour éviter d'avoir à demander à votre papi ou votre mamie de se créer un compte sur ces outils (ou pire d'avoir à leur demander de se créer un _token_), **Gitribute utilise par défaut un _token_ "fantôme"**.
+Pour éviter d'avoir à demander à votre papi ou votre mamie de se créer un compte sur ces outils (ou pire d'avoir à leur demander de se créer un _token_), **Vizboard utilise par défaut un _token_ "fantôme"**.
 
 Si vous voulez permettre à des utilisateurs de faire des contributions anonymement sur vos données il est nécessaire de configurer avec attention votre _repository_ Github ou Gitlab pour qu'il accepte des actions (PUT, POST, GET) venant de cet utilisateur "fantôme".
 

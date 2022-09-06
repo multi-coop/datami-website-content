@@ -9,7 +9,7 @@ Let's have a look under the hood...
 
 ## Vizboard is a widgets collection
 
-Gitribute is a web application providing a serie of "[widgets](https://en.wikipedia.org/wiki/Web_widget)". It means that **you could integrate it inside any website**, and you don't have to rely on a centralized website to use any of our widgets.
+Vizboard is a web application providing a serie of "[widgets](https://en.wikipedia.org/wiki/Web_widget)". It means that **you could integrate it inside any website**, and you don't have to rely on a centralized website to use any of our widgets.
 
 The term "widget" is equivalent to "web component", it's a way to display an independent dynamic component inside a website. The "widget" approach is similar to the old-fashion _iframe_, but is more flexible and adapted to modern web than iframes.
 
@@ -19,7 +19,7 @@ The very difference with proprietary solutions (like GoogleSheet or Airtable) or
 
 Your data is where you want it to be, for instance on your own Gitlab server or on your Github organization.
 
-So **Gitribute does not have its own backend server**, but relies only on [Gitlab](https://gitlab.com/), [Github](https://github.com/), or [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) servers and APIs to store your data where you put it originally. 
+So **Vizboard does not have its own backend server**, but relies only on [Gitlab](https://gitlab.com/), [Github](https://github.com/), or [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) servers and APIs to store your data where you put it originally. 
 
 It means if you already have your own Gitlab account (or better, your own Gitlab instance), you won't have to rent a server for your database. Let your data be on Gitlab / Github / Mediawiki, those already do a lot : versionning, authentication, pull requests...
 
@@ -29,9 +29,9 @@ This way your data stays where it was, protected, and you can manage the incomin
 
 ## Contribute anonymously (if you feel a bit shy)
 
-Gitribute uses the [tokens](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) system provided by Github or Gitlab to "commit" and contribute to some data stored on one of those git providers.
+Vizboard uses the [tokens](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) system provided by Github or Gitlab to "commit" and contribute to some data stored on one of those git providers.
 
-To avoid asking to your grandpa' or your grandma' to create an account on those providers, and even worse to avoid asking them to create their own personal tokens, **Gitribute uses a default "ghost user token" (or your own)**.
+To avoid asking to your grandpa' or your grandma' to create an account on those providers, and even worse to avoid asking them to create their own personal tokens, **Vizboard uses a default "ghost user token" (or your own)**.
 
 If you want anonymous contribution onto your data with Vizboard, it is necessary to set your repo and related branches on Github or Gitlab for this "ghost user"'s actions (GET, PUT, POST). 
 

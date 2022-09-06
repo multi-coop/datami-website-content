@@ -5,7 +5,7 @@ created: 17/07/2022
 author: Julien Paris
 ---
 
-Gitribute is designed as a light micro-service, letting you chose among a small collection of widgets you can reuse to **display the data you want**, **where you want**, and all that **for free**.
+Vizboard is designed as a light micro-service, letting you chose among a small collection of widgets you can reuse to **display the data you want**, **where you want**, and all that **for free**.
 
 To make this possible we designed Vizboard as a pure frontend.
 
@@ -27,7 +27,7 @@ Every day, we (I mean we developpers) enjoy those services :
 
 So if we - developers - store our data and code over there the whole time, let's keep it that way and let you enjoy this same relief.
 
-**Gitribute's prefered database is "no" database in a common sense, so let it be Github or Gitlab**. There is an extensive documentation to know how to get or modify the data via their APIs.
+**Vizboard's prefered database is "no" database in a common sense, so let it be Github or Gitlab**. There is an extensive documentation to know how to get or modify the data via their APIs.
 
 The other important feature those "Git providers" deliver us is the ability to create `branches` and `pull requests`. Think of it as "contribution proposals" sent to a dataset's owner : **the owner can accept, reject, or amend a proposal before merging it to its dataset**.
 
@@ -62,7 +62,7 @@ Data comes in every shapes and forms.
 
 Usually - if you did not produce this data - they come in forms you don't expected... at all...
 
-A key idea in Vizboard is it should display **any data in a common format**, disregarding what's inside : **Gitribute tries to stay "data agnostic"**.
+A key idea in Vizboard is it should display **any data in a common format**, disregarding what's inside : **Vizboard tries to stay "data agnostic"**.
 
 Taking this as the ground step for displaying data, we also wanted to append - if and only if necessary - more options so your data could be shown as beautiful you imagined it.
 
@@ -70,7 +70,7 @@ Knowing the more common way to write data were the "table" format, we included v
 
 ### A widgets collection...
 
-Gitribute is constituted by of a collection of widgets you can use separatly or compose with.
+Vizboard is constituted by of a collection of widgets you can use separatly or compose with.
 
 We didn't want to centralize a service and/or your data.
 

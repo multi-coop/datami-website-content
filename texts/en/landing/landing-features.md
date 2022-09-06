@@ -20,7 +20,7 @@
   class="tile is-ancestor is--fullheight mt-6 pt-6"
   style="">
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-dark py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -33,7 +33,7 @@
         </p>
       </article>
     </div>
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-white-ter py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -48,7 +48,7 @@
     </div>
   </div>
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-white-ter py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -61,7 +61,7 @@
         </p>
       </article>
     </div>
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-dark py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -76,7 +76,7 @@
     </div>
   </div>
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-dark py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -90,7 +90,7 @@
         </p>
       </article>
     </div>
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-white-ter py-2">
         <p class="title">
           <span class="icon is-small mr-3">

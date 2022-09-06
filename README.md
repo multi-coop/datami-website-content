@@ -1,8 +1,9 @@
-# GITRIBUTE DOCUMENTATION CONTENT
+# VIZBOARD DOCUMENTATION CONTENT
 
-Website : https://gitribute-docs.multi.coop
+<!-- Website : https://gitribute-docs.multi.coop -->
+Website : https://vizboard.netlify.app
 
-This repo contains all contents for the gitribute's documentation website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
+This repo contains all contents for the vizboard's documentation website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
 
 Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative **[multi](https://multi.coop)**.
 

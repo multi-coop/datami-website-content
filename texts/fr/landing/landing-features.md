@@ -20,7 +20,7 @@
   class="tile is-ancestor is--fullheight mt-6 pt-6"
   style="">
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-dark py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -28,12 +28,12 @@
           </span>
           Édition
         </p>
-        <p class="subtitle">
+        <p class="subtitle pb-4">
           Éditez et <b>mettez à jour</b> vos données en quelques clics
         </p>
       </article>
     </div>
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-white-ter py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -41,14 +41,14 @@
           </span>
           Intégration
         </p>
-        <p class="subtitle">
+        <p class="subtitle pb-4">
           <b>Partagez vos données</b> hébergées sur Github, Gitlab, Mediawiki...
         </p>
       </article>
     </div>
   </div>
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-white-ter py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -56,12 +56,12 @@
           </span>
           Contribution
         </p>
-        <p class="subtitle">
+        <p class="subtitle pb-4">
           Permettez à votre <b>communauté</b> de <b>contribuer</b> à améliorer les données
         </p>
       </article>
     </div>
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-dark py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -69,14 +69,14 @@
           </span>
           Data visualisation
         </p>
-        <p class="subtitle">
+        <p class="subtitle pb-4">
           <b>Visualisez</b> vos données sous forme de tableau, de fiches, de graphiques, et de cartographies
         </p>
       </article>
     </div>
   </div>
   <div class="tile is-vertical is-4">
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-dark py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -84,13 +84,13 @@
           </span>
           Open source
         </p>
-        <p class="subtitle">
+        <p class="subtitle pb-4">
           Le code source est <b>100% gratuit</b>, sans abonnement, sans location de serveur...
           C'est un <b>logiciel libre</b> !
         </p>
       </article>
     </div>
-    <div class="tile is-parent">
+    <div class="tile is-parent px-6 py-6">
       <article class="tile is-child notification is-white-ter py-2">
         <p class="title">
           <span class="icon is-small mr-3">
@@ -98,7 +98,7 @@
           </span>
           Essaimage
         </P>
-        <p class="subtitle">
+        <p class="subtitle pb-4">
           <b>Copiez-collez</b> les vizboards <b>dans n'importe quel site</b> en un clic
         </p>
       </article>
