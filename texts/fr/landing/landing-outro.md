@@ -13,7 +13,7 @@
   <hr>
 
   <p class="is-size-4 mb-2 mt-4">
-    Les widgets de Vizboard sont...
+    Les widgets de Datami sont...
   </p>
 
   <hr>

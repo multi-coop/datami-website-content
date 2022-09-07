@@ -1,5 +1,5 @@
 
-# Vizboard widgets overview
+# Datami widgets overview
 
 Gitribute is not a widget per say, it's a **collection of widgets**.
 
@@ -16,4 +16,4 @@ Our [roadmaps](/software) draws some intentions for the planned future developme
 - a widget to have simple but customized maps from data tables ; 
 - ...imagination (and time, money) are the limits.
 
-Those are our ideas of widget to develop, now let's see which are the ones already existing in the Vizboard collection.
+Those are our ideas of widget to develop, now let's see which are the ones already existing in the Datami collection.

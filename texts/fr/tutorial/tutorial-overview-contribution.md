@@ -7,7 +7,7 @@
     />
 </div>
 
-Enfin certaines fonctionnalités sont au coeur du projet de Vizboard : **Contribuer avec Git**.
+Enfin certaines fonctionnalités sont au coeur du projet de Datami : **Contribuer avec Git**.
 
 Faire des contributions ouvertes sur un document, en incluant la possibilité que le propriétaire du document rejette / modifie / accepte votre contribution, n'est pas sans inclure quelques petites nouveautés ne serait-ce qu'en terme de vocabulaire.
 

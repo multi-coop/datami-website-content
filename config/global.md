@@ -1,5 +1,5 @@
 ---
-app_name: Multi Vizboard
+app_name: Datami
 show_app_name: true
 app_default_locale: fr
 app_locales: [
@@ -7,7 +7,7 @@ app_locales: [
   fr
 ]
 app_md_flavor: github
-app_icon: ./images/logo_GITRIBUTE.png
+app_icon: ./images/logos/logo-DATAMI-square-black-01.png
 app_favicon: ./images/logos/favicon_multi.ico
 
 routes: ./config/routes.md

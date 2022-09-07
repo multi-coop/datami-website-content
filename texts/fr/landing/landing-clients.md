@@ -1,6 +1,6 @@
 <h1
   class="has-text-centered mt-6">
-  Ils soutiennent Multi-Vizboard
+  Ils soutiennent Datami
 </h1>
 
 <div class="columns is-multiline is-8 is-mobile is-vcentered is-centered mt-0 mb-6">

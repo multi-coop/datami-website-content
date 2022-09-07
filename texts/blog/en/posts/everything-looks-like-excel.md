@@ -17,7 +17,7 @@ Anyway... if we keep esthetics and philosphical mumbo jumbo aside, let's say **[
 
 ### Widget for `csv` preview and edition
 
-Vizboard's adress is to users as common possible, so no overkill innovations concerning the UX ideas. We wanted an interface even Donald Trump could understand (even if this is not really the kind of commoner we're looking for). An interface anybody could rely to :
+Datami's adress is to users as common possible, so no overkill innovations concerning the UX ideas. We wanted an interface even Donald Trump could understand (even if this is not really the kind of commoner we're looking for). An interface anybody could rely to :
 
 - A table. 
 - A fulltext search.

@@ -15,5 +15,5 @@ VUE_APP_GITRIBUTE_DOCUMENTATION=gitribute-docs.multi.coop
   - 🤐 ... we told you already, it's tooop secret...
 - `VUE_APP_GITRIBUTE_DEPLOY_DOMAIN` : the domain name you deploy your instance on, so the copy-paste button works correctly
   - default value : `gitribute.multi.coop`
-- `VUE_APP_GITRIBUTE_DOCUMENTATION` : the domain for Vizboard documentation
+- `VUE_APP_GITRIBUTE_DOCUMENTATION` : the domain for Datami documentation
   - default value : `gitribute-docs.multi.coop`

@@ -7,7 +7,7 @@
     />
 </div>
 
-Avec Vizboard vous pouvez paramétrer un champ à part appelé "champ de consolidation". Cette colonne sert à requêter des APis tierces afin de déléguer l'enrichissement des données du fichier à des services extérieurs à Gitrbute.
+Avec Datami vous pouvez paramétrer un champ à part appelé "champ de consolidation". Cette colonne sert à requêter des APis tierces afin de déléguer l'enrichissement des données du fichier à des services extérieurs à Gitrbute.
 
 Chaque API peut être configurée indépendamment.
 

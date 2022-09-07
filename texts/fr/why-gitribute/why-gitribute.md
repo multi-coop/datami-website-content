@@ -1,6 +1,6 @@
 
 <h1 class="has-text-centered">
-  Pourquoi Vizboard ?
+  Pourquoi Datami ?
 </h1>
 
 ---

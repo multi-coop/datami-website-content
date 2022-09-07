@@ -7,9 +7,9 @@
     />
 </div>
 
-Once you have finished to edit your file in a Vizboard widget you can send your modifications proposal to the file's owner(s) by clicking on the "Save" button.
+Once you have finished to edit your file in a Datami widget you can send your modifications proposal to the file's owner(s) by clicking on the "Save" button.
 
-**This action - "Save" - is what constitutes a contribution with Vizboard.**
+**This action - "Save" - is what constitutes a contribution with Datami.**
 
 A dialog appears where you can - optionnaly - add a little message to the data owner.
 

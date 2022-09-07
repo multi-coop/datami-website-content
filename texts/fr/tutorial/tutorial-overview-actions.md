@@ -1,4 +1,4 @@
-## Découvrir les actions principales dans Vizboard
+## Découvrir les actions principales dans Datami
 
 <div>
   <img
@@ -7,7 +7,7 @@
     />
 </div>
 
-Des fonctionnalités de type "action" sont accesibles globalement dans les widgets de Vizboard : 
+Des fonctionnalités de type "action" sont accesibles globalement dans les widgets de Datami : 
 
 - **Afficher les informations relatives à un fichier**
 - **Copier le code html d'un widget**

@@ -10,4 +10,4 @@
 
 <br>
 
-Lorsque vous éditez un fichier `csv` avec Vizboard les cellules ont des propriétés qui **dépendent à la fois du type de colonne et des options associées à cette colonne**
+Lorsque vous éditez un fichier `csv` avec Datami les cellules ont des propriétés qui **dépendent à la fois du type de colonne et des options associées à cette colonne**

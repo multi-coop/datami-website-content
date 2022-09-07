@@ -91,11 +91,11 @@
       border-radius: 35px;
       color: white;">
     <span class="is-size-4 has-text-weight-bold mx-4 is-flex">
-      Vos données sans Vizboard
+      Vos données sans Datami
       <!-- <span class="icon is-large is-size-1 pt-2 mx-5">
         <i class="mdi mdi-arrow-right-thick"></i>
       </span>
-      vos données avec Vizboard -->
+      vos données avec Datami -->
     <span>
   </div>
   <div
@@ -113,7 +113,7 @@
       <span class="icon is-large is-size-1 pt-2 mx-5">
         <i class="mdi mdi-arrow-right-thick"></i>
       </span> -->
-      Vos données avec Vizboard
+      Vos données avec Datami
     <span>
   </div>
   <div

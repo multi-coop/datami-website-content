@@ -27,7 +27,7 @@
       Informations & contact
     </h5>
     <p class="has-text-centered">
-      Pour plus d'infos sur Vizboard <br>
+      Pour plus d'infos sur Datami <br>
       contactez-nous à
     </p>
     <p class="has-text-centered is-size-4 mt-6">
@@ -39,7 +39,7 @@
   </div> -->
   <div class="column is-half has-text-centered">
     <p class="has-text-centered my-6">
-      Vizboard est un projet développé<br>
+      Datami est un projet développé<br>
       par la 
       <a href="https://www.les-scop.coop/les-scop" target="_blank">
         Société Coopérative et Participative

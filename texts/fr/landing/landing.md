@@ -18,8 +18,8 @@
           class="subtitle mt-4"
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
-          <!-- Vizboard est un outil <i>no code</i> d'édition et de datavisualisation : -->
-          <!-- Vizboard est  -->
+          <!-- Datami est un outil <i>no code</i> d'édition et de datavisualisation : -->
+          <!-- Datami est  -->
           <span>
             <i>No code</i>,
           </span>

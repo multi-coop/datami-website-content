@@ -10,7 +10,7 @@
 
 <br> 
 
-An `md` (or markdown) file is the most simple type of document you can edit with Vizboard.
+An `md` (or markdown) file is the most simple type of document you can edit with Datami.
 
 **You edit in the left side of the widget, and you see the result on the right side.**
 
@@ -20,7 +20,7 @@ Many organizations uses "pads" (relying on Markdown language) to take notes coll
 
 To learn more about the markdown syntax please[ check this ressource](https://www.markdownguide.org/basic-syntax/).
 
-Editing an `md` file in Vizboard let you use the markdown syntax as you would usually do, so please write it as you want it and [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG).
+Editing an `md` file in Datami let you use the markdown syntax as you would usually do, so please write it as you want it and [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG).
 
 > **Note** :
 >

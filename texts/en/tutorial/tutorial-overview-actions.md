@@ -1,4 +1,4 @@
-## Get on with Vizboard's main actions
+## Get on with Datami's main actions
 
 <div>
   <img

@@ -11,9 +11,9 @@ Comment s'opère la transition entre :
 
  et :
 
-> — _[Monsieur, auriez-vous une minute pour parler de Vizboard ?](https://www.youtube.com/watch?v=sghOYbR_fXA&ab_channel=TikTokTaciousShorts)_
+> — _[Monsieur, auriez-vous une minute pour parler de Datami ?](https://www.youtube.com/watch?v=sghOYbR_fXA&ab_channel=TikTokTaciousShorts)_
 
-Cette partie se focialise sur les travaux préparatoire et le _brainstorming_ qui ont permis de passer d'une bonne idée encore floue au projet Vizboard tel qu'il est aujourd'hui : [un plan, une feuille de route, une architecture "agile"](https://www.linkedin.com/pulse/agile-approach-methodology-carlo-occhiena/).
+Cette partie se focialise sur les travaux préparatoire et le _brainstorming_ qui ont permis de passer d'une bonne idée encore floue au projet Datami tel qu'il est aujourd'hui : [un plan, une feuille de route, une architecture "agile"](https://www.linkedin.com/pulse/agile-approach-methodology-carlo-occhiena/).
 
 "_There's no wizard jizz in [making stuff](https://www.youtube.com/watch?v=N4IfPtl3W_M&ab_channel=exurb1a), [only a lot of engineering](https://www.youtube.com/watch?v=qE0UimODxNg&ab_channel=exurb1a)_"
 
@@ -21,7 +21,7 @@ C'est parti pour un petit trip...
 
 ## Sketches & wireframes
 
-Vizboard posséde quelques fonctions et composants principaux (_core_), réutilisables par d'autres composants.
+Datami posséde quelques fonctions et composants principaux (_core_), réutilisables par d'autres composants.
 
 Les fonctions _core_ sont stockées dans le répertoire `utils` : requêtes des APIs, conversion d'un csv brut à un objet javascript, etc...
 
@@ -39,9 +39,9 @@ Nous sommes fiers (et un peu gênés aussi) d'affirmer notre `#passionSchema`...
 
 🚧  &nbsp; `Translation in progress...`
 
-Vizboard started with an idea, while sitting at a cafe near Paris, outside, with a bright sun on a sunny sunday. No laptop around.
+Datami started with an idea, while sitting at a cafe near Paris, outside, with a bright sun on a sunny sunday. No laptop around.
 
-We started designing Vizboard a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
+We started designing Datami a bit in an "old-fashion" way : with a pen and a paper. No fancy tools like Figma at this precise moment at the cafe.
 
 Keeping on with this approach the "wireframes" you will se below are more ideas or sketches than real design canvases. But drawing can still be relevant and more straight-to-the-point, even in the digital world.
 

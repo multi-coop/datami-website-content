@@ -6,6 +6,6 @@ L'Etat français a par exemple une politique et une feuille de route solides en 
 
 Gitribute suit le mouvement "[frictionless data](https://frictionlessdata.io/)" et certains de ses widgets permettent d'**[appliquer un schéma sur une table](/docs-gitfile)** partagée dans un widget.
 
-Notre intention avec Vizboard est de permettre à des acteurs ayant des moyens plus modeste que l'Etat (!) ou que de grosses compagnies de profiter de tous les bénéfices qu'offrent les schémas.
+Notre intention avec Datami est de permettre à des acteurs ayant des moyens plus modeste que l'Etat (!) ou que de grosses compagnies de profiter de tous les bénéfices qu'offrent les schémas.
 
 En somme si les schémas de données sont aussi vitaux pour l'_open data_ d'une part, et que nous souhaitons que tout citoyen puisse produire de l'_open data_ de qualité d'autre part, **utiliser un schéma sur une table devrait se révéler être une opération triviale ou transparente**.

@@ -13,7 +13,7 @@
 
 <h1
   class="has-text-centered mt-6 mb-5">
-  Vizboard's features
+  Datami's features
 </h1>
 
 <div
@@ -109,7 +109,7 @@
           Multilingue
         </p>
         <p class="subtitle pb-4">
-          Vizboard is tanslated to<b>french</b> and to <b>french</b>
+          Datami is tanslated to<b>french</b> and to <b>french</b>
         </p>
       </article>
     </div>
@@ -126,7 +126,7 @@
           <i>Analytics</i> & RGPD
         </P>
         <p class="subtitle pb-4">
-          Vizboard is compatible with Matomo analytics
+          Datami is compatible with Matomo analytics
           and is conform to RGPD
         </p>
       </article>

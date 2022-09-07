@@ -7,7 +7,7 @@ buttons-left-centered: true
 
 buttons-left:
 
-  - name: vizboard 
+  - name: Datami 
     # icon: cog
     # link: /
     # hash: features
@@ -30,16 +30,16 @@ buttons-left:
         # hash: section-landing-clients
         component: simpleLink
         label: 
-          fr: Ils soutiennent Vizboard
-          en: They support Vizboard
+          fr: Ils soutiennent Datami
+          en: They support Datami
       - name: discover
         link: /
         scrollTo: landing-demo-intro
         # hash: section-landing-demo-gitribute-cooptech
         component: simpleLink
         label: 
-          fr: Découvrir Vizboard
-          en: Discover Vizboard
+          fr: Découvrir Datami
+          en: Discover Datami
       - name: simplify
         link: /
         scrollTo: landing-simplify
@@ -177,8 +177,8 @@ buttons-right:
     component: extLink
     options: [ arrowless ]
     label: 
-      fr: Code source de Vizboard
-      en: Vizboard source code
+      fr: Code source de Datami
+      en: Datami source code
 
   - name: switch-locale
     component: switchLocaleDropdown

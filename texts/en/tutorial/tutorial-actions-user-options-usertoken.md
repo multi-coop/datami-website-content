@@ -7,7 +7,7 @@
     />
 </div>
 
-By default Vizboard uses a "ghost user" token (like the account `multi-contributor` on Github), so you could contribute to a file without having to create an account.
+By default Datami uses a "ghost user" token (like the account `multi-contributor` on Github), so you could contribute to a file without having to create an account.
 
 The token is essential so you could "save" the changes you have made on the widget. This token is mandatory to make `POST` and `PUT` request to your Git provider's API.
 

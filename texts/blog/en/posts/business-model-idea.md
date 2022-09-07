@@ -9,7 +9,7 @@ Developping a free software is something particular in the tech industry.
 
 ### An idea, and a quick proof it could technically work
 
-As any idea, Vizboard's idea didn't come from a blank void.
+As any idea, Datami's idea didn't come from a blank void.
 
 The idea takes its roots in various things we experimented and discussed before between associates, along the years. 
 
@@ -19,17 +19,17 @@ The idea takes its roots in various things we experimented and discussed before 
 
 And as any idea it needed to take a first form to be refined.
 
-The real first pieces of Vizboard's concretization weren't lines of code, they were the [architecture & schemas](/architecture) drawings. And paper is cheap...
+The real first pieces of Datami's concretization weren't lines of code, they were the [architecture & schemas](/architecture) drawings. And paper is cheap...
 
 We already had some experiences in some technologies, some of we wanted to experiment more with for instance to do widgets.
 
-That laid - **an idea and a plan** - coding the "backbone" structure for the Vizboard project was just a matter of a couple of days.
+That laid - **an idea and a plan** - coding the "backbone" structure for the Datami project was just a matter of a couple of days.
 
 ### Real use cases
 
-We worked with **real user cases** since we started to develop Vizboard, even in its early releases.
+We worked with **real user cases** since we started to develop Datami, even in its early releases.
 
-We begun to develop the first bricks of Vizboard as responses to one, then two, then three clients sharing what we considered as similar needs.
+We begun to develop the first bricks of Datami as responses to one, then two, then three clients sharing what we considered as similar needs.
 
 Doing so we can **have real feedbacks** along all the development cycles.
 
@@ -41,7 +41,7 @@ The fundings corresponding to those first issions payed for the POC alone.
 
 ### Mutualize needs  & converge with the roadmap
 
-The main principle we try to follow when it comes to fund the developments of a product like Vizboard.
+The main principle we try to follow when it comes to fund the developments of a product like Datami.
 
 - Open source is not a hobby, it's a job. You need missions to fund it ;
 - A product should respond to expressed needs ;
@@ -63,9 +63,9 @@ But once more, only if though as such and if one is willing to make the effort.
 
 ### Valorize our expertise, not the code
 
-No subscription nor private data will be generated from Vizboard to our benefit.
+No subscription nor private data will be generated from Datami to our benefit.
 
-We won't make a dime from the code itself, but it doesn't mean Vizboard won't help our cooperative to grow.
+We won't make a dime from the code itself, but it doesn't mean Datami won't help our cooperative to grow.
 
 **Gitribute is a growth vector from several perspectives** :
 

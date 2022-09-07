@@ -7,7 +7,7 @@
     />
 </div>
 
-Par défaut Vizboard utilise un jeton (ou _token_) d'un "utilisateur fantôme". Le déploiement de Vizboard sur https://gitribute.multi.coop utilise par exemple le jeton de l'utilisateur fantôme `multi-contributor` par défaut. Grâce à ce _token_ d'un "utilisateur fantôme" il vous est possible de contribuer à un fichier sans avoir à vous créer un compte sur Github ou Gitlab.
+Par défaut Datami utilise un jeton (ou _token_) d'un "utilisateur fantôme". Le déploiement de Datami sur https://gitribute.multi.coop utilise par exemple le jeton de l'utilisateur fantôme `multi-contributor` par défaut. Grâce à ce _token_ d'un "utilisateur fantôme" il vous est possible de contribuer à un fichier sans avoir à vous créer un compte sur Github ou Gitlab.
 
 Ce _token_ est essentiel pour que vous puissiez "sauver" les modifications que vous avez effectuées depuis le widget. Le _token_ permet en effet d'envoyer des requêtes en `PUT` ou en `POST` vers Github ou Gitlab. 
 

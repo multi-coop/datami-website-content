@@ -1,5 +1,5 @@
-## How to integrate your customized Vizboard widgets
+## How to integrate your customized Datami widgets
 
 Widgets are made to be integrated in a third-party website.
 
-Integrating one of Vizboard's widgets follows the same logic : integrate the `html` block of the Vizboard widget and its `script`, and you're done.
+Integrating one of Datami's widgets follows the same logic : integrate the `html` block of the Datami widget and its `script`, and you're done.
