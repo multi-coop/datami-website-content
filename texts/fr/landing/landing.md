@@ -1,6 +1,6 @@
 <div 
-  class="tile is-ancestor is--fullheight mt-5 mb-6"
-  style="min-height: 550px">
+  class="tile is-ancestor is--fullheight mt-6 mb-6"
+  style="height: 70vh; min-height: 400px">
   <div class="tile is-vertical is-6">
     <div class="tile is-parent">
       <article class="tile is-child notification is-white">
@@ -89,7 +89,7 @@
         <div 
           class="content is-hidden-mobile"
           style="
-            width: 900px;
+            width: 50vw;
             height: 100%;
             background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png');
             background-size: cover;

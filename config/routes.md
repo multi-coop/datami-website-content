@@ -48,30 +48,40 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-clients.md
           en: ./texts/en/landing/landing-clients.md
+      - name: landing-demo-intro
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: mt-6 pt-6
+          name:
+            fr: Exemple d'intégration d'un vizboard
+            en: An example of a vizboard
+        files:
+          fr: ./texts/fr/landing/landing-demo-intro.md
+          en: ./texts/en/landing/landing-demo-intro.md
+      - name: demo-gitribute-cooptech
+        component: HtmlComponent
+        options:
+          columns-size: three-quarters
+          custom-class: mb-6 pb-6
+          name:
+            fr: Découvrir
+            en: Discover
+        files:
+          fr: ./texts/gallery/demo-cooptech.md
+          en: ./texts/gallery/demo-cooptech.md
       - name: landing-simplify
         component: TextComponent
         options:
           columns-size: full
           # hero: true
-          # custom-class: my-6
+          custom-class: mt-6 pt-6
           name:
             fr: Simplifier vos dataviz
             en: Simplify your dataviz
         files:
           fr: ./texts/fr/landing/landing-before-after.md
           en: ./texts/en/landing/landing-before-after.md
-      - name: landing-features
-        component: TextComponent
-        options:
-          columns-size: full
-          # hero: true
-          custom-class: mt-6
-          name:
-            fr: Fonctionnalités
-            en: Features
-        files:
-          fr: ./texts/fr/landing/landing-features.md
-          en: ./texts/en/landing/landing-features.md
       - name: btn-to-contact
         component: ButtonsComponent
         options:
@@ -87,6 +97,18 @@ routes:
               label: 
                 fr: Contactez-nous
                 en: Contact us
+      - name: landing-features
+        component: TextComponent
+        options:
+          columns-size: full
+          # hero: true
+          custom-class: mt-6 pt-6
+          name:
+            fr: Fonctionnalités
+            en: Features
+        files:
+          fr: ./texts/fr/landing/landing-features.md
+          en: ./texts/en/landing/landing-features.md
       - name: landing-tool
         component: TextComponent
         options:
@@ -118,16 +140,6 @@ routes:
       #   files:
       #     fr: ./texts/fr/landing/landing-intro.md
       #     en: ./texts/en/landing/landing-intro.md
-      - name: demo-gitribute-cooptech
-        component: HtmlComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Découvrir
-            en: Discover
-        files:
-          fr: ./texts/gallery/demo-cooptech.md
-          en: ./texts/gallery/demo-cooptech.md
       # - name: gitribute-cooptech
       #   component: WidgetComponent
       #   options:
@@ -202,7 +214,7 @@ routes:
         options:
           columns-size: full
           # hero: true
-          custom-class: my-6 pb-6
+          custom-class: mt-6 pt-6
           name:
             fr: Un projet ?
             en: A project ?

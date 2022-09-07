@@ -1,6 +1,6 @@
 <div 
-  class="tile is-ancestor is--fullheight mt-5 mb-6"
-  style="min-height: 550px">
+  class="tile is-ancestor is--fullheight mt-6 mb-6"
+  style="height: 70vh; min-height: 400px">
   <div class="tile is-vertical is-6">
     <div class="tile is-parent">
       <article class="tile is-child notification is-white">
@@ -19,7 +19,6 @@
           style="font-weight: 250; line-height: 1.75;">
           <!-- pour éditer, valoriser et contribuer à des données ouvertes... -->
           <!-- Vizboard is a <i>no code</i> datavizualisation tool : -->
-          <br>
           No coding,
           <!-- no subscription, -->
           no hidden cost,

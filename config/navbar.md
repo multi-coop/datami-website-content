@@ -32,6 +32,14 @@ buttons-left:
         label: 
           fr: Ils soutiennent Vizboard
           en: They support Vizboard
+      - name: discover
+        link: /
+        scrollTo: landing-demo-intro
+        # hash: section-landing-demo-gitribute-cooptech
+        component: simpleLink
+        label: 
+          fr: Découvrir Vizboard
+          en: Discover Vizboard
       - name: simplify
         link: /
         scrollTo: landing-simplify
@@ -48,14 +56,13 @@ buttons-left:
         label: 
           fr: Fonctionnalités
           en: Features
-      - name: discover
+      - name: CTA
         link: /
-        scrollTo: demo-gitribute-cooptech
-        # hash: section-landing-demo-gitribute-cooptech
+        scrollTo: landing-cta
         component: simpleLink
         label: 
-          fr: Découvrir
-          en: Discover
+          fr: Un projet ?
+          en: A project ?
 
   - name: gallery
     disabled: false
