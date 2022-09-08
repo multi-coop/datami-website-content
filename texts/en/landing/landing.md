@@ -6,7 +6,7 @@
       <article class="tile is-child notification is-white">
         <p
           class="title"
-          style="line-height: 1.5;">
+          style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
           <!-- Une solution
           <b>libre</b>
           &

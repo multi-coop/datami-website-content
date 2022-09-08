@@ -7,7 +7,7 @@ app_locales: [
   fr
 ]
 app_md_flavor: github
-app_icon: ./images/logos/logo-DATAMI-square-colors-01.png
+app_icon: ./images/logos/logo-DATAMI-rect-colors-03.png
 app_favicon: ./images/logos/favicon_multi.ico
 
 routes: ./config/routes.md
