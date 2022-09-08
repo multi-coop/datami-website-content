@@ -117,7 +117,7 @@ buttons-left:
 
   - name: docs 
     # icon: book-open-variant
-    link: https://gitribute-docs.multi.coop
+    link: https://datami-docs.multi.coop
     component: dropdownLink
     # component: extLink
     options: [ arrowless, hoverable ]
@@ -180,6 +180,7 @@ buttons-right:
 
   - name: repo 
     link: https://gitlab.com/multi-coop/gitribute
+    # link: https://gitlab.com/multi-coop/datami
     icon: gitlab
     component: extLink
     options: [ arrowless ]

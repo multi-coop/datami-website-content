@@ -96,5 +96,5 @@ You can also add issues directly in the reop, or add notes or issues from our [g
 
 Here are the links to the source documents (slides) we used to create the tutorials's images : 
 
-- [Gitribute tutorial - 01](https://docs.google.com/presentation/d/1hS5GqXxUJzquXDgO4Ch8O3klNekf-Ih-MNbJ8Ikp45M/edit#slide=id.g13be72e9310_0_24)
-- [Gitribute tutorial - 02](https://docs.google.com/presentation/d/1DjJGQn80bHzxpNdMHIufwLLaUB3lJVPqvMVGpSRScb0/edit#slide=id.p)
+- [Datami tutorial - 01](https://docs.google.com/presentation/d/1hS5GqXxUJzquXDgO4Ch8O3klNekf-Ih-MNbJ8Ikp45M/edit#slide=id.g13be72e9310_0_24)
+- [Datami tutorial - 02](https://docs.google.com/presentation/d/1DjJGQn80bHzxpNdMHIufwLLaUB3lJVPqvMVGpSRScb0/edit#slide=id.p)
