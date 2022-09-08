@@ -11,7 +11,7 @@
           style="
             width: 100%;
             height: 100%;
-            background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/multifiles-preview-02.png');
+            background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/multifiles-preview-02.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 0% 0%;">

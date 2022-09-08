@@ -4,7 +4,7 @@
 <div>
   <img
     alt="TUTORIAL-INTRO-ACTIONS"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-actions.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/commented/tutorial-actions.png"
     />
 </div>
 

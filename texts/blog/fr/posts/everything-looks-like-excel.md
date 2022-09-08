@@ -34,6 +34,6 @@ Une fois et seulement une fois que nous avons mis en place ces principes nous av
 
 La principale fonctionnité un peu originale que nous avons imaginée en comparaison avec des outils de tableur classiques est celle du **bouton de consolidation** sur chaque ligne. Ce bouton permet de récupérer des données complémentaires par le biais d'APIs ("api-entreprises", "BAN api", ...) et de les injecter directement dans les données.
 
-![GITRIBUTE-WIREFRAME-EDIT-CSV-02](https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/schemas/Multi-gitribute-wireframe-edit-csv-02.png)
+![GITRIBUTE-WIREFRAME-EDIT-CSV-02](https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/schemas/Multi-gitribute-wireframe-edit-csv-02.png)
 
 > **Note** : Plus de détails sur l'édition et la consolidation dans la partie **["Tutorials > Éditer un document"](/tutorial-edition)**.

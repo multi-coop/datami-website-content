@@ -3,7 +3,7 @@
 <div>
   <img
     alt="WORDPRESS-LOGIN"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/wordpress/wordpress-admin-help.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/wordpress/wordpress-admin-help.png"
     />
 </div>
 <br>

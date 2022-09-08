@@ -1,9 +1,8 @@
-# VIZBOARD DOCUMENTATION CONTENT
+# DATAMI WEBSITE CONTENT
 
-<!-- Website : https://gitribute-docs.multi.coop -->
-Website : https://vizboard.netlify.app
+Website : https://datami.multi.coop
 
-This repo contains all contents for the vizboard's documentation website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
+This repo contains all contents for the Datami's website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
 
 Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative **[multi](https://multi.coop)**.
 
@@ -89,7 +88,7 @@ Files will be locally served on :
 
 If you want to propose somme enhancements to our content please make pull requests against the `main` branch. We will review that with great pleasure :)
 
-You can also add issues directly in the reop, or add notes or issues from our [gitlab "board" page](https://gitlab.com/multi-coop/vizboard-website-content/-/boards).
+You can also add issues directly in the reop, or add notes or issues from our [gitlab "board" page](https://gitlab.com/multi-coop/datami-website-content/-/boards).
 
 ---
 

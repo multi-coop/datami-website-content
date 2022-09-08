@@ -21,7 +21,7 @@ Last but not least Datami's widgets are designed to be "copy-paste", so you coul
         Gitfile widget
         <div style="border: thin solid lightgrey;">
           <img
-            src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/gitfile-md-edit-01.png"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-md-edit-01.png"
             alt="SCREENSHOT-02"
           />
         </div>
@@ -34,7 +34,7 @@ Last but not least Datami's widgets are designed to be "copy-paste", so you coul
         Multi-files widget
         <div style="border: thin solid lightgrey;">
           <img
-            src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/multifiles-preview-01.png"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/multifiles-preview-01.png"
             alt="SCREENSHOT-01"
           />
         </div>
@@ -47,7 +47,7 @@ Last but not least Datami's widgets are designed to be "copy-paste", so you coul
         Explowiki widget
         <div style="border: thin solid lightgrey;">
           <img
-            src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/explowiki-preview-01.png"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/explowiki-preview-01.png"
             alt="SCREENSHOT-03"
           />
         </div>

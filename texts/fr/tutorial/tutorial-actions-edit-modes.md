@@ -3,7 +3,7 @@
 <div>
   <img
     alt="TUTORIAL-ACTIONS-EDIT_MODES"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-edition.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/commented/tutorial-edition.png"
     />
 </div>
 

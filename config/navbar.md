@@ -1,12 +1,12 @@
 ---
 background-color: white
-# logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logo_GITRIBUTE.png
-# logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-rect-colors-01.png
-# logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-rect-colors-02.png
-logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-rect-colors-03.png
-# logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-square-colors-02.png
-# logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-square-colors-03.png
-# logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-square-colors-04.png
+# logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logo_GITRIBUTE.png
+# logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-DATAMI-rect-colors-01.png
+# logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-DATAMI-rect-colors-02.png
+logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-DATAMI-rect-colors-03.png
+# logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-DATAMI-square-colors-02.png
+# logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-DATAMI-square-colors-03.png
+# logo-left: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-DATAMI-square-colors-04.png
 
 fixed-top: true
 
@@ -161,7 +161,7 @@ buttons-right:
 
   - name: multi
     link: https://multi.coop
-    image: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-multi-003.png
+    image: https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/logos/logo-multi-003.png
     icon: open-in-new
     component: extLink
     options: [ arrowless ]

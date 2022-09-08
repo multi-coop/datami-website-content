@@ -3,7 +3,7 @@
 <div>
   <img
     alt="TUTORIAL-EDITION-CSV-CONSOLIDATE"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-consolidate.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/edit-csv/edit-csv-consolidate.png"
     />
 </div>
 
@@ -20,7 +20,7 @@ By clicking on this button the user will or could have several consolidation API
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-CSV-CONSOLIDATE-ROW"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-consolidate-row.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/edit-csv/edit-csv-consolidate-row.png"
     />
 </div>
 
@@ -31,7 +31,7 @@ When you click on one of the consolidation services listed, a request is sent to
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-CSV-CONSOLIDATE-ROW"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edit-csv/edit-csv-consolidate-row-result.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/edit-csv/edit-csv-consolidate-row-result.png"
     />
 </div>
 

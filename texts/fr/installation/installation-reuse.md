@@ -15,7 +15,7 @@ La manière la plus simple d'intégrer un widget dans votre site est de copier-c
 <div>
   <img
     alt="TUTORIAL-ACTIONS-COPY_WIDGET"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/commented/tutorial-08.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/commented/tutorial-08.png"
     />
 </div>
 

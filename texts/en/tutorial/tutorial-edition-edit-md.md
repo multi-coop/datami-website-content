@@ -4,7 +4,7 @@
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-MD"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edition-edit-md.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/edition-edit-md.png"
     />
 </div>
 

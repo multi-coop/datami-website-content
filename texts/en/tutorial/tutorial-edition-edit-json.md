@@ -3,7 +3,7 @@
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-EDITION-JSON"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edition-edit-json.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/edition-edit-json.png"
     />
 </div>
 

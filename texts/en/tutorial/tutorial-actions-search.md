@@ -3,7 +3,7 @@
 <div style="border: thin solid lightgrey;">
   <img
     alt="TUTORIAL-ACTIONS-SEARCH_TEXT"
-    src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/tutorial/edition-preview-csv-search.png"
+    src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/tutorial/edition-preview-csv-search.png"
     />
 </div>
 

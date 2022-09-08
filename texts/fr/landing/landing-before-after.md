@@ -20,14 +20,14 @@
           style="
             width: 100%;
             height: 380px;
-            background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/messy-excel.png');
+            background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/messy-excel.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 10% 0%;">
         </div>
         <!-- <img
           class="is-hidden-tablet "
-          src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/messy-excel.png"
+          src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/messy-excel.png"
           alt="MESSY EXCEL"
           style="
             height: 200px;
@@ -37,7 +37,7 @@
           style="
             width: 100%;
             height: 180px;
-            background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/messy-excel.png');
+            background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/messy-excel.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 10% 0%;">
@@ -55,14 +55,14 @@
           style="
             width: 100%;
             height: 400px;
-            background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/gitfile-csv-preview-dataviz-01.png');
+            background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-dataviz-01.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 0% 0%;">
         </div>
         <!-- <img
           class="is-hidden-tablet "
-          src="https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/explowiki-preview-01.png"
+          src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/explowiki-preview-01.png"
           alt="EXPLOWIKI WIDGET"
           style="
             height: 200px;
@@ -72,7 +72,7 @@
           style="
             width: 100%;
             height: 200px;
-            background-image: url('https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/screenshots/gitfile-csv-preview-dataviz-01.png');
+            background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-dataviz-01.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 0% 0%;">
