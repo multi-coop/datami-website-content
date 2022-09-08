@@ -1,7 +1,7 @@
 ---
 background-color: white
 # logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logo_GITRIBUTE.png
-logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-square-colors-03.png
+logo-left: https://raw.githubusercontent.com/multi-coop/vizboard-website-content/main/images/logos/logo-DATAMI-square-colors-02.png
 fixed-top: true
 
 buttons-left-centered: true
