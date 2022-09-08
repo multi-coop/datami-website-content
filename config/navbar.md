@@ -139,7 +139,7 @@ buttons-left:
       - name: sep
         separator: true
       - name:
-        link: https://gitribute-docs.multi.coop
+        link: https://datami-docs.multi.coop
         component: extLink
         # options: [ arrowless ]
         label:
