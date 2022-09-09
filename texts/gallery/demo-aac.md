@@ -2,10 +2,10 @@
 
   <hr>
 
-  <!-- GITRIBUTE - contribute with GIT ...but without minding it-->
+  <!-- DATAMI - contribute with GIT ...but without minding it-->
   <!-- An open source widget coded with 🤍  by the tech cooperative multi : https://multi.coop -->
 
-  <!-- GITRIBUTE WIDGET'S HTML BLOCK-->
+  <!-- DATAMI WIDGET'S HTML BLOCK-->
   <datami-explowiki
     wikilist="https://wiki.resilience-territoire.ademe.fr/wiki/Sp%C3%A9cial:WfExplore?title=Sp%C3%A9cial%3AWfExplore&page=1&wf-expl-Category-Commun=on&wf-expl-Tags="
     options='{
