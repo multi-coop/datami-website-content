@@ -179,8 +179,8 @@ buttons-right:
       en: Blog
 
   - name: repo 
-    link: https://gitlab.com/multi-coop/gitribute
-    # link: https://gitlab.com/multi-coop/datami
+    # link: https://gitlab.com/multi-coop/gitribute
+    link: https://gitlab.com/multi-coop/datami
     icon: gitlab
     component: extLink
     options: [ arrowless ]
