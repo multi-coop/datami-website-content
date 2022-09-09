@@ -59,7 +59,18 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-demo-intro.md
           en: ./texts/en/landing/landing-demo-intro.md
-      - name: demo-gitribute-cooptech
+      # - name: demo-datami-cooptech
+      #   component: HtmlComponent
+      #   options:
+      #     columns-size: three-quarters
+      #     custom-class: mb-6 pb-6
+      #     name:
+      #       fr: Découvrir
+      #       en: Discover
+      #   files:
+      #     fr: ./texts/gallery/demo-cooptech.md
+      #     en: ./texts/gallery/demo-cooptech.md
+      - name: demo-datami-cooptech
         component: HtmlComponent
         options:
           columns-size: three-quarters
@@ -68,8 +79,8 @@ routes:
             fr: Découvrir
             en: Discover
         files:
-          fr: ./texts/gallery/demo-cooptech.md
-          en: ./texts/gallery/demo-cooptech.md
+          fr: ./texts/gallery/demo-odf-observatoire.md
+          en: ./texts/gallery/demo-odf-observatoire.md
       - name: landing-simplify
         component: TextComponent
         options:
@@ -2374,7 +2385,7 @@ routes:
         fr: [ démo, cooptech ]
         en: [ demo, cooptech ]
     sections:
-      - name: demo-gitribute-cooptech
+      - name: demo-datami-cooptech
         component: HtmlComponent
         options:
           columns-size: three-quarters
@@ -2410,7 +2421,7 @@ routes:
         fr: [ démo, ODF ]
         en: [ demo, ODF ]
     sections:
-      - name: demo-gitribute-odf-observatoire
+      - name: demo-datami-odf-observatoire
         component: HtmlComponent
         options:
           columns-size: three-quarters
@@ -2446,7 +2457,7 @@ routes:
         fr: [ démo, ODF ]
         en: [ demo, ODF ]
     sections:
-      - name: demo-gitribute-odf-ressources
+      - name: demo-datami-odf-ressources
         component: HtmlComponent
         options:
           columns-size: three-quarters
@@ -2482,7 +2493,7 @@ routes:
         fr: [ démo, fabmob ]
         en: [ demo, fabmob ]
     sections:
-      - name: demo-gitribute-fabmob
+      - name: demo-datami-fabmob
         component: HtmlComponent
         options:
           columns-size: three-quarters
@@ -2518,7 +2529,7 @@ routes:
         fr: [ démo, ADEME ]
         en: [ demo, ADEME ]
     sections:
-      - name: demo-gitribute-aac
+      - name: demo-datami-aac
         component: HtmlComponent
         options:
           columns-size: three-quarters
