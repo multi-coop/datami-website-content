@@ -2,11 +2,11 @@
 
   <hr>
 
-  <!-- GITRIBUTE - contribute with GIT ...but without minding it-->
+  <!-- DATAMI - contribute with GIT ...but without minding it-->
   <!-- An open source widget coded with 🤍  by the tech cooperative multi : https://multi.coop -->
 
-  <!-- GITRIBUTE WIDGET'S HTML BLOCK-->
-  <multi-gitribute-multi-files
+  <!-- DATAMI WIDGET'S HTML BLOCK-->
+  <datami-multi-files
     title="test multi-files observatoire"
     options='{
       "display": "horizontal"
@@ -126,10 +126,10 @@
       }
     ]'
     locale="fr"
-  ></multi-gitribute-multi-files>
+  ></datami-multi-files>
 
-  <!-- GITRIBUTE WIDGET'S APP.JS SCRIPT -->
-  <script src="https://gitribute.multi.coop/js/app.js" type="text/javascript" defer></script>
+  <!-- DATAMI WIDGET'S APP.JS SCRIPT -->
+  <script src="https://datami-widget.multi.coop/js/app.js" type="text/javascript" defer></script>
 
 
   <hr>

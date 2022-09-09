@@ -2,11 +2,11 @@
 
   <hr>
 
-  <!-- GITRIBUTE - contribute with GIT ...but without minding it-->
+  <!-- DATAMI - contribute with GIT ...but without minding it-->
   <!-- An open source widget coded with 🤍  by the tech cooperative multi : https://multi.coop -->
 
-  <!-- GITRIBUTE WIDGET'S HTML BLOCK-->
-  <multi-gitribute-file
+  <!-- DATAMI WIDGET'S HTML BLOCK-->
+  <datami-file
     title="Liste des coopératives de la tech en France"
     gitfile="https://github.com/multi-coop/gitribute-content-test/blob/main/data/csv/cooptech/Annuaire-SCOP-SCIC-tech-France.csv"
     options='{
@@ -92,10 +92,10 @@
     }'
     onlypreview="false"
     locale="fr"
-  ></multi-gitribute-file>
+  ></datami-file>
 
-  <!-- GITRIBUTE WIDGET'S APP.JS SCRIPT -->
-  <script src="https://gitribute.multi.coop/js/app.js" type="text/javascript"></script>
+  <!-- DATAMI WIDGET'S APP.JS SCRIPT -->
+  <script src="https://datami-widget.multi.coop/js/app.js" type="text/javascript"></script>
 
   <hr>
 
