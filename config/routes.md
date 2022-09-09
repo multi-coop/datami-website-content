@@ -90,7 +90,7 @@ routes:
           buttons-size: one-third
           buttons:
             - link: "mailto:contact@multi.coop"
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -229,7 +229,7 @@ routes:
           buttons-size: one-third
           buttons:
             - link: "mailto:contact@multi.coop"
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -452,7 +452,7 @@ routes:
           custom-class: mt-6
           buttons:
             - link: "mailto:contact@multi.coop"
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -1641,7 +1641,7 @@ routes:
                 fr: Code source
                 en: Source code
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -2351,7 +2351,7 @@ routes:
           buttons-size: half
           buttons:
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -2389,7 +2389,7 @@ routes:
           custom-class: mt-6
           buttons:
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -2425,7 +2425,7 @@ routes:
           custom-class: mt-6
           buttons:
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -2461,7 +2461,7 @@ routes:
           custom-class: mt-6
           buttons:
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -2497,7 +2497,7 @@ routes:
           custom-class: mt-6
           buttons:
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
@@ -2533,7 +2533,7 @@ routes:
           custom-class: mt-6
           buttons:
             - link: /contact
-              icon-left: email
+              # icon-left: email
               rounded: false
               size: is-large
               style: "box-shadow: -5px 5px 5px #D7D7D7;"
