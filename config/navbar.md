@@ -80,6 +80,12 @@ buttons-left:
       fr: Exemples
       en: Examples
     submenu:
+      - name: demo-rhinocc
+        link: https://datami-demo-rhinoc-inclusion.netlify.app
+        component: extLink
+        label:
+          fr: Rhinocc - médiation numérique
+          en: Rhinocc - digital mediation
       - name: demo-cooptech
         link: /demo-cooptech
         component: simpleLink
