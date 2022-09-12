@@ -86,6 +86,8 @@ buttons-left:
         label:
           fr: Rhinocc - médiation numérique
           en: Rhinocc - digital mediation
+      - name: sep
+        separator: true
       - name: demo-cooptech
         link: /demo-cooptech
         component: simpleLink
