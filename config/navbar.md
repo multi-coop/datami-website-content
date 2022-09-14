@@ -86,6 +86,12 @@ buttons-left:
         label:
           fr: Rhinocc - médiation numérique
           en: Rhinocc - digital mediation
+      - name: demo-ping
+        link: https://datami-demo-ping-tiers-lieux.netlify.app/
+        component: extLink
+        label:
+          fr: Ping - tiers-lieux
+          en: Ping - tiers-lieux
       - name: sep
         separator: true
       - name: demo-cooptech
