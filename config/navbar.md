@@ -86,12 +86,22 @@ buttons-left:
         label:
           fr: Rhinocc - médiation numérique
           en: Rhinocc - digital mediation
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
       - name: demo-ping
         link: https://datami-demo-ping-tiers-lieux.netlify.app/
         component: extLink
         label:
           fr: Ping - tiers-lieux
           en: Ping - tiers-lieux
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
       - name: sep
         separator: true
       - name: demo-cooptech
@@ -168,8 +178,20 @@ buttons-left:
     component: simpleLink
     options: [ arrowless, hoverable ]
     label: 
-      fr: Contactez-nous
-      en: Contact us
+      fr: Contact
+      en: Contact
+  - name: live-sessions
+    link: https://app.livestorm.co/incubateur-des-territoires/demo-datami
+    component: extLink
+    tag:
+      type: warning
+      rounded: true
+      label: 
+        fr: new
+        en: new
+    label:
+      fr: Démos live
+      en: Live demos
 
 buttons-right: 
 
