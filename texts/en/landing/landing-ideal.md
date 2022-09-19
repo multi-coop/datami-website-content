@@ -10,8 +10,7 @@
     <div class="column is-one-quarter is-half-mobile">
       <div
         class="card"
-        style="box-shadow: -5px 5px 5px #D7D7D7 ;
-          height: 100%;
+        style="height: 100%;
           display: flex;
           flex-direction: column;">
         <div class="card-image">
@@ -32,15 +31,14 @@
     <div class="column is-one-quarter is-half-mobile">
       <div
         class="card"
-        style="box-shadow: -5px 5px 5px #D7D7D7 ;
-          height: 100%;
+        style="height: 100%;
           display: flex;
           flex-direction: column;">
         <div class="card-image">
           <figure class="image mx-0">
             <img
               class=""
-              src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/zoom-table-01.png"
+              src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/zoom-table-02.png"
               alt="MULTIFILES WIDGET"/>
           </figure>
         </div>
@@ -54,8 +52,7 @@
     <div class="column is-one-quarter is-half-mobile">
       <div
         class="card"
-        style="box-shadow: -5px 5px 5px #D7D7D7 ;
-          height: 100%;
+        style="height: 100%;
           display: flex;
           flex-direction: column;">
         <div class="card-image">
@@ -76,8 +73,7 @@
     <div class="column is-one-quarter is-half-mobile">
       <div
         class="card"
-        style="box-shadow: -5px 5px 5px #D7D7D7 ;
-          height: 100%;
+        style="height: 100%;
           display: flex;
           flex-direction: column;">
         <div class="card-image">
