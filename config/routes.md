@@ -102,7 +102,7 @@ routes:
         options:
           columns-size: full
           # hero: true
-          custom-class: mt-6 pt-6
+          custom-class: mt-6 pt-6 mx-6
           name:
             fr: Fonctionnalités
             en: Features
@@ -126,7 +126,7 @@ routes:
         options:
           columns-size: full
           # hero: true
-          custom-class: my-6 pb-6
+          custom-class: my-6 pb-6 mx-6
           name:
             fr: Idéal pour...
             en: Ideal tool for...
