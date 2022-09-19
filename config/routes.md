@@ -86,7 +86,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: three-quarters
-          custom-class: mt-0 pt-0 mb-6 pt-6
+          custom-class: mt-0 mb-6 pt-6 mx-6
           buttons-size: one-third
           buttons:
             - link: "mailto:contact@multi.coop"
@@ -225,7 +225,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: three-quarters
-          custom-class: my-6
+          custom-class: my-6 mx-6
           buttons-size: one-third
           buttons:
             - link: "mailto:contact@multi.coop"

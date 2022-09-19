@@ -73,10 +73,10 @@ columns:
       #  label:
       #    fr: Références
       #    en: References
-      - url: https://docs.google.com/presentation/d/1Jp4l94DKxjYXP0ATVhpyyy6lq_0FYbzU5HeOVm43Zlw/edit#slide=id.g4dc788bd0f_0_7
-        label:
-          fr: Alors comme ça vous avez du temps à perdre ?
-          en: So you have spare time to waste ?
+      # - url: https://docs.google.com/presentation/d/1Jp4l94DKxjYXP0ATVhpyyy6lq_0FYbzU5HeOVm43Zlw/edit#slide=id.g4dc788bd0f_0_7
+      #   label:
+      #     fr: Alors comme ça vous avez du temps à perdre ?
+      #     en: So you have spare time to waste ?
 
 ---
 

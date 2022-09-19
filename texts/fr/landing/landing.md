@@ -1,6 +1,6 @@
 <div 
-  class="columns is-8 mt-6 mb-6 px-3 is-align-items-center"
-  style="height: 80vh;">
+  class="columns is-8 mt-3 mb-6 px-3 is-align-items-center"
+  style="min-height: 80vh;">
   <div
     class="column is-6">
     <p

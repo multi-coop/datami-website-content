@@ -6,8 +6,8 @@
 
 <div class="content">
 
-  <div class="columns is-mobile mb-6 pb-6 px-3 is-multiline">
-    <div class="column is-one-quarter is-half-mobile">
+  <div class="columns mb-6 pb-6 px-3 is-multiline">
+    <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
         style="height: 100%;
@@ -28,7 +28,7 @@
         </div>
       </div>
     </div>
-    <div class="column is-one-quarter is-half-mobile">
+    <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
         style="height: 100%;
@@ -49,7 +49,7 @@
         </div>
       </div>
     </div>
-    <div class="column is-one-quarter is-half-mobile">
+    <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
         style="height: 100%;
@@ -70,7 +70,7 @@
         </div>
       </div>
     </div>
-    <div class="column is-one-quarter is-half-mobile">
+    <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
         style="height: 100%;

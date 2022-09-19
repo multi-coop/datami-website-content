@@ -122,18 +122,4 @@
       avec Datami
     <span>
   </div>
-  <div
-    class="is-hidden-tablet px-2 py-2"
-    style="
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      box-shadow: 0 0 20px #D7D7D7;
-      background-color: #363636;
-      border-radius: 50%;
-      color: white;">
-    <span class="icon is-large is-size-1">
-      <i class="mdi mdi-arrow-down-thick"></i>
-    </span>
-  </div>
 </div>

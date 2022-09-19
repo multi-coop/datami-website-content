@@ -6,7 +6,7 @@
 
 <div class="content">
 
-  <div class="columns is-mobile mb-6 pb-6 px-3 is-multiline">
+  <div class="columns mb-6 pb-6 px-3 is-multiline">
     <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
@@ -49,7 +49,7 @@
         </div>
       </div>
     </div>
-    <div class="column is-half-mobile is-one-quarter-tablet">
+    <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
         style="height: 100%;
@@ -71,7 +71,7 @@
         </div>
       </div>
     </div>
-    <div class="column is-half-mobile is-one-quarter-tablet">
+    <div class="column is-half-tablet is-one-quarter-desktop">
       <div
         class="card"
         style="height: 100%;
@@ -87,7 +87,7 @@
         </div>
         <div class="card-content">
           <div class="content is-size-4">
-            Faire le premier pas d'une politique d'<b>open data</b>
+            Faire le premier pas d'une politique d'<b>ouverture des données</b> (<i>open data</i>).
           </div>
         </div>
       </div>

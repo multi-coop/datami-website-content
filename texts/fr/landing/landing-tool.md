@@ -40,7 +40,7 @@
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          Copiez vos widgets sur tous les sites que vous souhaitez
+          Copiez vos widgets sur tous les sites que vous souhaitez.
         </p>
         <p class="title mt-1">
           Open source
