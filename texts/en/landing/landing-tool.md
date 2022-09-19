@@ -23,12 +23,13 @@
     <div class="tile is-parent">
       <article class="tile is-child notification is-white">
         <p class="title mt-1">
-          Open source
+          Free
         </p>
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          The full source code is accessible online.
+          You only pay for our expertise,
+          for instance if you need our help to configure a vizboard.
         </p>
         <p class="title mt-1">
           Reusable
@@ -39,13 +40,12 @@
           Copy your vizboards onto any website you need.
         </p>
         <p class="title mt-1">
-          Free
+          Open source
         </p>
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          You only pay for our expertise,
-          for instance if you need our help to configure a vizboard.
+          The full source code is accessible online.
         </p>
       </article>
     </div>

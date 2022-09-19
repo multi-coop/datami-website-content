@@ -27,12 +27,12 @@
     <div class="tile is-parent">
       <article class="tile is-child notification is-white">
         <p class="title mt-1">
-          Open source
+          Gratuit
         </p>
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          L'entièreté du code source est consultable en ligne.
+          Vous ne payez que pour notre conseil et notre expertise, par exemple si vous avez besoin de notre aide pour configurer un vizboard.
         </p>
         <p class="title mt-1">
           Réutilisable
@@ -43,12 +43,12 @@
           Copiez vos vizboards sur tous les sites que vous souhaitez
         </p>
         <p class="title mt-1">
-          Gratuit
+          Open source
         </p>
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          Vous ne payez que pour notre conseil et notre expertise, par exemple si vous avez besoin de notre aide pour configurer un vizboard.
+          L'entièreté du code source est consultable en ligne.
         </p>
       </article>
     </div>

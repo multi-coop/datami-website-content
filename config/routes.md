@@ -43,8 +43,8 @@ routes:
           columns-size: full
           custom-class: my-6 py-6
           name:
-            fr: Ils utilisent Vizbord
-            en: They use vizborad
+            fr: Ils soutiennent Vizbord
+            en: They support vizborad
         files:
           fr: ./texts/fr/landing/landing-clients.md
           en: ./texts/en/landing/landing-clients.md
@@ -70,7 +70,7 @@ routes:
       #   files:
       #     fr: ./texts/gallery/demo-cooptech.md
       #     en: ./texts/gallery/demo-cooptech.md
-      - name: demo-datami-cooptech
+      - name: demo-datami-odf-observatoire
         component: HtmlComponent
         options:
           columns-size: three-quarters

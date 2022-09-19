@@ -7,7 +7,7 @@
 
   <!-- DATAMI WIDGET'S HTML BLOCK-->
   <datami-multi-files
-    title="test multi-files observatoire"
+    title="Données d&lsquo;Open Data France"
     options='{
       "display": "horizontal"
     }'

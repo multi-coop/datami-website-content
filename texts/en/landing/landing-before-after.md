@@ -91,7 +91,10 @@
       border-radius: 35px;
       color: white;">
     <span class="is-size-4 has-text-weight-bold mx-4 is-flex">
-      Your data without Datami
+      <span class="is-hidden-tablet-only is-hidden-desktop-only"> 
+        Your data &nbsp;
+      </span>
+      without Datami
       <!-- <span class="icon is-large is-size-1 pt-2 mx-5">
         <i class="mdi mdi-arrow-right-thick"></i>
       </span>
@@ -113,7 +116,10 @@
       <span class="icon is-large is-size-1 pt-2 mx-5">
         <i class="mdi mdi-arrow-right-thick"></i>
       </span> -->
-      Your data with Datami
+      <span class="is-hidden-tablet-only is-hidden-desktop-only"> 
+        Your data &nbsp;
+      </span>
+      with Datami
     <span>
   </div>
   <div

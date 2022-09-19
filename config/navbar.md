@@ -142,35 +142,35 @@ buttons-left:
   - name: docs 
     # icon: book-open-variant
     link: https://datami-docs.multi.coop
-    component: dropdownLink
-    # component: extLink
+    # component: dropdownLink
+    component: extLink
     options: [ arrowless, hoverable ]
     label: 
-      fr: Docs
-      en: Docs
+      fr: Documentation
+      en: Documentation
     # label_after_icon: true
-    submenu:
-      - name: features
-        link: /main-features
-        component: simpleLink
-        label: 
-          fr: Principales fonctionnalités
-          en: Main features
-      - name: software
-        link: /software
-        component: simpleLink
-        label: 
-          fr: Infos sur le logiciel
-          en: Software infos
-      - name: sep
-        separator: true
-      - name:
-        link: https://datami-docs.multi.coop
-        component: extLink
-        # options: [ arrowless ]
-        label:
-          fr: Site officiel de documentation
-          en: Official documentation website
+    # submenu:
+    #   - name: features
+    #     link: /main-features
+    #     component: simpleLink
+    #     label: 
+    #       fr: Principales fonctionnalités
+    #       en: Main features
+    #   - name: software
+    #     link: /software
+    #     component: simpleLink
+    #     label: 
+    #       fr: Infos sur le logiciel
+    #       en: Software infos
+    #   - name: sep
+    #     separator: true
+    #   - name:
+    #     link: https://datami-docs.multi.coop
+    #     component: extLink
+    #     # options: [ arrowless ]
+    #     label:
+    #       fr: Site officiel de documentation
+    #       en: Official documentation website
 
   - name: contact 
     # icon: email
