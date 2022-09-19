@@ -59,17 +59,6 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-demo-intro.md
           en: ./texts/en/landing/landing-demo-intro.md
-      # - name: demo-datami-cooptech
-      #   component: HtmlComponent
-      #   options:
-      #     columns-size: three-quarters
-      #     custom-class: mb-6 pb-6
-      #     name:
-      #       fr: Découvrir
-      #       en: Discover
-      #   files:
-      #     fr: ./texts/gallery/demo-cooptech.md
-      #     en: ./texts/gallery/demo-cooptech.md
       - name: demo-datami-odf-observatoire
         component: HtmlComponent
         options:
