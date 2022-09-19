@@ -1,7 +1,8 @@
-<div class="columns is-8 mt-6 mb-6 px-3">
+<div 
+  class="columns is-8 mt-6 mb-6 px-3 is-align-items-center"
+  style="height: 80vh;">
   <div
-    class="column is-6 pb-6"
-    style="height: 50vh;">
+    class="column is-6">
     <p
       class="title"
       style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
@@ -60,7 +61,7 @@
         style="
           width: 50vw;
           height: 100%;
-          min-height: 65vh;
+          min-height: 50vh;
           background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png');
           background-size: cover;
           background-repeat: no-repeat;
