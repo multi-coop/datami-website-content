@@ -52,7 +52,7 @@ routes:
         component: TextComponent
         options:
           columns-size: full
-          custom-class: mt-6 pt-6
+          custom-class: mt-6 pt-6 is-hidden-mobile
           name:
             fr: Exemple d'intégration d'un vizboard
             en: An example of a vizboard
@@ -63,7 +63,7 @@ routes:
         component: HtmlComponent
         options:
           columns-size: three-quarters
-          custom-class: mb-6 pb-6
+          custom-class: mb-6 pb-6 is-hidden-mobile
           name:
             fr: Découvrir
             en: Discover
