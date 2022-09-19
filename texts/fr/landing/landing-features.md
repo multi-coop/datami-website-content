@@ -159,7 +159,7 @@
           Essaimage
         </P>
         <p class="subtitle pb-4">
-          <b>Copiez-collez</b> les vizboards <b>dans n'importe quel site</b> en un clic
+          <b>Copiez-collez</b> les widgets Datami <b>dans n'importe quel site</b> en un clic
         </p>
       </article>
     </div>

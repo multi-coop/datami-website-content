@@ -1,19 +1,23 @@
 <h1
-  class="has-text-centered mt-6 mb-6 pt-6">
-  Idéal pour...
+  class="has-text-centered mt-6 mb-6 pt-6"
+  style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
+  Un outil web multi-fonctions pour...
 </h1>
 
 <div class="columns mb-6 pb-6">
   <div class="column">
     <div
       class="card"
-      style="box-shadow: -5px 5px 5px #D7D7D7 ;">
+      style="box-shadow: -5px 5px 5px #D7D7D7 ;
+        height: 100%;
+        display: flex;
+        flex-direction: column;">
       <div class="card-image">
         <figure class="image mx-0">
           <img
             class=""
-            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
-            alt="MULTIFILES WIDGET"/>
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/map-odf-02.png"
+            alt="MAP ODF COMPLEX"/>
         </figure>
       </div>
       <div class="card-content">
@@ -26,12 +30,15 @@
   <div class="column">
     <div
       class="card"
-      style="box-shadow: -5px 5px 5px #D7D7D7 ;">
+      style="box-shadow: -5px 5px 5px #D7D7D7 ;
+        height: 100%;
+        display: flex;
+        flex-direction: column;">
       <div class="card-image">
         <figure class="image mx-0">
           <img
             class=""
-            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/table-odf-01.png"
             alt="MULTIFILES WIDGET"/>
         </figure>
       </div>
@@ -45,12 +52,15 @@
   <div class="column">
     <div
       class="card"
-      style="box-shadow: -5px 5px 5px #D7D7D7 ;">
+      style="box-shadow: -5px 5px 5px #D7D7D7 ;
+        height: 100%;
+        display: flex;
+        flex-direction: column;">
       <div class="card-image">
         <figure class="image mx-0">
           <img
             class=""
-            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/table-odf-edit-01.png"
             alt="MULTIFILES WIDGET"/>
         </figure>
       </div>
@@ -65,12 +75,15 @@
   <div class="column">
     <div
       class="card"
-      style="box-shadow: -5px 5px 5px #D7D7D7 ;">
+      style="box-shadow: -5px 5px 5px #D7D7D7 ;
+        height: 100%;
+        display: flex;
+        flex-direction: column;">
       <div class="card-image">
         <figure class="image mx-0">
           <img
             class=""
-            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/dataviz-odf-01.png"
             alt="MULTIFILES WIDGET"/>
         </figure>
       </div>

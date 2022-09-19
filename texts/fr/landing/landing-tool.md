@@ -32,7 +32,7 @@
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          Vous ne payez que pour notre conseil et notre expertise, par exemple si vous avez besoin de notre aide pour configurer un vizboard.
+          Vous ne payez que pour notre conseil et notre expertise, par exemple si vous avez besoin de notre aide pour configurer un widget.
         </p>
         <p class="title mt-1">
           Réutilisable
@@ -40,7 +40,7 @@
         <p
           class="subtitle mb-4"
           style="font-weight: 250;">
-          Copiez vos vizboards sur tous les sites que vous souhaitez
+          Copiez vos widgets sur tous les sites que vous souhaitez
         </p>
         <p class="title mt-1">
           Open source

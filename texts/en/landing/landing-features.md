@@ -159,7 +159,7 @@
           Spread
         </P>
         <p class="subtitle">
-          <b>Copy-paste</b> the vizboard widgets <b>into any website</b> in a simple click
+          <b>Copy-paste</b> the Datami widgets <b>into any website</b> in a simple click
         </p>
       </article>
     </div>
