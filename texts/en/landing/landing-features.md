@@ -25,7 +25,7 @@
       <article
         class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-pencil"></i>
           </span>
@@ -40,7 +40,7 @@
       <article
         class="tile is-child notification is-white-ter py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-share-variant"></i>
           </span>
@@ -55,7 +55,7 @@
       <article
         class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-pencil"></i>
           </span>
@@ -73,7 +73,7 @@
       <article
         class="tile is-child notification is-white-ter py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-account-group"></i>
           </span>
@@ -88,7 +88,7 @@
       <article
         class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-table"></i>
           </span>
@@ -103,7 +103,7 @@
       <article
         class="tile is-child notification is-white-ter py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-translate"></i>
           </span>
@@ -120,7 +120,7 @@
       <article
         class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-poll"></i>
           </span>
@@ -136,7 +136,7 @@
       <article
         class="tile is-child notification is-white-ter py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-currency-usd-off"></i>
           </span>
@@ -152,7 +152,7 @@
       <article
         class="tile is-child notification is-dark py-2"
         style="box-shadow: -5px 5px 5px #D7D7D7;">
-        <p class="title pt-4">
+        <p class="title pt-4 is-size-4-touch">
           <span class="icon is-small mr-3">
             <i class="mdi mdi-content-copy"></i>
           </span>

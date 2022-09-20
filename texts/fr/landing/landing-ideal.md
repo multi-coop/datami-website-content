@@ -22,8 +22,8 @@
           </figure>
         </div>
         <div class="card-content">
-          <div class="content is-size-4">
-            Manipuler des données <b>complexes</b> et <b>évolutives</b>
+          <div class="content is-size-4 is-size-5-touch">
+            Manipuler des données <b>complexes</b> et <b>évolutives</b>, sous différents formats.
           </div>
         </div>
       </div>
@@ -43,8 +43,8 @@
           </figure>
         </div>
         <div class="card-content">
-          <div class="content is-size-4">
-            Permettre à sa communauté de <b>contribuer</b>
+          <div class="content is-size-4 is-size-5-touch">
+            Permettre à sa communauté de <b>contribuer</b> et de <b>consolider</b> vos jeux de données.
           </div>
         </div>
       </div>
@@ -64,9 +64,8 @@
           </figure>
         </div>
         <div class="card-content">
-          <div class="content is-size-4">
-            Simplifier la contribution de 
-            <b>façon sécurisée</b>
+          <div class="content is-size-4 is-size-5-touch">
+            Simplifier la contribution de <b>façon sécurisée</b>.
           </div>
         </div>
       </div>
@@ -86,7 +85,7 @@
           </figure>
         </div>
         <div class="card-content">
-          <div class="content is-size-4">
+          <div class="content is-size-4 is-size-5-touch">
             Faire le premier pas d'une politique d'<b>ouverture des données</b> (<i>open data</i>).
           </div>
         </div>
