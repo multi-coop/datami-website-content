@@ -91,6 +91,17 @@ buttons-left:
           label: 
             fr: new
             en: new
+      - name: demo-doubs
+        link: https://datami-demo-doubs-inclusion.netlify.app/
+        component: extLink
+        label:
+          fr: Département du Doubs - médiation numérique
+          en: Doubs - digital mediation
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
       - name: demo-ping
         link: https://datami-demo-ping-tiers-lieux.netlify.app/
         component: extLink
