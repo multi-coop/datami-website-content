@@ -18,10 +18,12 @@
         style="border-bottom: 1px solid black;">
         no pain
       </span>
-      <img
-        class="is-hidden-tablet mt-6"
-        src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
-        alt="MULTIFILES WIDGET"/>
+      <figure class="is-hidden-desktop mt-6">
+        <img
+          class="image"
+          src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
+          alt="MULTIFILES WIDGET"/>
+      </figure>
     </p>
     <div class="columns mt-6">
       <div class="column is-6">
@@ -57,7 +59,7 @@
       class="notification has-background-white-ter px-0 py-0"
       style="box-shadow: 0 0 20px #D7D7D7;">
       <div
-        class="content is-hidden-mobile"
+        class="content is-hidden-touch"
         style="
           width: 50vw;
           height: 100%;
