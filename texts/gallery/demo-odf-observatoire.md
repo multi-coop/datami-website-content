@@ -1,6 +1,6 @@
 <div>
 
-  <hr>
+  <!-- <hr> -->
 
   <!-- DATAMI - contribute with GIT ...but without minding it-->
   <!-- An open source widget coded with 🤍  by the tech cooperative multi : https://multi.coop -->
@@ -225,6 +225,6 @@
   <!-- DATAMI WIDGET'S APP.JS SCRIPT -->
   <script src="https://datami-widget.multi.coop/js/app.js" type="text/javascript" defer></script>
 
-  <hr>
+  <!-- <hr> -->
 
 </div>
