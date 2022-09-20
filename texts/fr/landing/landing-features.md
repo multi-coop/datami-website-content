@@ -124,11 +124,10 @@
           <span class="icon is-small mr-3">
             <i class="mdi mdi-poll"></i>
           </span>
-          <i>Analytics</i> & RGPD
+          <i>Analytics</i>
         </P>
         <p class="subtitle pb-4">
           Datami est compatible avec l'outil d'analyse web Matomo
-          et est conforme au Règlement Général sur la Protection des Données (RGPD)
         </p>
       </article>
     </div>

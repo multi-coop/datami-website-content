@@ -13,6 +13,11 @@
         style="height: 100%;
           display: flex;
           flex-direction: column;">
+        <div class="card-content">
+          <div class="content is-size-4 is-size-5-touch">
+            Manipulate <b>complex</b> and <b>evolutive</b> data, in a wide variety of formats.
+          </div>
+        </div>
         <div class="card-image">
           <figure class="image mx-0">
             <img
@@ -21,11 +26,6 @@
               alt="MULTIFILES WIDGET"/>
           </figure>
         </div>
-        <div class="card-content">
-          <div class="content is-size-4 is-size-5-touch">
-            Manipulate <b>complex</b> and <b>evolutive</b> data, in a wide variety of formats.
-          </div>
-        </div>
       </div>
     </div>
     <div class="column is-half-tablet is-one-quarter-desktop">
@@ -34,6 +34,11 @@
         style="height: 100%;
           display: flex;
           flex-direction: column;">
+        <div class="card-content">
+          <div class="content is-size-4 is-size-5-touch">
+            Allow your community to <b>contribute</b> and to <b>consolidate</b> your datasets.
+          </div>
+        </div>
         <div class="card-image">
           <figure class="image mx-0">
             <img
@@ -42,11 +47,6 @@
               alt="MULTIFILES WIDGET"/>
           </figure>
         </div>
-        <div class="card-content">
-          <div class="content is-size-4 is-size-5-touch">
-            Allow your community to <b>contribute</b> and to <b>consolidate</b> your datasets.
-          </div>
-        </div>
       </div>
     </div>
     <div class="column is-half-tablet is-one-quarter-desktop">
@@ -55,6 +55,11 @@
         style="height: 100%;
           display: flex;
           flex-direction: column;">
+        <div class="card-content">
+          <div class="content is-size-4 is-size-5-touch">
+            Simplify your data in a <b>secure</b> way.
+          </div>
+        </div>
         <div class="card-image">
           <figure class="image mx-0">
             <img
@@ -63,11 +68,6 @@
               alt="MULTIFILES WIDGET"/>
           </figure>
         </div>
-        <div class="card-content">
-          <div class="content is-size-4 is-size-5-touch">
-            Simplify your data in a <b>secure</b> way.
-          </div>
-        </div>
       </div>
     </div>
     <div class="column is-half-tablet is-one-quarter-desktop">
@@ -76,6 +76,11 @@
         style="height: 100%;
           display: flex;
           flex-direction: column;">
+        <div class="card-content">
+          <div class="content is-size-4 is-size-5-touch">
+            Make the first step of your <b>open data</b> policy.
+          </div>
+        </div>
         <div class="card-image">
           <figure class="image mx-0">
             <img
@@ -83,11 +88,6 @@
               src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/clients/dataviz-odf-01.png"
               alt="MULTIFILES WIDGET"/>
           </figure>
-        </div>
-        <div class="card-content">
-          <div class="content is-size-4 is-size-5-touch">
-            Make the first step of your <b>open data</b> policy.
-          </div>
         </div>
       </div>
     </div>
