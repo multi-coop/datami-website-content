@@ -1,8 +1,7 @@
 <div 
   class="columns is-8 mt-3 mb-6 px-3 is-align-items-center"
   style="min-height: 80vh;">
-  <div
-    class="column is-6">
+  <div class="column is-6 is-full-touch">
     <p
       class="title"
       style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
