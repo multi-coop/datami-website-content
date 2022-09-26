@@ -1,13 +1,6 @@
 ---
 routes: 
 
-  # description:
-  #   fr: 
-  #   en: 
-  # keywords:
-  #   fr: [  ]
-  #   en: [  ]
-
   # LANDING
   - name: home
     url: /
