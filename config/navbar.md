@@ -113,28 +113,28 @@ buttons-left:
           label: 
             fr: new
             en: new
-      - name: sep
-        separator: true
-      - name: demo-cooptech
-        link: /demo-cooptech
-        component: simpleLink
-        label: 
-          fr: Cooptech - annuaire
-          en: Cooptech - organisations
-      - name: sep
-        separator: true
-      - name: demo-odf-observatoire
-        link: /demo-odf-observatoire
-        component: simpleLink
-        label: 
-          fr: Open Data France - Données de l'Observatoire
-          en: Open Data France - Observatory's datasets
-      - name: demo-odf-ressources
-        link: /demo-odf-ressources
-        component: simpleLink
-        label: 
-          fr: Open Data France - Ressources
-          en: Open Data France - Ressources
+      # - name: sep
+      #   separator: true
+      # - name: demo-cooptech
+      #   link: /demo-cooptech
+      #   component: simpleLink
+      #   label: 
+      #     fr: Cooptech - annuaire
+      #     en: Cooptech - organisations
+      # - name: sep
+      #   separator: true
+      # - name: demo-odf-observatoire
+      #   link: /demo-odf-observatoire
+      #   component: simpleLink
+      #   label: 
+      #     fr: Open Data France - Données de l'Observatoire
+      #     en: Open Data France - Observatory's datasets
+      # - name: demo-odf-ressources
+      #   link: /demo-odf-ressources
+      #   component: simpleLink
+      #   label: 
+      #     fr: Open Data France - Ressources
+      #     en: Open Data France - Ressources
       - name: sep
         separator: true
       - name: demo-fabmob
