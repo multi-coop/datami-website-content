@@ -191,8 +191,9 @@ buttons-left:
     label: 
       fr: Contact
       en: Contact
+
   - name: live-sessions
-    link: https://app.livestorm.co/incubateur-des-territoires/demo-datami
+    link: https://www.youtube.com/watch?v=HLKrmth6qbA
     component: extLink
     tag:
       type: warning
@@ -201,8 +202,8 @@ buttons-left:
         fr: new
         en: new
     label:
-      fr: Démos live
-      en: Live demos
+      fr: Démo (replay)
+      en: Live demo (replay)
 
 buttons-right: 
 
