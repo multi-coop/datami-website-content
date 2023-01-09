@@ -80,8 +80,21 @@ buttons-left:
       fr: Exemples
       en: Examples
     submenu:
+      - name: odf-observatoire
+        link: https://carto.observatoire-opendata.fr/
+        component: extLink
+        label:
+          fr: Open Data France - observatoire
+          en: Open Data France - observatory
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
+      - name: sep
+        separator: true
       - name: demo-rhinocc
-        link: https://datami-demo-rhinoc-inclusion.netlify.app
+        link: https://rhinocc-carto-preprod.netlify.app/
         component: extLink
         label:
           fr: Rhinocc - médiation numérique
@@ -91,8 +104,30 @@ buttons-left:
           label: 
             fr: new
             en: new
+      - name: demo-conumm
+        link: https://www.carto.conumm.fr
+        component: extLink
+        label:
+          fr: CONUMM - médiation numérique
+          en: CONUMM - digital mediation
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
+      - name: demo-ternum
+        link: https://bfc-carto.netlify.app/
+        component: extLink
+        label:
+          fr: BFC Ternum - médiation numérique
+          en: BFC Ternum - digital mediation
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
       - name: demo-doubs
-        link: https://datami-demo-doubs-inclusion.netlify.app/
+        link: https://inclusionnumerique.doubs.fr/
         component: extLink
         label:
           fr: Département du Doubs - médiation numérique
@@ -102,12 +137,27 @@ buttons-left:
           label: 
             fr: new
             en: new
+      - name: sep
+        separator: true
       - name: demo-ping
-        link: https://datami-demo-ping-tiers-lieux.netlify.app/
+        link: https://tierslieux.cartes.pingbase.net/
         component: extLink
         label:
           fr: Ping - tiers-lieux
           en: Ping - tiers-lieux
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
+      - name: sep
+        separator: true
+      - name: decider-ensemble
+        link: https://decider-ensemble.netlify.app/
+        component: extLink
+        label:
+          fr: Décider Ensemble - ressources
+          en: Décider Ensemble - ressources
         tag:
           type: success
           label: 
