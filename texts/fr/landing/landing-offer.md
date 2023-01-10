@@ -86,11 +86,11 @@
           flex-direction: column;">
         <div class="card-content is-size-7-touch">
           <p class="mb-2 has-text-weight-bold">
-            Vous avez déjà un besoin particulier ?
+            Vous avez déjà un besoin particulier pour produire des données ?
             Vous souhaiteriez que Datami ait de nouvelles fonctionnalités ?
           </p>
           <p class="mb-2">
-            Nous avons à coeur de continuer à développer et d'améliorer Datami.
+            Nous avons à coeur de continuer à développer et d'améliorer Datami, et nous proposons également des services en data-science.
           </p>
           <p class="mb-2">
             Dans un principe de <b>mutualisation des coûts de développements</b> sachez que tous les développements - même minimes - contribuant à améliorer Datami profitent au final à tous les utilisateurs.

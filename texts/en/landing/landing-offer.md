@@ -67,7 +67,7 @@
         </div>
       </div>
       <a
-        href="https://gitlab.com/multi-coop/datami"
+        href="https://gitlab.com/multi-coop/datami-project/datami"
         class="mt-3 button is-light is-fullwidth">
         <span
           class="icon mr-3">
@@ -88,11 +88,11 @@
           flex-direction: column;">
         <div class="card-content is-size-7-touch">
           <p class="mb-2 has-text-weight-bold">
-            You have a specific need ?
+            You have a specific need to produce datasets ?
             You would like Datami to include new features ?
           </p>
           <p class="mb-2">
-            We keep developping and consolidating Datami source code.
+            We keep developping and consolidating Datami source code, and we also provide data-science services.
           </p>
           <p class="mb-2">
             We follow a principle of <b>mutualizing the developments</b>.

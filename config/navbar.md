@@ -31,6 +31,13 @@ buttons-left:
         label: 
           fr: Accueil
           en: Homepage
+      - name: offer
+        link: /
+        scrollTo: landing-offer
+        component: simpleLink
+        label: 
+          fr: Notre offre
+          en: Our offer
       - name: clients
         link: /
         scrollTo: landing-clients
@@ -301,7 +308,7 @@ buttons-right:
 
   - name: repo 
     # link: https://gitlab.com/multi-coop/gitribute
-    link: https://gitlab.com/multi-coop/datami
+    link: https://gitlab.com/multi-coop/datami-project/datami
     icon: gitlab
     component: extLink
     options: [ arrowless ]

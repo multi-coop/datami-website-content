@@ -34,7 +34,7 @@ routes:
         component: TextComponent
         options:
           columns-size: full
-          custom-class: mt-6 pt-6
+          custom-class: mt-3 pt-6
           name:
             fr: Notre offre
             en: Our offer
@@ -297,7 +297,7 @@ routes:
             #   label: 
             #     fr: Roadmap
             #     en: Roadmap
-            - link: https://gitlab.com/multi-coop/gitribute
+            - link: https://gitlab.com/multi-coop/datami-project/datami
               icon-left: gitlab
               rounded: false
               size: is-large
