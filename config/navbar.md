@@ -152,6 +152,19 @@ buttons-left:
             en: new
       - name: sep
         separator: true
+      - name: demo-ifn
+        link: https://etude-ifn-parentalite.netlify.app/
+        component: extLink
+        label:
+          fr: La Trousse à projets - indice de fragilité numérique parentalité
+          en: La Trousse à projets - parental digital fragility index
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
+      - name: sep
+        separator: true
       - name: decider-ensemble
         link: https://decider-ensemble.netlify.app/
         component: extLink
