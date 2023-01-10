@@ -12,10 +12,10 @@
       class="subtitle mt-4 mb-6 is-hidden-touch"
       style="font-weight: 400; line-height: 1.75; font-size: 2rem;">
       <span>
-        <i>No code</i>,
+        <i>Low code</i>,
       </span>
       <span>
-        sans surcoût,
+        sans abonnement,
       </span>
       <span
         style="border-bottom: 1px solid black;">
