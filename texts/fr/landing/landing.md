@@ -10,7 +10,7 @@
     </p>
     <p
       class="subtitle mt-4 mb-6 is-hidden-touch"
-      style="font-weight: 400; line-height: 1.75; font-size: 2rem;">
+      style="font-weight: 400; line-height: 1.75; font-size: 1.8rem;">
       <span>
         <i>Low code</i>,
       </span>

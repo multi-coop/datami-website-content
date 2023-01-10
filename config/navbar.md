@@ -87,10 +87,10 @@ buttons-left:
           fr: Open Data France - observatoire
           en: Open Data France - observatory
         tag:
-          type: success
+          type: light-info
           label: 
-            fr: new
-            en: new
+            fr: data
+            en: data
       - name: sep
         separator: true
       - name: demo-rhinocc
@@ -206,12 +206,22 @@ buttons-left:
         label: 
           fr: Fabmob - Projets du wiki
           en: Fabmob - Projects from wikimedia
+        tag:
+          type: light-warning
+          label: 
+            fr: wiki
+            en: wiki
       - name: demo-aac
         link: /demo-aac
         component: simpleLink
         label: 
           fr: AAC - Projets du wiki
           en: AAC - Projects from wikimedia
+        tag:
+          type: light-warning
+          label: 
+            fr: wiki
+            en: wiki
 
   - name: docs 
     # icon: book-open-variant

@@ -30,6 +30,17 @@ routes:
         files:
           fr: ./texts/fr/landing/landing.md
           en: ./texts/en/landing/landing.md
+      - name: landing-offer
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: mt-6 pt-6
+          name:
+            fr: Notre offre
+            en: Our offer
+        files:
+          fr: ./texts/fr/landing/landing-offer.md
+          en: ./texts/en/landing/landing-offer.md
       - name: landing-clients
         component: TextComponent
         options:
@@ -45,7 +56,7 @@ routes:
         component: TextComponent
         options:
           columns-size: full
-          custom-class: mt-6 pt-6 is-hidden-mobile
+          custom-class: mt-6 pt-6 mb-0 pb-0 is-hidden-mobile
           name:
             fr: Exemple d'intégration d'un vizboard
             en: An example of a vizboard
