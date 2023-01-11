@@ -6,12 +6,17 @@
 
 <div class="content">
 
-  <div class="columns mb-6 pb-6 px-3 is-multiline">
+  <div class="columns mb-6 px-3 is-multiline is-centered">
     <!-- CONFIGURAITON -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
-      <p class="message is-info is-light is-size-5 is-size-7-touch has-text-centered has-text-weight-bold">
-        Mise en place de Datami
-      </p>
+      <div
+        class="message is-light is-flex is-justify-content-center is-align-items-center"
+        style="height: 3.7em;">
+        <span
+          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          Mise en place de Datami
+        </span>
+      </div>
       <div
         class="card"
         style="height: 80%;
@@ -25,7 +30,7 @@
             Nous pouvons vous aider à configurer Datami et vous conseiller dans la réalisation de votre projet de valorisation de données.
           </p>
           <p class="mb-0">
-            Nous proposons un <b>forfait de quelques jours d'accompagnement</b>.
+            Nous proposons un <b>forfait de quelques jours d'accompagnement</b> pour cet accompagnement.
           </p>
         </div>
       </div>
@@ -36,14 +41,19 @@
           class="icon mr-3">
           <i class="mdi mdi-email"></i>
         </span>
-        Nous contacter
+        Notre forfait accompagnement
       </a>
     </div>
     <!-- FREE -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
-      <p class="message is-info is-light is-size-5 is-size-7-touch has-text-centered has-text-weight-bold">
-        Logiciel libre
-      </p>
+      <div
+        class="message is-light is-flex is-justify-content-center is-align-items-center"
+        style="height: 3.7em;">
+        <span
+          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          Logiciel libre
+        </span>
+      </div>
       <div
         class="card"
         style="height: 80%;
@@ -76,9 +86,14 @@
     </div>
     <!-- DEVS -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
-      <p class="message is-info is-light is-size-5 is-size-7-touch has-text-centered has-text-weight-bold">
-        Développements personnalisés
-      </p>
+      <div
+        class="message is-light is-flex is-justify-content-center is-align-items-center"
+        style="height: 3.7em;">
+        <span
+          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          Développements personnalisés
+        </span>
+      </div>
       <div
         class="card"
         style="height: 80%;
@@ -92,9 +107,6 @@
           <p class="mb-2">
             Nous avons à coeur de continuer à développer et d'améliorer Datami, et nous proposons également des services en data-science.
           </p>
-          <p class="mb-2">
-            Dans un principe de <b>mutualisation des coûts de développements</b> sachez que tous les développements - même minimes - contribuant à améliorer Datami profitent au final à tous les utilisateurs.
-          </p>
           <p class="mb-0">
             N'hésitez pas à nous <b>demander un devis</b>.
           </p>
@@ -107,8 +119,16 @@
           class="icon mr-3">
           <i class="mdi mdi-email"></i>
         </span>
-        Nous contacter
+        Demander un devis
       </a>
+    </div>
+    <div class="column is-8-tablet is-6-desktop is-5-widescreen mt-3 mb-6 mx-6 pb-6">
+      <p class="mb-1 has-text-justified">
+        Afin de rendre Datami le plus accessible possible, nous avons pour principe celui de <b>mutualiser les coûts de développements</b>.
+      </p>
+      <p>
+        Tous les développements - même minimes - contribuant à améliorer Datami profitent ainsi au final à <b>tous les utilisateurs</b>.
+      </p>
     </div>
   </div>
 

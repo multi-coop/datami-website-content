@@ -6,12 +6,17 @@
 
 <div class="content">
 
-  <div class="columns mb-6 pb-6 px-3 is-multiline">
+  <div class="columns mb-6 pb-6 px-3 is-multiline is-centered">
     <!-- CONFIGURAITON -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
-      <p class="message is-info is-light is-size-5 is-size-7-touch has-text-centered has-text-weight-bold">
-        Setting up Datami
-      </p>
+      <div
+        class="message is-light is-flex is-justify-content-center is-align-items-center"
+        style="height: 3.7em;">
+        <span
+          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          Setting up Datami
+        </span>
+      </div>
       <div
         class="card"
         style="height: 80%;
@@ -36,14 +41,19 @@
           class="icon mr-3">
           <i class="mdi mdi-email"></i>
         </span>
-        Contact us
+        Ask for our package
       </a>
     </div>
     <!-- FREE -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
-      <p class="message is-info is-light is-size-5 is-size-7-touch has-text-centered has-text-weight-bold">
-        Free software
-      </p>
+      <div
+        class="message is-light is-flex is-justify-content-center is-align-items-center"
+        style="height: 3.7em;">
+        <span
+          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          Free software
+        </span>
+      </div>
       <div
         class="card"
         style="height: 80%;
@@ -78,9 +88,14 @@
     </div>
     <!-- DEVS -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
-      <p class="message is-info is-light is-size-5 is-size-7-touch has-text-centered has-text-weight-bold">
-        Custom features
-      </p>
+      <div
+        class="message is-light is-flex is-justify-content-center is-align-items-center"
+        style="height: 3.7em;">
+        <span
+          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          Custom features
+        </span>
+      </div>
       <div
         class="card"
         style="height: 80%;
@@ -94,10 +109,6 @@
           <p class="mb-2">
             We keep developping and consolidating Datami source code, and we also provide data-science services.
           </p>
-          <p class="mb-2">
-            We follow a principle of <b>mutualizing the developments</b>.
-            All developments - even the slightest - contributing to make Datami better are eventually benefiting all Datami users.
-          </p>
           <p class="mb-0">
             Please ask us for an <b>estimate</b>.
           </p>
@@ -110,8 +121,16 @@
           class="icon mr-3">
           <i class="mdi mdi-email"></i>
         </span>
-        Contact us
+        Ask for an estimate
       </a>
+    </div>
+    <div class="column is-8-tablet is-6-desktop is-5-widescreen mt-3 mb-6 mx-6 pb-6">
+      <p class="mb-1 has-text-justified">
+        We follow a principle of <b>mutualizing the developments costs</b>, so everyone could afford to use our solution.
+      </p>
+      <p>
+        All developments - even the slightest - contributing to make Datami better are eventually benefiting <b>all users</b>.
+      </p>
     </div>
   </div>
 
