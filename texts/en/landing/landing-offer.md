@@ -28,7 +28,7 @@
           display: flex;
           flex-direction: column;">
         <div class="card-image">
-          <figure class="image">
+          <figure class="image mt-2">
             <img
               src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/offer/datami-logo-setup.png"
               alt="datami-offer-setup"
@@ -74,7 +74,7 @@
           display: flex;
           flex-direction: column;">
         <div class="card-image">
-          <figure class="image">
+          <figure class="image mt-2">
             <img
               src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/offer/datami-logo-pack.png"
               alt="datami-offer-spacketup"
@@ -125,7 +125,7 @@
           display: flex;
           flex-direction: column;">
         <div class="card-image">
-          <figure class="image">
+          <figure class="image mt-2">
             <img
               src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/offer/datami-logo-custom_dev.png"
               alt="datami-offer-custom_dev"

@@ -11,8 +11,8 @@
     <p
       class="subtitle mt-4 mb-6 is-hidden-touch"
       style="font-weight: 400; line-height: 1.75; font-size: 2rem;">
-      No coding,
-      no hidden cost,
+      <i>Low code</i>,
+      no subscription,
       <span
         style="border-bottom: 1px solid black;">
         no pain

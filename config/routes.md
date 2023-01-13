@@ -51,7 +51,7 @@ routes:
             en: They support Datami
         files:
           fr: ./texts/fr/landing/landing-clients.md
-          en: ./texts/fr/landing/landing-clients.md
+          en: ./texts/en/landing/landing-clients.md
       - name: landing-demo-intro
         component: TextComponent
         options:

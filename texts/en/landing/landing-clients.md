@@ -1,4 +1,6 @@
-<h1 class="has-text-centered mt-6 mb-6">
+<h1
+  class="has-text-centered mt-6"
+  style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
   They support Datami
 </h1>
 
