@@ -1,7 +1,12 @@
 <h1
   class="has-text-centered mt-6 mb-6 pt-6"
   style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
-  Notre offre
+  L'offre Datami par
+  <a
+    href="https://multi.coop"
+    target="_blank">
+    multi
+  </a>
 </h1>
 
 <div class="content">
@@ -33,13 +38,13 @@
         </div>
         <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2 has-text-weight-bold">
-            Vous avez déjà un ou plusieurs fichiers csv mais vous avez besoin d'aide pour la mise en place de Datami ?
+            Vous avez déjà un ou plusieurs fichiers (tableurs ou autres) que vous voudriez valoriser sur votre site, mais vous avez besoin d'aide pour la mise en place de Datami ?
           </p>
           <p class="mb-2">
             Nous pouvons vous aider à configurer Datami et vous conseiller dans la réalisation de votre projet de valorisation de données.
           </p>
           <p class="mb-0">
-            Nous proposons un <b>forfait de quelques jours</b> pour cet accompagnement.
+            Nous proposons un <b>forfait économique de quelques jours seulement</b> pour cet accompagnement.
           </p>
         </div>
       </div>

@@ -1,7 +1,12 @@
 <h1
   class="has-text-centered mt-6 mb-6 pt-6"
   style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
-  Our offer
+  the Datami offer by
+  <a
+    href="https://multi.coop"
+    target="_blank">
+    multi
+  </a>
 </h1>
 
 <div class="content">
@@ -33,13 +38,13 @@
         </div>
         <div class="card-content is-size-6-touch">
           <p class="mb-2 has-text-weight-bold">
-            You already have one or several csv files, but you would need some help to set up Datami ?
+            You already have one or several files (tables or else) you would like to valorize on your website, but you would need some help to set up Datami ?
           </p>
           <p class="mb-2">
             We can help you to configure Datami and to realize your datavisualisation project.
           </p>
           <p class="mb-0">
-            We propose a <b>package of a few days to assist you </b>.
+            We propose a <b>package of only a few days to assist you</b>.
           </p>
         </div>
       </div>
