@@ -7,13 +7,13 @@
 <div class="content">
 
   <div class="columns mb-6 px-3 is-multiline is-centered">
-    <!-- CONFIGURAITON -->
+    <!-- CONFIGURATION -->
     <div class="column is-4-tablet is-one-third-desktop mb-6">
       <div
         class="message is-light is-flex is-justify-content-center is-align-items-center"
         style="height: 3.7em;">
         <span
-          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          class="has-text-centered is-size-5 is-size-6-touch has-text-weight-bold">
           Mise en place de Datami
         </span>
       </div>
@@ -22,7 +22,16 @@
         style="height: 80%;
           display: flex;
           flex-direction: column;">
-        <div class="card-content is-size-7-touch">
+        <div class="card-image">
+          <figure class="image">
+            <img
+              src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/offer/datami-logo-setup.png"
+              alt="datami-offer-setup"
+            />
+            <!-- <img src="http://localhost:8800/statics/images/offer/datami-logo-setup.png"> -->
+          </figure>
+        </div>
+        <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2 has-text-weight-bold">
             Vous avez déjà un ou plusieurs fichiers csv mais vous avez besoin d'aide pour la mise en place de Datami ?
           </p>
@@ -50,7 +59,7 @@
         class="message is-light is-flex is-justify-content-center is-align-items-center"
         style="height: 3.7em;">
         <span
-          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          class="has-text-centered is-size-5 is-size-6-touch has-text-weight-bold">
           Logiciel libre
         </span>
       </div>
@@ -59,7 +68,16 @@
         style="height: 80%;
           display: flex;
           flex-direction: column;">
-        <div class="card-content is-size-7-touch">
+        <div class="card-image">
+          <figure class="image">
+            <img
+              src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/offer/datami-logo-pack.png"
+              alt="datami-offer-spacketup"
+            />
+            <!-- <img src="http://localhost:8800/statics/images/offer/datami-logo-pack.png"> -->
+          </figure>
+        </div>
+        <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2">
             <b>Vous avez déjà un ou plusieurs fichiers csv, et vous savez configurer Datami</b>
             (grâce à la
@@ -90,7 +108,7 @@
         class="message is-light is-flex is-justify-content-center is-align-items-center"
         style="height: 3.7em;">
         <span
-          class="has-text-centered is-size-5 is-size-7-touch has-text-weight-bold">
+          class="has-text-centered is-size-5 is-size-6-touch has-text-weight-bold">
           Développements personnalisés
         </span>
       </div>
@@ -99,7 +117,16 @@
         style="height: 80%;
           display: flex;
           flex-direction: column;">
-        <div class="card-content is-size-7-touch">
+        <div class="card-image">
+          <figure class="image">
+            <img
+              src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/offer/datami-logo-custom_dev.png"
+              alt="datami-offer-custom_dev"
+            />
+            <!-- <img src="http://localhost:8800/statics/images/offer/datami-logo-custom_dev.png"> -->
+          </figure>
+        </div>
+        <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2 has-text-weight-bold">
             Vous avez déjà un besoin particulier pour produire des données ?
             Vous souhaiteriez que Datami ait de nouvelles fonctionnalités ?

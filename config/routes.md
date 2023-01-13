@@ -45,13 +45,13 @@ routes:
         component: TextComponent
         options:
           columns-size: full
-          custom-class: my-6 py-6
+          custom-class: my-6 py-6 mx-4
           name:
-            fr: Ils soutiennent Vizbord
-            en: They support vizborad
+            fr: Ils soutiennent Datami
+            en: They support Datami
         files:
           fr: ./texts/fr/landing/landing-clients.md
-          en: ./texts/en/landing/landing-clients.md
+          en: ./texts/fr/landing/landing-clients.md
       - name: landing-demo-intro
         component: TextComponent
         options:
