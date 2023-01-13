@@ -39,7 +39,7 @@
             Nous pouvons vous aider à configurer Datami et vous conseiller dans la réalisation de votre projet de valorisation de données.
           </p>
           <p class="mb-0">
-            Nous proposons un <b>forfait de quelques jours d'accompagnement</b> pour cet accompagnement.
+            Nous proposons un <b>forfait de quelques jours</b> pour cet accompagnement.
           </p>
         </div>
       </div>
