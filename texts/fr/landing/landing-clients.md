@@ -1,5 +1,4 @@
-<h1
-  class="has-text-centered mt-6">
+<h1 class="has-text-centered mt-6">
   Ils soutiennent Datami
 </h1>
 
