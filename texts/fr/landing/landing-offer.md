@@ -49,7 +49,7 @@
         </div>
       </div>
       <a
-        href="mailto:contact@multi.coop"
+        href="mailto:contact@multi.coop?subject=Datami - Demande de forfait"
         class="mt-3 button is-primary is-fullwidth">
         <span
           class="icon mr-3">
@@ -133,11 +133,11 @@
         </div>
         <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2 has-text-weight-bold">
-            Vous avez déjà un besoin particulier pour produire des données ?
+            Vous avez comme besoin de produire des jeux de données inédits ?
             Vous souhaiteriez que Datami ait de nouvelles fonctionnalités ?
           </p>
           <p class="mb-2">
-            Nous avons à coeur de continuer à développer et d'améliorer Datami, et nous proposons également des services en data-science.
+            Nous avons à coeur de continuer à développer et d'améliorer Datami, et nous proposons également des services en data-science et data engineering.
           </p>
           <p class="mb-0">
             N'hésitez pas à nous <b>demander un devis</b>.
@@ -145,7 +145,7 @@
         </div>
       </div>
       <a
-        href="mailto:contact@multi.coop"
+        href="mailto:contact@multi.coop?subject=Datami - Demande de devis"
         class="mt-3 button is-primary is-fullwidth">
         <span
           class="icon mr-3">

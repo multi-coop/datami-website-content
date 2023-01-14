@@ -49,7 +49,7 @@
         </div>
       </div>
       <a
-        href="mailto:contact@multi.coop"
+        href="mailto:contact@multi.coop?subject=Datami - Package"
         class="mt-3 button is-primary is-fullwidth">
         <span
           class="icon mr-3">
@@ -147,7 +147,7 @@
         </div>
       </div>
       <a
-        href="mailto:contact@multi.coop"
+        href="mailto:contact@multi.coop?subject=Datami - Estimate for custom developments"
         class="mt-3 button is-primary is-fullwidth">
         <span
           class="icon mr-3">
