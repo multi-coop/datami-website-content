@@ -55,7 +55,7 @@
           class="icon mr-3">
           <i class="mdi mdi-email"></i>
         </span>
-        Notre forfait accompagnement
+        Demander un forfait
       </a>
     </div>
     <!-- FREE -->
