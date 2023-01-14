@@ -101,6 +101,7 @@
       </div>
       <a
         href="https://gitlab.com/multi-coop/datami-project/datami"
+        target="_blank"
         class="mt-3 button is-light is-fullwidth">
         <span
           class="icon mr-3">
