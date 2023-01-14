@@ -41,7 +41,7 @@
             Vous avez un ou plusieurs fichiers (tableurs ou autres) que vous voudriez valoriser sur votre site avec Datami, mais vous avez besoin d'aide pour la mise en place ?
           </p>
           <p class="mb-2">
-            Nous pouvons vous aider à configurer Datami et vous conseiller dans la réalisation de votre projet de valorisation de données.
+            Nous pouvons vous aider à configurer Datami et vous conseiller dans votre projet de valorisation de données.
           </p>
           <p class="mb-0">
             Nous proposons un <b>forfait économique de quelques jours seulement</b> pour cet accompagnement.
