@@ -38,7 +38,7 @@
         </div>
         <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2 has-text-weight-bold">
-            Vous avez déjà un ou plusieurs fichiers (tableurs ou autres) que vous voudriez valoriser sur votre site, mais vous avez besoin d'aide pour la mise en place de Datami ?
+            Vous avez un ou plusieurs fichiers (tableurs ou autres) que vous voudriez valoriser sur votre site avec Datami, mais vous avez besoin d'aide pour la mise en place ?
           </p>
           <p class="mb-2">
             Nous pouvons vous aider à configurer Datami et vous conseiller dans la réalisation de votre projet de valorisation de données.
@@ -84,15 +84,16 @@
         </div>
         <div class="card-content is-size-6-touch pt-0">
           <p class="mb-2">
-            <b>Vous avez déjà un ou plusieurs fichiers csv, et vous savez configurer Datami</b>
+            <b>Vous avez un ou plusieurs fichiers à valoriser sur votre site, et vous savez configurer Datami</b>
             (grâce à la
             <a href="https://datami-docs.multi.coop">
-              documentation
+              documentation technique
             </a>
             )
             <b>?</b>
           </p>
           <p class="mb-0">
+            Datami est un outil 100% <i>open source</i>.
             Vous pouvez utiliser Datami tel quel, vous êtes <b>libre</b> !
           </p>
         </div>
