@@ -236,6 +236,19 @@ buttons-left:
           label: 
             fr: wiki
             en: wiki
+      - name: sep
+        separator: true
+      - name: katalog
+        link: https://konsilion.fr/katalog/projets/home/
+        component: extLink
+        label:
+          fr: Konsilion - Katalog
+          en: Konsilion - Katalog
+        tag:
+          type: success
+          label: 
+            fr: libre
+            en: libre
 
   - name: docs 
     # icon: book-open-variant
