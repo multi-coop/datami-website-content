@@ -35,25 +35,23 @@
       </p>
     </div>
     <div class="column is-10 is-full-touch py-0 has-text-centered">
-      <a href="#video-presentation-top">
-        <figure
-          class="image mx-0 pt-0 my-0">
-          <video
-            id="datami-video-presentation"
-            width="1920"
-            height="1080"
-            style="box-shadow: 0 0 20px #D7D7D7;"
-            poster="https://raw.githubusercontent.com/multi-coop/datami-website-content/images/logos/logo-DATAMI-rect-colors-03.png"
-            controls>
-            <source
-              src="http://localhost:8800/statics/videos/DATAMI_PRESENTATION-FR.mp4"
-              type="video/mp4">
-            <!-- <source
-              src="https://raw.githubusercontent.com/multi-coop/datami-website-content/julien-video/videos/DATAMI_PRESENTATION-FR.mp4"
-              type="video/mp4"> -->
-          </video>
-        </figure>
-      </a>
+      <figure
+        class="image mx-0 pt-0 my-0">
+        <video
+          id="datami-video-presentation"
+          width="1921"
+          height="1080"
+          style="box-shadow: 0 0 20px #D7D7D7;"
+          poster="https://raw.githubusercontent.com/multi-coop/datami-website-content/images/logos/logo-DATAMI-rect-colors-03.png"
+          controls>
+          <!-- <source
+            src="http://localhost:8800/statics/videos/DATAMI_PRESENTATION-FR.mp4"
+            type="video/mp4"> -->
+          <source
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/videos/DATAMI_PRESENTATION-FR.mp4#t=0,94"
+            type="video/mp4">
+        </video>
+      </figure>
     </div>
     <div class="column is-10 mt-4 is-full-touch">
       <div class="columns">
@@ -62,7 +60,6 @@
             href="#section-landing-simplify"
             class="button is-light is-large is-fullwidth"
             type="button">
-            <!-- style="box-shadow: -5px 5px 5px #D7D7D7"> -->
             <span class="has-text-dark">
               <span>
                 Découvrir
@@ -75,7 +72,6 @@
             href="mailto:contact@multi.coop"
             class="button is-light is-large is-fullwidth"
             type="button">
-            <!-- style="box-shadow: -5px 5px 5px #D7D7D7"> -->
             <span class="has-text-dark">
               <span>
                 Nous contacter
