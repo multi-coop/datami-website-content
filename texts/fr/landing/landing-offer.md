@@ -37,13 +37,13 @@
           </figure>
         </div>
         <div class="card-content is-size-6-touch pt-0">
-          <p class="mb-2 has-text-weight-bold">
+          <p class="mb-2 has-text-weight-bold has-text-justified">
             Vous avez un ou plusieurs fichiers (tableurs ou autres) que vous voudriez valoriser sur votre site avec Datami, mais vous avez besoin d'aide pour la mise en place ?
           </p>
-          <p class="mb-2">
+          <p class="mb-2 has-text-justified">
             Nous pouvons vous aider à configurer Datami et vous conseiller dans votre projet de valorisation de données.
           </p>
-          <p class="mb-0">
+          <p class="mb-0 has-text-justified">
             Nous proposons un <b>forfait économique de quelques jours seulement</b> pour cet accompagnement.
           </p>
         </div>
@@ -83,7 +83,7 @@
           </figure>
         </div>
         <div class="card-content is-size-6-touch pt-0">
-          <p class="mb-2">
+          <p class="mb-2 has-text-justified">
             <b>Vous avez un ou plusieurs fichiers à valoriser sur votre site, et vous savez configurer Datami</b>
             (grâce à la
             <a href="https://datami-docs.multi.coop">
@@ -92,7 +92,7 @@
             )
             <b>?</b>
           </p>
-          <p class="mb-0">
+          <p class="mb-0 has-text-justified">
             Datami est un outil 100% <i>open source</i>.
             Vous pouvez utiliser Datami tel quel, vous êtes <b>libre</b> !
           </p>
@@ -134,14 +134,14 @@
           </figure>
         </div>
         <div class="card-content is-size-6-touch pt-0">
-          <p class="mb-2 has-text-weight-bold">
+          <p class="mb-2 has-text-weight-bold has-text-justified">
             Vous avez comme besoin de produire des jeux de données inédits ?
             Vous souhaiteriez que Datami ait de nouvelles fonctionnalités ?
           </p>
-          <p class="mb-2">
+          <p class="mb-2 has-text-justified">
             Nous avons à coeur de continuer à développer et d'améliorer Datami, et nous proposons également des services en data-science et data engineering.
           </p>
-          <p class="mb-0">
+          <p class="mb-0 has-text-justified">
             N'hésitez pas à nous <b>demander un devis</b>.
           </p>
         </div>
@@ -156,11 +156,13 @@
         Demander un devis
       </a>
     </div>
-    <div class="column is-8-tablet is-6-desktop is-5-widescreen mt-3 mb-6 mx-6 pb-6">
-      <p class="mb-1 has-text-justified">
+    <div class="column is-4-tablet is-54desktop is-3-widescreen mt-3 mb-0 mx-6 pb-0">
+      <p class="has-text-justified">
         Afin de rendre Datami le plus accessible possible, nous avons pour principe celui de <b>mutualiser les coûts de développements</b>.
       </p>
-      <p>
+    </div>
+    <div class="column is-4-tablet is-4-desktop is-3-widescreen mt-3 mb-0 mx-6 pb-0">
+      <p class="has-text-justified">
         Tous les développements - même minimes - contribuant à améliorer Datami profitent ainsi au final à <b>tous les utilisateurs</b>.
       </p>
     </div>

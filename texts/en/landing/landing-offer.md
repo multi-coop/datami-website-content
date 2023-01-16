@@ -37,13 +37,13 @@
           </figure>
         </div>
         <div class="card-content is-size-6-touch">
-          <p class="mb-2 has-text-weight-bold">
+          <p class="mb-2 has-text-weight-bold has-text-justified">
             You already have one or several files (tables or else) you would like to valorize on your website, but you would need some help to set up Datami ?
           </p>
-          <p class="mb-2">
+          <p class="mb-2 has-text-justified">
             We can help you to configure Datami and to realize your datavisualisation project.
           </p>
-          <p class="mb-0">
+          <p class="mb-0 has-text-justified">
             We propose a <b>package of only a few days to assist you</b>.
           </p>
         </div>
@@ -83,7 +83,7 @@
           </figure>
         </div>
         <div class="card-content is-size-6-touch">
-          <p class="mb-2">
+          <p class="mb-2 has-text-justified">
             <b>
               Yous already have one or several csv files, and you know how Datami works ?
             </b>
@@ -94,7 +94,7 @@
             )
             <b>?</b>
           </p>
-          <p class="mb-0">
+          <p class="mb-0 has-text-justified">
             You can use Datami as mush as you like, you are <b>free</b> !
           </p>
         </div>
@@ -135,14 +135,14 @@
           </figure>
         </div>
         <div class="card-content is-size-6-touch">
-          <p class="mb-2 has-text-weight-bold">
+          <p class="mb-2 has-text-weight-bold has-text-justified">
             You have a specific need to produce datasets ?
             You would like Datami to include new features ?
           </p>
-          <p class="mb-2">
+          <p class="mb-2 has-text-justified">
             We keep developping and consolidating Datami source code, and we also provide data-science services.
           </p>
-          <p class="mb-0">
+          <p class="mb-0 has-text-justified">
             Please ask us for an <b>estimate</b>.
           </p>
         </div>
@@ -157,12 +157,14 @@
         Ask for an estimate
       </a>
     </div>
-    <div class="column is-8-tablet is-6-desktop is-5-widescreen mt-3 mb-6 mx-6 pb-6">
-      <p class="mb-1 has-text-justified">
+    <div class="column is-4-tablet is-54desktop is-3-widescreen mt-3 mb-0 mx-6 pb-0">
+      <p class="has-text-justified">
         We follow a principle of <b>mutualizing the developments costs</b>, so everyone could afford to use our solution.
       </p>
-      <p>
-        All developments - even the slightest - contributing to make Datami better are eventually benefiting <b>all users</b>.
+    </div>
+    <div class="column is-4-tablet is-54desktop is-3-widescreen mt-3 mb-0 mx-6 pb-0">
+      <p class="has-text-justified">
+        Every development - even the slightest - contributing to make Datami better are eventually benefiting to <b>all users</b>.
       </p>
     </div>
   </div>
