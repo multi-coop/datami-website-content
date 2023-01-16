@@ -95,6 +95,9 @@
             <b>?</b>
           </p>
           <p class="mb-0 has-text-justified">
+            Datami is an <b>100% open source</b> tool.
+          </p>
+          <p class="mb-0 has-text-justified">
             You can use Datami as mush as you like, you are <b>free</b> !
           </p>
         </div>
