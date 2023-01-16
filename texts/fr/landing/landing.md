@@ -60,10 +60,10 @@
         <div class="column is-6">
           <a
             href="#section-landing-simplify"
-            class="button is-dark is-large is-fullwidth"
-            type="button"
-            style="box-shadow: -5px 5px 5px #D7D7D7">
-            <span class="has-text-white">
+            class="button is-light is-large is-fullwidth"
+            type="button">
+            <!-- style="box-shadow: -5px 5px 5px #D7D7D7"> -->
+            <span class="has-text-dark">
               <span>
                 Découvrir
               </span>
@@ -73,10 +73,10 @@
         <div class="column is-6">
           <a
             href="mailto:contact@multi.coop"
-            class="button is-dark is-large is-fullwidth"
-            type="button"
-            style="box-shadow: -5px 5px 5px #D7D7D7">
-            <span class="has-text-white">
+            class="button is-light is-large is-fullwidth"
+            type="button">
+            <!-- style="box-shadow: -5px 5px 5px #D7D7D7"> -->
+            <span class="has-text-dark">
               <span>
                 Nous contacter
               </span>
