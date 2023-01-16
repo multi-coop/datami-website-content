@@ -13,10 +13,13 @@
     <p
       class="subtitle mt-2 mb-3 is-hidden-touch"
       style="font-weight: 400; line-height: 1.75; font-size: 2rem;">
-      <i>Low code</i>,
-      no subscription,
-      <span
-        style="border-bottom: 1px solid black;">
+      <span>
+        <i>Low code</i>,
+      </span>
+      <span>
+        no subscription,
+      </span>
+      <span>
         no pain
       </span>
       <figure class="is-hidden-desktop mt-6">

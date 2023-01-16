@@ -22,8 +22,7 @@
         <span>
           sans abonnement,
         </span>
-        <span
-          style="border-bottom: 1px solid black;">
+        <span>
           sans souci
         </span>
         <!-- <figure class="is-hidden-desktop mt-6">
