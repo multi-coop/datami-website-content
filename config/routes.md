@@ -12,8 +12,8 @@ routes:
         fr: Accueil
         en: Homepage
       description:
-        fr: Page d'accueil de la documentation de Datami
-        en: Homepage for Datami documentation
+        fr: Page d'accueil
+        en: Homepage
       keywords:
         fr: [ accueil, landing ]
         en: [ homepage, landing ]
@@ -30,6 +30,17 @@ routes:
         files:
           fr: ./texts/fr/landing/landing.md
           en: ./texts/en/landing/landing.md
+      # - name: landing-video-presentation
+      #   component: TextComponent
+      #   options:
+      #     columns-size: full
+      #     custom-class: mt-0 pt-0
+      #     name:
+      #       fr: Vidéo
+      #       en: Video
+      #   files:
+      #     fr: ./texts/fr/landing/landing-video-presentation.md
+      #     en: ./texts/fr/landing/landing-video-presentation.md
       - name: landing-offer
         component: TextComponent
         options:
@@ -63,17 +74,17 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-demo-intro.md
           en: ./texts/en/landing/landing-demo-intro.md
-      - name: demo-datami-odf-observatoire
-        component: HtmlComponent
-        options:
-          columns-size: three-quarters
-          custom-class: mb-6 pb-6 is-hidden-mobile
-          name:
-            fr: Découvrir
-            en: Discover
-        files:
-          fr: ./texts/gallery/demo-odf-observatoire.html
-          en: ./texts/gallery/demo-odf-observatoire.html
+      # - name: demo-datami-odf-observatoire
+      #   component: HtmlComponent
+      #   options:
+      #     columns-size: three-quarters
+      #     custom-class: mb-6 pb-6 is-hidden-mobile
+      #     name:
+      #       fr: Découvrir
+      #       en: Discover
+      #   files:
+      #     fr: ./texts/gallery/demo-odf-observatoire.html
+      #     en: ./texts/gallery/demo-odf-observatoire.html
       - name: landing-simplify
         component: TextComponent
         options:

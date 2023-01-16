@@ -31,6 +31,13 @@ buttons-left:
         label: 
           fr: Accueil
           en: Homepage
+      # - name: video-presentation
+      #   link: /
+      #   scrollTo: landing-video-presentation
+      #   component: simpleLink
+      #   label: 
+      #     fr: Vidéo de présentation
+      #     en: Video
       - name: offer
         link: /
         scrollTo: landing-offer
