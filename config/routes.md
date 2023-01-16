@@ -12,8 +12,8 @@ routes:
         fr: Accueil
         en: Homepage
       description:
-        fr: Page d'accueil de la documentation de Datami
-        en: Homepage for Datami documentation
+        fr: Page d'accueil
+        en: Homepage
       keywords:
         fr: [ accueil, landing ]
         en: [ homepage, landing ]
@@ -30,6 +30,17 @@ routes:
         files:
           fr: ./texts/fr/landing/landing.md
           en: ./texts/en/landing/landing.md
+      # - name: landing-video-presentation
+      #   component: TextComponent
+      #   options:
+      #     columns-size: full
+      #     custom-class: mt-0 pt-0
+      #     name:
+      #       fr: Vidéo
+      #       en: Video
+      #   files:
+      #     fr: ./texts/fr/landing/landing-video-presentation.md
+      #     en: ./texts/fr/landing/landing-video-presentation.md
       - name: landing-offer
         component: TextComponent
         options:

@@ -6,10 +6,12 @@
       class="title"
       style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
       Edit, visualize and share your data
-      the free and easy way
+      <!-- <br class="is-hidden-touch"> -->
+      <!-- easily and  -->
+      for free
     </p>
     <p
-      class="subtitle mt-4 mb-6 is-hidden-touch"
+      class="subtitle mt-2 mb-3 is-hidden-touch"
       style="font-weight: 400; line-height: 1.75; font-size: 2rem;">
       <i>Low code</i>,
       no subscription,
