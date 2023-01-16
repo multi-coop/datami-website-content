@@ -74,17 +74,17 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-demo-intro.md
           en: ./texts/en/landing/landing-demo-intro.md
-      # - name: demo-datami-odf-observatoire
-      #   component: HtmlComponent
-      #   options:
-      #     columns-size: three-quarters
-      #     custom-class: mb-6 pb-6 is-hidden-mobile
-      #     name:
-      #       fr: Découvrir
-      #       en: Discover
-      #   files:
-      #     fr: ./texts/gallery/demo-odf-observatoire.html
-      #     en: ./texts/gallery/demo-odf-observatoire.html
+      - name: demo-datami-odf-observatoire
+        component: HtmlComponent
+        options:
+          columns-size: three-quarters
+          custom-class: mb-6 pb-6 is-hidden-mobile
+          name:
+            fr: Découvrir
+            en: Discover
+        files:
+          fr: ./texts/gallery/demo-odf-observatoire.html
+          en: ./texts/gallery/demo-odf-observatoire.html
       - name: landing-simplify
         component: TextComponent
         options:
