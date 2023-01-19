@@ -69,6 +69,13 @@ buttons-left:
         label: 
           fr: Simplifier la dataviz
           en: Simplify dataviz
+      - name: tutorial
+        link: /
+        scrollTo: landing-tutorial
+        component: simpleLink
+        label: 
+          fr: Tutoriel
+          en: Tutorial
       - name: features
         link: /
         scrollTo: landing-features
