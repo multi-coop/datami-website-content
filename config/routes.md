@@ -97,6 +97,18 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-before-after.md
           en: ./texts/en/landing/landing-before-after.md
+      - name: landing-tutorial
+        component: TextComponent
+        options:
+          columns-size: full
+          # hero: true
+          custom-class: mt-6 pt-6
+          name:
+            fr: Tutoriel
+            en: Tutorial
+        files:
+          fr: ./texts/fr/landing/landing-video-tutorial.md
+          en: ./texts/fr/landing/landing-video-tutorial.md
       - name: btn-to-contact
         component: ButtonsComponent
         options:
