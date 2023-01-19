@@ -74,8 +74,8 @@ buttons-left:
         scrollTo: landing-tutorial
         component: simpleLink
         label: 
-          fr: Tutoriel
-          en: Tutorial
+          fr: Tour d'horizon
+          en: Quick tour
       - name: features
         link: /
         scrollTo: landing-features

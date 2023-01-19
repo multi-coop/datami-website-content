@@ -1,7 +1,7 @@
 <h1
   class="has-text-centered mt-6 pt-6 mb-6"
   style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
-  Tour d'horizon de Datami
+  Quick tour
 </h1>
 <div
   class="columns is-8 mb-0 px-3 py-0 is-centered is-align-items-center is-multiline">
