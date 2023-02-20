@@ -160,6 +160,17 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-ideal.md
           en: ./texts/en/landing/landing-ideal.md
+      # - name: landing-sponsors
+      #   component: TextComponent
+      #   options:
+      #     columns-size: full
+      #     custom-class: my-6 py-6 mx-4
+      #     name:
+      #       fr: Développé avec le soutien de
+      #       en: Developped with the support of
+      #   files:
+      #     fr: ./texts/fr/landing/landing-sponsors.md
+      #     en: ./texts/en/landing/landing-sponsors.md
       - name: landing-cta
         component: TextComponent
         options:
