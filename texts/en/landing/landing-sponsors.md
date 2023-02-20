@@ -1,6 +1,6 @@
 <h1
   class="has-text-centered mt-6"
-  style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
+  style="font-weight: 900; line-height: 1.3; font-size: 3rem; margin-top: 6em !important;">
   Developped with the support of
 </h1>
 
@@ -10,8 +10,9 @@
       href="https://next-generation-eu.europa.eu/index_en"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/sponsors/nextgen-eu-logo.svg"
-        alt="next"
+        src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/sponsors/nextgen-eu-logo.png"
+        style="max-height: 75px;"
+        alt="next-generation-eu"
       />
     </a>
   </div>
@@ -21,16 +22,18 @@
       target="_blank">
       <img
         src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/sponsors/anct-logo-transparent.png"
+        style="max-height: 75px;"
         alt="ANCT"
       />
     </a>
   </div>
-  <div class="column is-3 has-text-centered">
+  <div class="column is-2 has-text-centered">
     <a class=""
       href="https://www.economie.gouv.fr/plan-de-relance"
       target="_blank">
       <img
         src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/sponsors/france-relance-logo.jpg"
+        style="max-height: 75px;"
         alt="France-Relance"
       />
     </a>
