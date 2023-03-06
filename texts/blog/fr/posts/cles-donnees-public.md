@@ -1,5 +1,5 @@
 ---
-title: Les clés pour rendre vos données accessibles et intéressantes pour le grand public
+title: Quelques clés pour rendre vos données accessibles et intéressantes pour le grand public
 tags: 
   - contribution
   # - tech

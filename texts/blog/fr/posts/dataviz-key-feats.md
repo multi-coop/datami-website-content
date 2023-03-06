@@ -1,5 +1,5 @@
 ---
-title: Les fonctionnalités clés des outils de datavisualisation
+title: Les fonctionnalités clés d'un outil de datavisualisation
 tags: 
   # - contribution
   - tech
