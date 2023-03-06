@@ -32,31 +32,31 @@ options:
       - name: tags
 
 items:
-  - file: ./texts/blog/fr/posts/donnees-travail-equipe.md
-  - file: ./texts/blog/fr/posts/10-outils-open-source.md
-  - file: ./texts/blog/fr/posts/business-modele-viable.md
-  - file: ./texts/blog/fr/posts/dataviz-bonnes-pratiques.md
-  - file: ./texts/blog/fr/posts/essor-communs-numeriques.md
-  - file: ./texts/blog/fr/posts/pourquoi-datami.md
-  - file: ./texts/blog/fr/posts/dataviz-key-feats.md
-  - file: ./texts/blog/fr/posts/datami-vs-metabase.md
-  - file: ./texts/blog/fr/posts/tout-ressemble-a-excel.md
-  - file: ./texts/blog/fr/posts/git-en-deux-mots.md
-  - file: ./texts/blog/fr/posts/partage-et-maintenance.md
-  - file: ./texts/blog/fr/posts/diversifier-datavizs.md
-  - file: ./texts/blog/fr/posts/la-table-et-la-carte.md
-  - file: ./texts/blog/fr/posts/git-et-securite.md
-  - file: ./texts/blog/fr/posts/data-et-humains.md
-  - file: ./texts/blog/fr/posts/git-et-contribution.md
-  - file: ./texts/blog/fr/posts/parlez-vous-data.md
-  - file: ./texts/blog/fr/posts/donnees-pas-donne.md
-  - file: ./texts/blog/fr/posts/csv-format.md
-  - file: ./texts/blog/fr/posts/cles-donnees-public.md
-  - file: ./texts/blog/fr/posts/datami-low-code.md
-  - file: ./texts/blog/fr/posts/idees-recues-open-data.md
-  - file: ./texts/blog/fr/posts/volant-tableau-bord.md
-  - file: ./texts/blog/fr/posts/obligations-open-data.md
-  - file: ./texts/blog/fr/posts/datami-offer.md
+  # - file: ./texts/blog/fr/posts/donnees-travail-equipe.md
+  # - file: ./texts/blog/fr/posts/10-outils-open-source.md
+  # - file: ./texts/blog/fr/posts/business-modele-viable.md
+  # - file: ./texts/blog/fr/posts/dataviz-bonnes-pratiques.md
+  # - file: ./texts/blog/fr/posts/essor-communs-numeriques.md
+  # - file: ./texts/blog/fr/posts/pourquoi-datami.md
+  # - file: ./texts/blog/fr/posts/dataviz-key-feats.md
+  # - file: ./texts/blog/fr/posts/datami-vs-metabase.md
+  # - file: ./texts/blog/fr/posts/tout-ressemble-a-excel.md
+  # - file: ./texts/blog/fr/posts/git-en-deux-mots.md
+  # - file: ./texts/blog/fr/posts/partage-et-maintenance.md
+  # - file: ./texts/blog/fr/posts/diversifier-datavizs.md
+  # - file: ./texts/blog/fr/posts/la-table-et-la-carte.md
+  # - file: ./texts/blog/fr/posts/git-et-securite.md
+  # - file: ./texts/blog/fr/posts/data-et-humains.md
+  # - file: ./texts/blog/fr/posts/git-et-contribution.md
+  # - file: ./texts/blog/fr/posts/parlez-vous-data.md
+  # - file: ./texts/blog/fr/posts/donnees-pas-donne.md
+  # - file: ./texts/blog/fr/posts/csv-format.md
+  # - file: ./texts/blog/fr/posts/cles-donnees-public.md
+  # - file: ./texts/blog/fr/posts/datami-low-code.md
+  # - file: ./texts/blog/fr/posts/idees-recues-open-data.md
+  # - file: ./texts/blog/fr/posts/volant-tableau-bord.md
+  # - file: ./texts/blog/fr/posts/obligations-open-data.md
+  # - file: ./texts/blog/fr/posts/datami-offer.md
 
   - file: ./texts/blog/fr/posts/benchmark-visualisation.md
   - file: ./texts/blog/fr/posts/benchmark-edition.md
