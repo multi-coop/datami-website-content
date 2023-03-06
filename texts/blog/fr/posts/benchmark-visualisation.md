@@ -8,12 +8,9 @@ created: 06/03/2023
 author: Julien Paris
 ---
 
-Comparatif de plusieurs solutions de data-visualisation.
-
---- 
-
 Il existe plusieurs solutions logicielles de datavisualisation en ligne qui partagent des similitudes avec Datami. Voici quelques-unes des solutions les plus connues :
 
+---
 
 | Solution           | Type de solution | Langage supporté                    | Niveau de difficulté | En Saas | Site officiel                                                    |
 | ------------------ | ---------------- | ----------------------------------- | -------------------- | ------- | ---------------------------------------------------------------- |
@@ -25,9 +22,11 @@ Il existe plusieurs solutions logicielles de datavisualisation en ligne qui part
 | **Metabase**           | Open source      | SQL                                 | Facile               | Oui     | [https://www.metabase.com/](https://www.metabase.com/)           |
 | **Redash**             | Open source      | SQL                                 | Moyen                | Non     | [https://redash.io/](https://redash.io/)                         |
 | **Google Data Studio** | Gratuit          | SQL                                 | Facile               | Oui     | [https://datastudio.google.com/](https://datastudio.google.com/) |
-| **Looker**             | Commercial       | LookML                              | Difficile            | Oui     | [https://looker.com/](https://looker.com/)                       |
+| **Google Looker**      | Commercial       | LookML                              | Difficile            | Oui     | [https://looker.com/](https://looker.com/)                       |
 | **Microsoft Power BI** | Commercial       | DAX et M                            | Moyen                | Oui     | [https://powerbi.microsoft.com/](https://powerbi.microsoft.com/) |
 | **QlikView**           | Commercial       | Propre langage de script            | Difficile            | Oui     | [https://www.qlik.com/](https://www.qlik.com/)                   |
 | **Tableau**            | Commercial       | Calculs personnalisés               | Moyen                | Oui     | [https://www.tableau.com/](https://www.tableau.com/)             |
+
+---
 
 Bien que ces solutions partagent certaines fonctionnalités avec Datami, elles peuvent différer considérablement en termes de coût, de complexité et de fonctionnalités spécifiques. Il est important de prendre en compte les besoins spécifiques de chaque projet avant de choisir la solution de datavisualisation et d'édition en ligne la plus adaptée.
