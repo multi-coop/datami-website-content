@@ -20,7 +20,9 @@ created: 30/03/2023
 author: Julien Paris
 ---
 
-Datami permet d'associer un schéma de données aux données visualisées, ce qui apporte plusieurs avantages. Tout d'abord, cela permet une meilleure compréhension des données par les utilisateurs. En effet, le schéma de données décrit la structure des données, les relations entre les différentes entités, les types de données, etc. Cela permet aux utilisateurs de mieux comprendre les données qu'ils consultent et de les analyser plus efficacement.
+Datami permet d'associer un schéma de données aux données visualisées, ce qui apporte plusieurs avantages. 
+
+Tout d'abord, cela permet une meilleure compréhension des données par les utilisateurs. En effet, le schéma de données décrit la structure des données, les relations entre les différentes entités, les types de données, etc. Cela permet aux utilisateurs de mieux comprendre les données qu'ils consultent et de les analyser plus efficacement.
 
 De plus, l'association d'un schéma de données aux données visualisées permet d'améliorer la qualité des données. En effet, cela permet de vérifier la cohérence et la qualité des données, en s'assurant par exemple que les données sont bien du type attendu, ou que les relations entre les différentes entités sont bien respectées. Cela permet également de détecter plus facilement les erreurs et les incohérences dans les données.
 
