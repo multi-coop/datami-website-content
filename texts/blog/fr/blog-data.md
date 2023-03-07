@@ -32,6 +32,7 @@ options:
       - name: tags
 
 items:
+  # - file: ./texts/blog/fr/posts/datami-schema-donnees.md
   # - file: ./texts/blog/fr/posts/donnees-travail-equipe.md
   # - file: ./texts/blog/fr/posts/10-outils-open-source.md
   # - file: ./texts/blog/fr/posts/business-modele-viable.md
