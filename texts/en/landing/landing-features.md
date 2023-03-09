@@ -80,7 +80,7 @@
           Contribution
         </p>
         <p class="subtitle">
-          Allow your <b>communauty</b> to <b>contribute</b> consolidating your data
+          Allow your <b>community</b> to <b>contribute</b> consolidating your data
         </p>
       </article>
     </div>
@@ -110,7 +110,7 @@
           Multilingue
         </p>
         <p class="subtitle pb-4">
-          Datami is tanslated to<b>french</b> and to <b>french</b>
+          Datami is translated into <b>French</b> and <b>English</b>
         </p>
       </article>
     </div>
@@ -143,7 +143,7 @@
         </p>
         <p class="subtitle">
           The source code is <b>100% free</b>, no subscription, no proprietary backend...
-          It's a <b>free software</b> !
+          It's <b>free software</b>!
         </p>
       </article>
     </div>
