@@ -184,6 +184,17 @@ buttons-left:
           label: 
             fr: new
             en: new
+      - name: demo-mednum-fs
+        link: https://mednum-france-services.netlify.app/?datami_tab=1&datami_view=map&datami_lon=2.539215&datami_lat=48.830374&datami_zoom=12&datami_detail_id=147
+        component: extLink
+        label:
+          fr: France Services - données sur les lieux
+          en: France Services - données sur les lieux
+        tag:
+          type: success
+          label: 
+            fr: new
+            en: new
       - name: sep
         separator: true
       - name: decider-ensemble
