@@ -2,16 +2,15 @@
 
   <!-- DATAMI WIDGET'S HTML BLOCK -->
   <datami-multi-files
-    title="Observatoire de l'open data"
-    options='{
-      "display": "horizontal"
-    }'
-    gitfiles='[
+      title="Observatoire de l'open data"
+      options='{
+        "display": "horizontal"
+      }'
+      gitfiles='[
       {
         "title": "Présentation",
         "activate": true,
         "localdev": false,
-        "gitfile_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/texts/markdown/odf/ODF-observatoire-intro.md",
         "gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/md/ODF-observatoire-intro.md",
         "gitfilelocal": "http://localhost:8800/content/data/md/ODF-observatoire-intro.md",
         "options": ""
@@ -20,10 +19,11 @@
         "title": "Données de l&lsquo;observatoire",
         "activate": true,
         "localdev": false,
-        "gitfile_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/csv/odf/ODF-Observatoire-apiviz_data-export_solidata-220425b-simplified.csv",
-        "gitfile_": "http://localhost:8800/content/data/csv/ODF-Observatoire-apiviz_data-export_solidata-220425b-simplified.csv",
-        "gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/csv/geocoding/ODF-Observatoire-organisations-geocoded.csv",
-        "gitfilelocal": "http://localhost:8800/content/data/csv/geocoding/ODF-Observatoire-organisations-geocoded.csv",
+        "COMMENTED_gitfile_": "http://localhost:8800/content/data/csv/ODF-Observatoire-apiviz_data-export_solidata-220425b-simplified.csv",
+        "COMMENTED_gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/csv/geocoding/ODF-Observatoire-organisations-geocoded.csv",
+        "gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/csv/output/Organisations-Annuaire des Organisations.csv",
+        "COMMENTED_gitfilelocal": "http://localhost:8800/content/data/csv/geocoding/ODF-Observatoire-organisations-geocoded.csv",
+        "gitfilelocal": "http://localhost:8800/content/data/csv/output/Organisations-Annuaire des Organisations.csv",
         "default-tab": true,
         "options": {
           "height": "500px",
@@ -37,11 +37,11 @@
                 "filtering": "OR"
               },
               {
-                "name": "thématiques",
+                "name": "Thématiques",
                 "filtering": "OR"
               },
               {
-                "name": "platform_clean",
+                "name": "Techno (from Plateformes)",
                 "filtering": "OR"
               },
               {
@@ -60,13 +60,11 @@
           },
           "schema": {
             "localdev": false,
-            "file_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/json/odf/ODF-Observatoire-apiviz_data-schema.json",
             "file": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/json/ODF-Observatoire-schema.json",
             "filelocal": "http://localhost:8800/content/data/json/ODF-Observatoire-schema.json"
           },
           "fields-custom-properties": {
             "localdev": false,
-            "file_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/json/odf/ODF-Observatoire-apiviz_data-fields-custom-props.json",
             "file": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/json/ODF-Observatoire-fields-custom-props.json",
             "filelocal": "http://localhost:8800/content/data/json/ODF-Observatoire-fields-custom-props.json"
           },
@@ -80,21 +78,18 @@
               "nom": {
                 "position": "title"
               },
-              "adress": {
-                "position": "adress"
-              },
-              "dep_label": {
+              "adresse": {
                 "position": "adress"
               },
               "reg_code_short": {
                 "position": "tags",
                 "prefix": "Région :"
               },
-              "platform_clean": {
+              "Techno (from Plateformes)": {
                 "position": "tags",
                 "prefix": "Type de plateforme :"
               },
-              "thématiques": {
+              "Thématiques": {
                 "position": "tags",
                 "prefix": "Thématique(s) :"
               }
@@ -103,15 +98,13 @@
               "nom": {
                 "position": "title"
               },
-              "id_odf": {
-                "position": "subtitle",
-                "prefix": "Identifiant :"
-              },
-              "adress": {
-                "position": "adress"
+              "adresse": {
+                "position": "adress",
+                "prefix": "Adresse : "
               },
               "dep_label": {
-                "position": "adress"
+                "position": "adress",
+                "prefix": "Département : "
               },
               "siren": {
                 "position": "resume",
@@ -131,17 +124,22 @@
                 "block_title": "Lien vers data.gouv.fr",
                 "right": true
               },
+              "type": {
+                "position": "tags_top",
+                "block_title": "Type d&lsquo;organisation",
+                "right": true
+              },
               "orga": {
                 "position": "tags_middle",
                 "block_title": "Organisation(s)",
                 "right": true
               },
-              "platform_clean": {
+              "Techno (from Plateformes)": {
                 "position": "tags_middle",
                 "block_title": "Plateforme(s)",
                 "right": true
               },
-              "thématiques": {
+              "Thématiques": {
                 "position": "tags_middle",
                 "block_title": "Thématique(s)",
                 "right": true
@@ -169,7 +167,7 @@
                 "paragraphs": [
                   {
                     "text": {
-                      "fr": "L&lsquo;organisation &#123;&#123; nom &#125;&#125; est un(e) &#123;&#123; type &#125;&#125; et se situe dans le département &#123;&#123; depcode &#125;&#125; (&#123;&#123; dep_label &#125;&#125;) en région &#123;&#123; reg_code_short &#125;&#125;."
+                      "fr": "L&lsquo;organisation &#123;&#123; nom &#125;&#125; est un(e) &#123;&#123; type &#125;&#125; et se situe dans le département &#123;&#123; Département &#125;&#125; (&#123;&#123; dep_label &#125;&#125;) en région &#123;&#123; reg_code_short &#125;&#125;."
                     }
                   },
                   {
@@ -179,7 +177,12 @@
                   },
                   {
                     "text": {
-                      "fr": "L&lsquo;organisation &#123;&#123; nom &#125;&#125; publie sur &#123;&#123; merge &#125;&#125; avec une plateforme de type &#123;&#123; platform_clean &#125;&#125;."
+                      "fr": "L&lsquo;organisation &#123;&#123; nom &#125;&#125; a comme plateforme(s) de publication : &#123;&#123; merge &#125;&#125;."
+                    }
+                  },
+                  {
+                    "text": {
+                      "fr": "La plateforme de l&lsquo;organisation est de type : &#123;&#123; Techno (from Plateformes) &#125;&#125;."
                     }
                   },
                   {
@@ -189,7 +192,7 @@
                   },
                   {
                     "text": {
-                      "fr": "Plus d&lsquo;infos en cliquant ici : ~~ url_ptf ~~ ou sur ce lien ~~ url_datagouv ~~"
+                      "fr": "Plus d&lsquo;infos : lien vers la plateforme ~~ url_ptf ~~, ou sur ce lien vers data.gouv.fr ~~ url_datagouv ~~"
                     }
                   }
                 ]
@@ -203,8 +206,8 @@
                 "maxZoom": 18,
                 "minZoom": 2,
                 "item_geo_fields": {
-                  "latitude": "BAN_latitude",
-                  "longitude": "BAN_longitude"
+                  "latitude": "lat",
+                  "longitude": "long"
                 },
                 "zoom_item": 13,
                 "marker_icon": "map-marker",
@@ -218,7 +221,6 @@
             "activate": true,
             "default": false,
             "localdev": false,
-            "file_test": "https://github.com/multi-coop/data-odf-observatoire/blob/main/json/ODF-Observatoire-dataviz-settings.json",
             "file": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/json/ODF-Observatoire-dataviz-settings.json",
             "filelocal": "http://localhost:8800/content/data/json/ODF-Observatoire-dataviz-settings.json"
           },
@@ -232,7 +234,6 @@
                 },
                 "cols": 12,
                 "localdev": false,
-                "file_test": "https://github.com/multi-coop/data-odf-observatoire/blob/main/json/ODF-Observatoire-map-settings.json",
                 "file": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/json/ODF-Observatoire-map-settings.json",
                 "filelocal": "http://localhost:8800/content/data/json/ODF-Observatoire-map-settings.json"
               }
@@ -245,9 +246,8 @@
         "title": "Thématiques",
         "activate": true,
         "localdev": false,
-        "gitfile_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/csv/odf/ODF-Observatoire-thematiques.csv",
-        "gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/csv/ODF-Observatoire-thematiques.csv",
-        "gitfilelocal": "http://localhost:8800/content/data/csv/ODF-Observatoire-thematiques.csv",
+        "gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/archives/data/csv/ODF-Observatoire-thematiques.csv",
+        "gitfilelocal": "http://localhost:8800/content/archives/data/csv/ODF-Observatoire-thematiques.csv",
         "options": {
           "height": "500px",
           "separator": ",",
@@ -269,7 +269,6 @@
           },
           "fields-custom-properties": {
             "localdev": false,
-            "file_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/json/odf/ODF-thematiques-fields-custom-props.json",
             "file": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/json/ODF-thematiques-fields-custom-props.json",
             "filelocal": "http://localhost:8800/content/data/json/ODF-thematiques-fields-custom-props.json"
           }
@@ -279,10 +278,9 @@
       },
       {
         "title": "Schéma des données de l&lsquo;observatoire",
-        "activate": true,
+        "activate": false,
         "default-tab": false,
         "localdev": false,
-        "gitfile_test": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/json/odf/ODF-Observatoire-apiviz_data-schema.json",
         "gitfile": "https://gitlab.com/multi-coop/datami-project/datami-clients/datami-odf-observatoire/-/blob/main/data/json/ODF-Observatoire-schema.json",
         "gitfilelocal": "http://localhost:8800/content/data/json/ODF-Observatoire-schema.json",
         "options": {
@@ -293,8 +291,9 @@
         "usertoken": ""
       }
     ]'
-    locale="fr"
-  ></datami-multi-files>
+      locale="fr"
+    >
+  </datami-multi-files>
 
   <!-- DATAMI WIDGET'S APP.JS SCRIPT -->
   <script src="https://datami-widget.multi.coop/js/app.js" type="text/javascript" defer></script>
