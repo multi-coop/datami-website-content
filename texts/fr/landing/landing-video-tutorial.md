@@ -29,7 +29,7 @@
         href="https://www.unoeilsurtout.com"
         target="_blank"
         style="color: #b5b5b5;">
-        Un Oeil sur tout
+        Un Oeil Sur Tout
       </a>
     </div>
   </div>
