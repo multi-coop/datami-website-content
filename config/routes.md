@@ -108,7 +108,7 @@ routes:
             en: Tutorial
         files:
           fr: ./texts/fr/landing/landing-video-tutorial.md
-          en: ./texts/fr/landing/landing-video-tutorial.md
+          en: ./texts/en/landing/landing-video-tutorial.md
       - name: btn-to-contact
         component: ButtonsComponent
         options:
