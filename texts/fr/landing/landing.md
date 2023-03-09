@@ -53,9 +53,9 @@
         <div class="subtitle is-size-7 has-text-grey-light has-text-right">
           Vidéo par
           <a
-            class="has-text-grey-light"
             href="https://www.unoeilsurtout.com"
-            target="_blank">
+            target="_blank"
+            style="color: #b5b5b5;">
             Un Oeil sur tout
           </a>
         </div>
