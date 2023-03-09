@@ -23,7 +23,7 @@ All content of this documentation website are open on this repository :
   on the right side of paragraphs in almost every page, and you will be directly redirected to the source file on Gihutb.
 </p>
 
-**Don't hesitate to create an _issue_ or to propose corrections 😃 !**
+**Don't hesitate to create an _issue_ or to propose corrections 😃!**
 
 ---
 

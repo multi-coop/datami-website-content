@@ -85,7 +85,7 @@
         <div class="card-content is-size-6-touch">
           <p class="mb-2 has-text-justified">
             <b>
-              Yous already have one or several csv files, and you know how Datami works ?
+              Do you already have one or several csv files and know how Datami works ?
             </b>
             (thanks to the
             <a href="https://datami-docs.multi.coop">
@@ -95,10 +95,10 @@
             <b>?</b>
           </p>
           <p class="mb-0 has-text-justified">
-            Datami is an <b>100% open source</b> tool.
+            Datami is a <b>100% open source</b> tool.
           </p>
           <p class="mb-0 has-text-justified">
-            You can use Datami as mush as you like, you are <b>free</b> !
+            You can use Datami as mush as you like, you are <b>free</b>!
           </p>
         </div>
       </div>
@@ -139,35 +139,35 @@
         </div>
         <div class="card-content is-size-6-touch">
           <p class="mb-2 has-text-weight-bold has-text-justified">
-            You have a specific need to produce datasets ?
-            You would like Datami to include new features ?
+            Do you have a specific need to produce datasets?
+            Would you like Datami to include new features?
           </p>
           <p class="mb-2 has-text-justified">
             We keep developping and consolidating Datami source code, and we also provide data-science services.
           </p>
           <p class="mb-0 has-text-justified">
-            Please ask us for an <b>estimate</b>.
+            Please ask us for a <b>quote</b>.
           </p>
         </div>
       </div>
       <a
-        href="mailto:contact@multi.coop?subject=Datami - Estimate for custom developments"
+        href="mailto:contact@multi.coop?subject=Datami - Quote for custom developments"
         class="mt-3 button is-primary is-fullwidth">
         <span
           class="icon mr-3">
           <i class="mdi mdi-email"></i>
         </span>
-        Ask for an estimate
+        Ask for a quote
       </a>
     </div>
     <div class="column is-4-tablet is-54desktop is-3-widescreen mt-3 mb-0 mx-6 pb-0">
       <p class="has-text-justified">
-        We follow a principle of <b>mutualizing the developments costs</b>, so everyone could afford to use our solution.
+        We follow a principle of <b>mutualizing the developments costs</b>, so everyone can afford to use our solution.
       </p>
     </div>
     <div class="column is-4-tablet is-54desktop is-3-widescreen mt-3 mb-0 mx-6 pb-0">
       <p class="has-text-justified">
-        Every development - even the slightest - contributing to make Datami better are eventually benefiting to <b>all users</b>.
+        Every development - even the slightest - contributing to make Datami better is eventually benefiting to <b>all users</b>.
       </p>
     </div>
   </div>

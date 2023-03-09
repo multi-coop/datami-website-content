@@ -5,8 +5,8 @@ If you have some technical skills when it comes to code, you can finally deploy 
 
 Gitribute is a 100% open source project under [GNU AGPLv3 licence](/software).
 
-So please clone/copy/reuse, the only thing you'll need to do is to respect the terms of our licence : 
+So please clone/copy/reuse, the only thing you'll need to do is to respect the terms of our licence :
 
-**We designed Datami to be free, so free you shall keep it !**
+**We designed Datami to be free, so free you shall keep it!**
 
 > **Note** : More about local development and deployment in the **["Tutorials > Quickstart for developpers"](/quickstart-developpers)** section.

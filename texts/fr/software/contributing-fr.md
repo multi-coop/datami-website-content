@@ -17,7 +17,7 @@ Ce site est propulsé par une application _open source_ que nous avons développ
 
 ## Déploiement
 
-Le site est sous déployé sur [netlify](https://www.netlify.com/).
+Le site est déployé sur [netlify](https://www.netlify.com/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8a49a93f-e443-48e5-b5d8-baa2d7f5fee5/deploy-status)](https://app.netlify.com/sites/gitribute-documentation/deploys)
 

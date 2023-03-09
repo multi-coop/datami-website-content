@@ -1,4 +1,4 @@
-### Don't panic !
+### Don't panic!
 
 Such blocks of html code could look complex and overwhelming to some. With reasons.
 
@@ -15,6 +15,6 @@ Gitribute includes **a button to copy an existing widget in one click**, so you 
 
 <br>
 
-Once clicked, **you just have to paste it - and adapt it if you feel confortable - in a web page** of you choice !
+Once clicked, **you just have to paste it - and adapt it if you feel confortable - in a web page** of you choice!
 
 > **Note** : More details about the widgets action buttons in the **["Tutorials > View document's informations"](/tutorial-actions)** section.

@@ -3,11 +3,11 @@
 <br>
 
 <div class="has-text-centered my-6">
-  
+
   <hr>
 
   <p class="is-size-3 has-text-weight-bold mb-1">
-    ✨ And here's the best part ! ✨
+    ✨ And here's the best part! ✨
   </p>
 
   <hr>
