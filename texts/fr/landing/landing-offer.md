@@ -25,8 +25,8 @@
       <div
         class="card"
         style="height: 80%;
-          display: flex;
-          flex-direction: column;">
+        display: flex;
+        flex-direction: column;">
         <div class="card-image">
           <figure class="image mt-2">
             <img
