@@ -23,5 +23,14 @@
           type="video/mp4">
       </video>
     </figure>
+    <div class="subtitle is-size-7 has-text-grey-light has-text-right">
+      Vidéo par
+      <a
+        class="has-text-grey-light"
+        href="https://www.unoeilsurtout.com"
+        target="_blank">
+        Un Oeil sur tout
+      </a>
+    </div>
   </div>
 </div>

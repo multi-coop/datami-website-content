@@ -50,6 +50,15 @@
             src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/videos/DATAMI_PRESENTATION-FR.mp4#t=0,94"
             type="video/mp4">
         </video>
+        <div class="subtitle is-size-7 has-text-grey-light has-text-right">
+          Vidéo par
+          <a
+            class="has-text-grey-light"
+            href="https://www.unoeilsurtout.com"
+            target="_blank">
+            Un Oeil sur tout
+          </a>
+        </div>
       </figure>
     </div>
     <div class="column is-10 mt-4 is-full-touch">
