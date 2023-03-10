@@ -1,0 +1,159 @@
+1
+00:00:04.700 --> 00:00:07.180
+Social services, equipment, urban services,
+
+2
+00:00:07.500 --> 00:00:09.500
+urban planning, roadworks, events ...
+
+3
+00:00:10.500 --> 00:00:12.940
+Each administration has many data
+
+4
+00:00:12.940 --> 00:00:15.990
+which may have an economic, social,
+
+5
+00:00:15.990 --> 00:00:17.950
+health or environmental interest,
+
+6
+00:00:17.950 --> 00:00:20.900
+thus are intended to be shared.
+
+7
+00:00:21.650 --> 00:00:22.500
+Issue :
+
+8
+00:00:22.700 --> 00:00:24.030
+How to make accessible
+
+9
+00:00:24.100 --> 00:00:26.500
+this mass of information in a simple and
+
+10
+00:00:26.500 --> 00:00:29.500
+attractive way, and with a tight budget?
+
+11
+00:00:30.400 --> 00:00:32.000
+With Datami, make your data
+
+12
+00:00:32.000 --> 00:00:33.700
+an asset for your territory,
+
+13
+00:00:33.900 --> 00:00:35.900
+a tool to dialogue with your audiences,
+
+14
+00:00:35.900 --> 00:00:37.400
+while meeting the requirements
+
+15
+00:00:37.400 --> 00:00:39.800
+of the (french) "Law for a Digital Republic".
+
+16
+00:00:40.400 --> 00:00:42.500
+Concretely ? Datami offers you
+
+17
+00:00:42.500 --> 00:00:44.860
+a data editing and formatting tool,
+
+18
+00:00:44.860 --> 00:00:47.500
+open source, free and does not require
+
+19
+00:00:47.500 --> 00:00:49.900
+in-depth computer skills.
+
+20
+00:00:50.780 --> 00:00:53.220
+Datami allows you to edit and update
+
+21
+00:00:53.220 --> 00:00:54.900
+your data in a few clicks.
+
+22
+00:00:55.380 --> 00:00:57.310
+You can then view them as
+
+23
+00:00:57.310 --> 00:00:58.950
+maps,
+
+24
+00:00:58.950 --> 00:01:00.650
+diagrams,
+
+25
+00:01:00.650 --> 00:01:02.190
+list of cards,
+
+26
+00:01:02.190 --> 00:01:04.850
+and then share them on any website
+
+27
+00:01:04.850 --> 00:01:06.750
+thanks to a simple widget.
+
+28
+00:01:07.120 --> 00:01:08.840
+Datami also offers you the possibility
+
+29
+00:01:08.840 --> 00:01:10.360
+to improve your datasets
+
+30
+00:01:10.360 --> 00:01:12.500
+thanks to its collaborative features.
+
+31
+00:01:12.800 --> 00:01:14.980
+You can invite your colleagues
+
+32
+00:01:14.980 --> 00:01:16.880
+or your community to contribute,
+
+33
+00:01:16.880 --> 00:01:18.930
+by enriching or correcting your data,
+
+34
+00:01:18.930 --> 00:01:20.860
+before your validation.
+
+35
+00:01:21.600 --> 00:01:23.500
+And if necessary, the datami team
+
+36
+00:01:23.500 --> 00:01:26.120
+can offer you personalized support
+
+37
+00:01:26.120 --> 00:01:28.170
+from defining your project
+
+38
+00:01:28.170 --> 00:01:31.010
+until the installation of datami on your site.
+
+39
+00:01:31.400 --> 00:01:33.200
+So you too, with Datami,
+
+40
+00:01:33.200 --> 00:01:36.100
+Reconnect your data to your territory!
