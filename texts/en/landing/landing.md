@@ -1,78 +1,109 @@
-<div 
-  class="columns is-8 mt-3 mb-6 px-3 is-align-items-center"
-  style="min-height: 80vh;">
-  <div class="column is-6 is-full-touch">
-    <p
-      class="title"
-      style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
-      Edit, visualize and share your data
-      <!-- <br class="is-hidden-touch"> -->
-      <!-- easily and  -->
-      for free
-    </p>
-    <p
-      class="subtitle mt-2 mb-3 is-hidden-touch"
-      style="font-weight: 400; line-height: 1.75; font-size: 2rem;">
-      <span>
-        <i>Low code</i>,
-      </span>
-      <span>
-        no subscription,
-      </span>
-      <span>
-        no pain
-      </span>
-      <figure class="is-hidden-desktop mt-6">
-        <img
-          class="image"
-          src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
-          alt="MULTIFILES WIDGET"/>
+<div
+  style="">
+  <div
+    class="columns is-8 mb-6 px-3 py-0 is-centered is-align-items-center is-multiline">
+    <!-- CATCHPHRASE -->
+    <div class="column is-10 my-6 is-full-touch">
+      <p
+        class="title has-text-centered mb-0 pt-0 pb-2"
+        style="font-weight: 900; line-height: 1.3; font-size: 3rem;">
+        Edit, visualize and share your data
+        <br class="is-hidden-touch">
+        for free
+      </p>
+      <p
+        class="subtitle has-text-centered has-text-grey mb-0 is-hidden-touch"
+        style="font-weight: 400; line-height: 1.75; font-size: 1.8rem;"
+        id="video-presentation-top">
+        <span>
+          <i>Low code</i>,
+        </span>
+        <span>
+          no subscription,
+        </span>
+        <span>
+          no pain
+        </span>
+        <!-- <figure class="is-hidden-desktop mt-6">
+          <img
+            class="image"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png"
+            alt="MULTIFILES WIDGET"/>
+        </figure> -->
+      </p>
+    </div>
+    <div class="column is-10 is-full-touch py-0 has-text-centered">
+      <figure
+        class="image mx-0 pt-0 my-0">
+        <video
+          id="datami-video-presentation"
+          width="1921"
+          height="1080"
+          style="box-shadow: 0 0 20px #D7D7D7;"
+          poster="https://raw.githubusercontent.com/multi-coop/datami-website-content/images/logos/logo-DATAMI-rect-colors-03.png"
+          controls>
+          <!-- <source
+            src="http://localhost:8800/statics/videos/DATAMI_PRESENTATION-FR.mp4"
+            type="video/mp4"> -->
+          <source
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/videos/DATAMI_PRESENTATION-EN.mp4#t=0,94"
+            type="video/mp4">
+        </video>
+        <div class="subtitle is-size-7 has-text-grey-light has-text-right">
+          Video by
+          <a
+            href="https://www.unoeilsurtout.com"
+            target="_blank"
+            style="color: #b5b5b5;">
+            Un Oeil Sur Tout
+          </a>
+        </div>
       </figure>
-    </p>
-    <div class="columns mt-6">
-      <div class="column is-6">
-        <a
-          href="#section-landing-simplify"
-          class="button is-dark is-large is-fullwidth"
-          type="button"
-          style="box-shadow: -5px 5px 5px #D7D7D7">
-          <span class="has-text-white">
-            <span>
-              Discover
+    </div>
+    <div class="column is-10 mt-4 is-full-touch">
+      <div class="columns">
+        <div class="column is-6">
+          <a
+            href="#section-landing-simplify"
+            class="button is-light is-large is-fullwidth"
+            type="button">
+            <span class="has-text-dark">
+              <span>
+                Discover
+              </span>
             </span>
-          </span>
-        </a>
-      </div>
-      <div class="column is-6">
-        <a
-          href="mailto:contact@multi.coop"
-          class="button is-dark is-large is-fullwidth"
-          type="button"
-          style="box-shadow: -5px 5px 5px #D7D7D7">
-          <span class="has-text-white">
-            <span>
-              Contact us
+          </a>
+        </div>
+        <div class="column is-6">
+          <a
+            href="mailto:contact@multi.coop"
+            class="button is-light is-large is-fullwidth"
+            type="button">
+            <span class="has-text-dark">
+              <span>
+                Contact us
+              </span>
             </span>
-          </span>
-        </a>
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="column is-6">
-    <article
-      class="notification has-background-white-ter px-0 py-0"
-      style="box-shadow: 0 0 20px #D7D7D7;">
-      <div
-        class="content is-hidden-touch"
-        style="
-          width: 50vw;
-          height: 100%;
-          min-height: 50vh;
-          background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png');
-          background-size: cover;
-          background-repeat: no-repeat;
-          background-position: 0% 0%;">
-      </div>
-    </article>
+    <!-- <div class="column is-6 pl-6">
+      <article
+        class="notification has-background-white-ter px-0 py-0"
+        style="box-shadow: 0 0 20px #D7D7D7;">
+        <div
+          class="content is-hidden-touch"
+          style="
+            width: 50vw;
+            height: 100%;
+            min-height: 50vh;
+            background-image: url('https://raw.githubusercontent.com/multi-coop/datami-website-content/main/images/screenshots/gitfile-csv-preview-map-01.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: 0% 0%;">
+        </div>
+      </article> -->
+    </div>
   </div>
 </div>
