@@ -46,7 +46,7 @@
             src="http://localhost:8800/statics/videos/DATAMI_PRESENTATION-FR.mp4"
             type="video/mp4"> -->
           <source
-            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/main/videos/DATAMI_PRESENTATION-EN.mp4#t=0,94"
+            src="https://raw.githubusercontent.com/multi-coop/datami-website-content/julien-blog-posts/videos/DATAMI_PRESENTATION-EN.mp4#t=0,94"
             type="video/mp4">
         </video>
         <div class="subtitle is-size-7 has-text-grey-light has-text-right">
