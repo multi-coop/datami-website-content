@@ -187,6 +187,17 @@ routes:
               label: 
                 fr: Contactez-nous
                 en: Contact us
+      - name: landing-slides
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: my-6 py-6 mt-6 mx-2
+          name:
+            fr: Slides
+            en: Slides
+        files:
+          fr: ./texts/fr/landing/landing-slides.md
+          en: ./texts/en/landing/landing-slides.md
       - name: landing-sponsors
         component: TextComponent
         options:

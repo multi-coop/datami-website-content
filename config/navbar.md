@@ -91,6 +91,21 @@ buttons-left:
         label: 
           fr: Un projet ?
           en: A project ?
+      - name: slides
+        link: /
+        scrollTo: landing-slides
+        component: simpleLink
+        label: 
+          fr: Présentation 
+          en: Slides
+      - name: sponsors
+        link: /
+        scrollTo: landing-sponsors
+        component: simpleLink
+        label: 
+          fr: Sponsors 
+          en: Sponsors
+  
 
   - name: gallery
     disabled: false
