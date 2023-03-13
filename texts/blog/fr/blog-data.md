@@ -59,8 +59,8 @@ items:
   # - file: ./texts/blog/fr/posts/obligations-open-data.md
   # - file: ./texts/blog/fr/posts/datami-offer.md
 
-  - file: ./texts/blog/fr/posts/benchmark-visualisation.md
-  - file: ./texts/blog/fr/posts/benchmark-edition.md
+  # - file: ./texts/blog/fr/posts/benchmark-visualisation.md
+  # - file: ./texts/blog/fr/posts/benchmark-edition.md
   
   - file: ./texts/blog/fr/posts/main-ideas.md
   - file: ./texts/blog/fr/posts/flashback.md
