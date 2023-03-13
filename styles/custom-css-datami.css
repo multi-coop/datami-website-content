@@ -1,0 +1,14 @@
+table {
+  display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+}
+.dataCard > .card:hover, .card:hover {
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, .5), 0 0px 0 1px rgba(10, 10, 10, 0.2);
+  cursor: pointer;
+}
+.card-header {
+  box-shadow: none;
+}

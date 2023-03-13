@@ -31,6 +31,10 @@ colors:
   # error: '#D1335B'
   # success: '#03BD5B'
 
+custom_css: true
+custom_css_files:
+  - ./styles/custom-css-datami.css
+
 matomo:
   matomo_active: true
   matomo_server: multi.matomo.cloud

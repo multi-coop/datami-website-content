@@ -91,6 +91,21 @@ buttons-left:
         label: 
           fr: Un projet ?
           en: A project ?
+      - name: slides
+        link: /
+        scrollTo: landing-slides
+        component: simpleLink
+        label: 
+          fr: Présentation 
+          en: Slides
+      - name: sponsors
+        link: /
+        scrollTo: landing-sponsors
+        component: simpleLink
+        label: 
+          fr: Sponsors 
+          en: Sponsors
+  
 
   - name: gallery
     disabled: false
@@ -344,8 +359,7 @@ buttons-right:
       fr: Blog
       en: Blog
 
-  - name: repo 
-    # link: https://gitlab.com/multi-coop/gitribute
+  - name: repo Gitlab
     link: https://gitlab.com/multi-coop/datami-project/datami
     icon: gitlab
     component: extLink
@@ -353,6 +367,14 @@ buttons-right:
     label: 
       fr: Code source de Datami
       en: Datami source code
+  - name: repo Github
+    link: https://github.com/multi-coop/datami
+    icon: github
+    component: extLink
+    options: [ arrowless ]
+    label: 
+      fr: Code source de Datami (miroir)
+      en: Datami source code (mirror)
 
   - name: switch-locale
     component: switchLocaleDropdown
