@@ -1,7 +1,7 @@
 ---
 project: Digital mediation in Occitania
 image: ./images/clients-covers/rhinocc.png
-link: https://rhinocc-carto-preprod.netlify.app/
+link: https://rhinocc.fr/carte/
 github: https://github.com/multi-coop/data-rhinocc-inclusion
 topics: [ digital mediation ]
 clients: [ RhinOcc ]
