@@ -5,7 +5,20 @@ link: https://decider-ensemble.netlify.app/
 github: https://github.com/multi-coop/data-decider-ensemble
 topics: [ commons ]
 clients: [ Décider Ensemble ]
+uses: [ table, cards, map ]
 ---
+
+The Décider Ensemble think tank brings together numerous resources concerning the various projects and initiatives that it has been able to follow since its creation.
+
+This information is intended to be shared with the general public and updated regularly.
+
+The multi-cooperative has set up Datami as a visualization solution for these resources, one of the needs being to be able to locate each of these initiatives on a map.
+
+**https://decide-together.netlify.app/**
+
+---
+
+## Project Information
 
 Spreading a culture of shared decision-making: this is the mission that the think tank Décider ensemble has given itself since 2005.
 
@@ -13,7 +26,7 @@ Through its initiatives, its work and its events, Décider ensemble has studied 
 
 The presentation sheets are accessible to all free of charge. The descriptive sheets are reserved for members of Decide together. For more information, write to us at contact@deciderensemble.com
 
-## Where do the examples of participation approaches offered on this platform come from?
+### Where do the examples of participation approaches offered on this platform come from?
 
 The winners of the Participation and Consultation Trophies: since 2016, Décider ensemble rewards each year the consultation actions carried out in the territories by various actors (local authorities, associations, companies, etc.). After a wide call for applications, the winners are chosen by an independent Jury made up of personalities from the world of participation. We invite you to find the winners of these Trophies on this platform.
 
@@ -21,7 +34,7 @@ The Barometer of digital local democracy: set up in 2016 and conducted since 201
 
 We invite you to find on this platform the digital approaches implemented by the communities studied as part of the Barometer.
 
-## Discover all the initiatives led by Deciding Together!
+### Discover all the initiatives led by Deciding Together!
 
 Decide together strives to bring together the actors of French society to create a culture of shared decision-making and address the themes of participation, consultation and dialogue between stakeholders.
 
@@ -32,3 +45,9 @@ Its main initiatives:
 - The Observatory of civic tech & digital democracy, which analyzes the technical, economic, political and social issues raised by civic tech and assesses the effects of the use of digital technology in participatory approaches.
 
 Find all our events and all our work on our website: www.deciderensemble.com
+
+---
+
+## For more info
+
+- Find all the events and work of the think tank Décider Ensemble: https://www.deciderensemble.com

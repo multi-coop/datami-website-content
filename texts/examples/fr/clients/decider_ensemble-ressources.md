@@ -5,7 +5,20 @@ link: https://decider-ensemble.netlify.app/
 github: https://github.com/multi-coop/data-decider-ensemble
 topics: [ communs ]
 clients: [ Décider Ensemble ]
+uses: [ table, cards, map ]
 ---
+
+Le think tank Décider Ensemble regroupe de nombreuses ressources concernant les différents projets et initiatives qu'il a pu suivre depuis sa création.
+
+Ces informations sont destinées à être partagées avec le grand public et mises à jour régulièrement.
+
+La coopérative multi a mis en place Datami comme solution de visualisation de ces ressources, un des besoins étant de pouvoir situer chacune de ces initiatives sur une cartographie.
+
+**https://decider-ensemble.netlify.app/**
+
+---
+
+## Informations sur le projet
 
 Diffuser une culture de la décision partagée : c’est la mission que s’est donné le think tank Décider ensemble depuis 2005.
 
@@ -13,7 +26,7 @@ A travers ses initiatives, ses travaux et ses événements, Décider ensemble a 
 
 Les fiches de présentation sont accessibles à tous gratuitement. Les fiches descriptives sont réservées aux adhérents de Décider ensemble. Pour plus d’informations, écrivez-nous à contact@deciderensemble.com
 
-## D’où viennent les exemples de démarches de participation proposées sur cette plateforme ?
+### D’où viennent les exemples de démarches de participation proposées sur cette plateforme ?
 
 Les lauréats des Trophées de la participation et de la concertation : depuis 2016, Décider ensemble récompense chaque année les actions de concertation menées sur les territoires par des acteurs divers (collectivités, associations, entreprises, etc.). Après un large appel à candidatures, les lauréats sont choisis par un Jury indépendant composé de personnalités du monde de la participation. Nous vous proposons de retrouver sur cette plateforme les lauréats de ces Trophées.
 
@@ -21,7 +34,7 @@ Le Baromètre de la démocratie locale numérique : mis en place en 2016 et men�
 
 Nous vous proposons de retrouver sur cette plateforme les démarches numériques mises en place par les collectivités étudiées dans le cadre du Baromètre.
 
-## Découvrez toutes les initiatives menées par Décider ensemble !
+### Découvrez toutes les initiatives menées par Décider ensemble !
 
 Décider ensemble s'attache à réunir les acteurs de la société française pour créer une culture de la décision partagée et aborder les thématiques de participation, de concertation et de dialogue entre les parties prenantes.
 
@@ -32,3 +45,9 @@ Ses principales initiatives :
 - L’Observatoire des civic tech & de la démocratie numérique qui analyse les questions techniques, économiques, politiques et sociales soulevées par les civic tech et évalue les effets de l’usage du numérique dans des démarches participatives.
 
 Retrouvez tous nos événements et tous nos travaux sur notre site internet : www.deciderensemble.com
+
+---
+
+## Pour plus d'infos
+
+- Retrouvez tous les événements et les travaux du think tank Décider Ensemble : https://www.deciderensemble.com

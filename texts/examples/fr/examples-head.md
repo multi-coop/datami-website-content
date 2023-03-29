@@ -1,3 +1,3 @@
 # Exemples de cas d'usages de Datami
 
-Datami a été mis au service de différentes structures depuis son lancement en Octobre 2022.
+Depuis le démarrage du projet en octobre 2022 Datami a été mis en place pour différentes structures

@@ -5,19 +5,30 @@ link: https://tierslieux.cartes.pingbase.net/
 github: https://github.com/multi-coop/data-ping-tiers-lieux
 topics: [ tiers-lieux ]
 clients: [ PiNG ]
+uses: [ table, cards, map ]
 ---
 
-La carte des tiers-lieux en Pays de la Loire, proposée par PiNG avec le soutien de la Région et de l'Agence Nationale pour la Cohésion des Territoires, a pour objectif de donner à voir la dynamique tiers-lieux sur le territoire régional. Elle permet ainsi de faciliter l’identification des acteurs du mouvement et de valoriser le maillage de ces lieux sur la région.
+L'association d'éducation populaire au numérique PiNG recense et tient à jour une liste des tiers-lieux en Pays de la Loire. Cette cartographie est un projet sur lequel la coopérative multi est partenaire depuis plusieurs années.
 
-Elle assume la pluralité des visions de la notion de tiers-lieu des acteurs tête de réseaux sur le sujet (Association France Tiers-Lieux, CAP Tiers-Lieux et PiNG) en valorisant leurs différents jeux de données.
+La coopérative multi a proposé et mis en place un Datami visant à remplacer l'outil précédent, apportant alors une meilleure portabilité des visualisations et une plus grande simplicité technique dans les processus de mise à jour de données.
 
+**https://tierslieux.cartes.pingbase.net/**
+
+---
+
+## Informations sur le projet
+
+La carte des tiers-lieux en Pays de la Loire, proposée par PiNG avec le soutien de la Région et de l'Agence Nationale pour la Cohésion des Territoires, a pour objectif de donner à voir la dynamique tiers-lieux sur le territoire régional. 
+
+Elle permet ainsi de faciliter l’identification des acteurs du mouvement et de valoriser le maillage de ces lieux sur la région. 
+Elle assume la pluralité des visions de la notion de tiers-lieu des acteurs tête de réseaux sur le sujet (Association France Tiers-Lieux, CAP Tiers-Lieux et PiNG) en valorisant leurs différents jeux de données. 
 Elle propose un classement renouvelé des autres cartographies des tiers-lieux par le biais de sa nomenclature qui met en avant le potentiel transformateur de ces initiatives et dépasse ainsi la catégorisation par « type d’espace ».
 
 Elle vous permettra, nous l’espérons, de découvrir la richesse du mouvement tiers-lieu en Pays de la Loire !
 
 Bonne déambulation !
 
-## Démarche
+### Démarche
 
 D’apparente simplicité, si l’on extrait les aspects techniques d’un tel travail, cette mission de cartographie s’est révélée plus complexe qu’elle n’y paraît, le sujet même de ce projet renvoyant à des visions multiples.
 Tiers-lieux ou la pluralité des visions
@@ -27,3 +38,9 @@ La pertinence d’un concept s’éprouve à son usage, en ce qu’il permet de 
 Si le mot de « tiers-lieux » a une force, ce n’est donc pas pour sa finesse conceptuelle, mais à l’inverse parce qu’il amalgame un ensemble de lieux et d’initiatives se posant au croisement de dynamiques impactantes pour la conduite des sociétés occidentales « l’ouverture et la collaboration, l’hybridation et l’innovation, le mélange d’activités et de loisirs »1. De-là découlent son usage politique grandissant et les nombreux fantasmes qu’il transporte.
 
 Dès lors, en approfondissant nos connaissances sur le sujet et les recherches en lien, il ne nous a pas paru possible (ni même souhaitable) d’établir une définition claire et précise du terme de tiers-lieux, qui ne peut être abordé comme un concept. C’est pourquoi le travail cartographique que nous partageons à ce jour s’appuie sur plusieurs sources (CAP Tiers-Lieux, PiNG, France Tiers-Lieux) à jour au 19 février 20. Ces données révèlent différentes visions de cette dynamique qui, si elles ne s’opposent pas, s’enrichissent et s’entrecroisent voire se questionnent mutuellement.
+
+---
+
+## Pour plus d'infos
+
+- Site de l'association PiNG : https://pingbase.net/

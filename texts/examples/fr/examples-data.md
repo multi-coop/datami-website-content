@@ -22,12 +22,15 @@ options:
       color: grey
     - key: clients
       color: grey
+    - key: uses
+      color: grey
 
   filters: 
     activate: true
     items: 
       - name: clients
       - name: topics
+      - name: uses
     
 items:
   - file: ./texts/examples/fr/clients/ademe-aac.md
@@ -47,5 +50,8 @@ dict:
   topics: 
     fr: thèmes
     en: topics
+  uses: 
+    fr: usages
+    en: uses
 
 ---

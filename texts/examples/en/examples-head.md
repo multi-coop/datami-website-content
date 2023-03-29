@@ -1,3 +1,3 @@
 # Examples of Datami use cases
 
-Datami has been used by different structures since its launch in October 2022.
+Since the start of the project in October 2022 Datami has been set up for different structures
