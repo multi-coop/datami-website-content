@@ -106,182 +106,246 @@ buttons-left:
           fr: Sponsors 
           en: Sponsors
   
-
-  - name: gallery
-    disabled: false
-    # icon: image
-    component: dropdownLink
+  - name: examples 
+    link: /examples
+    component: simpleLink
+    tag:
+      type: success
+      rounded: true
+      label: 
+        fr: new
+        en: new
     options: [ arrowless, hoverable ]
     label: 
       fr: Exemples
       en: Examples
+  
+  # - name: gallery
+  #   disabled: false
+  #   # icon: image
+  #   component: dropdownLink
+  #   options: [ arrowless, hoverable ]
+  #   label: 
+  #     fr: Exemples
+  #     en: Examples
+  #   submenu:
+  #     - name: odf-observatoire
+  #       link: https://carto.observatoire-opendata.fr/
+  #       component: extLink
+  #       label:
+  #         fr: Open Data France - observatoire
+  #         en: Open Data France - observatory
+  #       tag:
+  #         type: light-info
+  #         label: 
+  #           fr: data
+  #           en: data
+  #     - name: sep
+  #       separator: true
+  #     - name: demo-rhinocc
+  #       link: https://rhinocc-carto-preprod.netlify.app/
+  #       component: extLink
+  #       label:
+  #         fr: Rhinocc - médiation numérique
+  #         en: Rhinocc - digital mediation
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: demo-conumm
+  #       link: https://www.carto.conumm.fr
+  #       component: extLink
+  #       label:
+  #         fr: CONUMM - médiation numérique
+  #         en: CONUMM - digital mediation
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: demo-ternum
+  #       link: https://bfc-carto.netlify.app/
+  #       component: extLink
+  #       label:
+  #         fr: BFC Ternum - médiation numérique
+  #         en: BFC Ternum - digital mediation
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: demo-doubs
+  #       link: https://inclusionnumerique.doubs.fr/
+  #       component: extLink
+  #       label:
+  #         fr: Département du Doubs - médiation numérique
+  #         en: Doubs - digital mediation
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: sep
+  #       separator: true
+  #     - name: demo-ping
+  #       link: https://tierslieux.cartes.pingbase.net/
+  #       component: extLink
+  #       label:
+  #         fr: Ping - tiers-lieux
+  #         en: Ping - tiers-lieux
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: sep
+  #       separator: true
+  #     - name: demo-ifn
+  #       link: https://etude-ifn-parentalite.netlify.app/
+  #       component: extLink
+  #       label:
+  #         fr: La Trousse à projets - indice de fragilité numérique parentalité
+  #         en: La Trousse à projets - parental digital fragility index
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: demo-mednum-fs
+  #       link: https://mednum-france-services.netlify.app/?datami_tab=1&datami_view=map&datami_lon=2.539215&datami_lat=48.830374&datami_zoom=12&datami_detail_id=147
+  #       component: extLink
+  #       label:
+  #         fr: France Services - données sur les lieux
+  #         en: France Services - données sur les lieux
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     - name: sep
+  #       separator: true
+  #     - name: decider-ensemble
+  #       link: https://decider-ensemble.netlify.app/
+  #       component: extLink
+  #       label:
+  #         fr: Décider Ensemble - ressources
+  #         en: Décider Ensemble - ressources
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: new
+  #           en: new
+  #     # - name: sep
+  #     #   separator: true
+  #     # - name: demo-cooptech
+  #     #   link: /demo-cooptech
+  #     #   component: simpleLink
+  #     #   label: 
+  #     #     fr: Cooptech - annuaire
+  #     #     en: Cooptech - organisations
+  #     # - name: sep
+  #     #   separator: true
+  #     # - name: demo-odf-observatoire
+  #     #   link: /demo-odf-observatoire
+  #     #   component: simpleLink
+  #     #   label: 
+  #     #     fr: Open Data France - Données de l'Observatoire
+  #     #     en: Open Data France - Observatory's datasets
+  #     # - name: demo-odf-ressources
+  #     #   link: /demo-odf-ressources
+  #     #   component: simpleLink
+  #     #   label: 
+  #     #     fr: Open Data France - Ressources
+  #     #     en: Open Data France - Ressources
+  #     - name: sep
+  #       separator: true
+  #     - name: demo-fabmob
+  #       link: /demo-fabmob
+  #       component: simpleLink
+  #       label: 
+  #         fr: Fabmob - Projets du wiki
+  #         en: Fabmob - Projects from wikimedia
+  #       tag:
+  #         type: light-warning
+  #         label: 
+  #           fr: wiki
+  #           en: wiki
+  #     - name: demo-aac
+  #       link: /demo-aac
+  #       component: simpleLink
+  #       label: 
+  #         fr: AAC - Projets du wiki
+  #         en: AAC - Projects from wikimedia
+  #       tag:
+  #         type: light-warning
+  #         label: 
+  #           fr: wiki
+  #           en: wiki
+  #     - name: sep
+  #       separator: true
+  #     - name: katalog
+  #       link: https://konsilion.fr/katalog/projets/home/
+  #       component: extLink
+  #       label:
+  #         fr: Konsilion - Katalog
+  #         en: Konsilion - Katalog
+  #       tag:
+  #         type: success
+  #         label: 
+  #           fr: libre
+  #           en: libre
+
+  - name: Infos
+    link: https://www.youtube.com/watch?v=HLKrmth6qbA
+    component: dropdownLink
+    options: [ arrowless, hoverable ]
+    label:
+      fr: Infos
+      en: Infos
     submenu:
-      - name: odf-observatoire
-        link: https://carto.observatoire-opendata.fr/
+      - name: live-sessions
+        link: https://www.youtube.com/watch?v=HLKrmth6qbA
         component: extLink
         label:
-          fr: Open Data France - observatoire
-          en: Open Data France - observatory
-        tag:
-          type: light-info
-          label: 
-            fr: data
-            en: data
-      - name: sep
-        separator: true
-      - name: demo-rhinocc
-        link: https://rhinocc-carto-preprod.netlify.app/
-        component: extLink
-        label:
-          fr: Rhinocc - médiation numérique
-          en: Rhinocc - digital mediation
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: demo-conumm
-        link: https://www.carto.conumm.fr
-        component: extLink
-        label:
-          fr: CONUMM - médiation numérique
-          en: CONUMM - digital mediation
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: demo-ternum
-        link: https://bfc-carto.netlify.app/
-        component: extLink
-        label:
-          fr: BFC Ternum - médiation numérique
-          en: BFC Ternum - digital mediation
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: demo-doubs
-        link: https://inclusionnumerique.doubs.fr/
-        component: extLink
-        label:
-          fr: Département du Doubs - médiation numérique
-          en: Doubs - digital mediation
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: sep
-        separator: true
-      - name: demo-ping
-        link: https://tierslieux.cartes.pingbase.net/
-        component: extLink
-        label:
-          fr: Ping - tiers-lieux
-          en: Ping - tiers-lieux
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: sep
-        separator: true
-      - name: demo-ifn
-        link: https://etude-ifn-parentalite.netlify.app/
-        component: extLink
-        label:
-          fr: La Trousse à projets - indice de fragilité numérique parentalité
-          en: La Trousse à projets - parental digital fragility index
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: demo-mednum-fs
-        link: https://mednum-france-services.netlify.app/?datami_tab=1&datami_view=map&datami_lon=2.539215&datami_lat=48.830374&datami_zoom=12&datami_detail_id=147
-        component: extLink
-        label:
-          fr: France Services - données sur les lieux
-          en: France Services - données sur les lieux
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      - name: sep
-        separator: true
-      - name: decider-ensemble
-        link: https://decider-ensemble.netlify.app/
-        component: extLink
-        label:
-          fr: Décider Ensemble - ressources
-          en: Décider Ensemble - ressources
-        tag:
-          type: success
-          label: 
-            fr: new
-            en: new
-      # - name: sep
-      #   separator: true
-      # - name: demo-cooptech
-      #   link: /demo-cooptech
-      #   component: simpleLink
-      #   label: 
-      #     fr: Cooptech - annuaire
-      #     en: Cooptech - organisations
-      # - name: sep
-      #   separator: true
-      # - name: demo-odf-observatoire
-      #   link: /demo-odf-observatoire
-      #   component: simpleLink
-      #   label: 
-      #     fr: Open Data France - Données de l'Observatoire
-      #     en: Open Data France - Observatory's datasets
-      # - name: demo-odf-ressources
-      #   link: /demo-odf-ressources
-      #   component: simpleLink
-      #   label: 
-      #     fr: Open Data France - Ressources
-      #     en: Open Data France - Ressources
-      - name: sep
-        separator: true
-      - name: demo-fabmob
-        link: /demo-fabmob
+          fr: Démo (replay)
+          en: Live demo (replay)
+      - name: presentation
+        link: /presentation-slides
         component: simpleLink
-        label: 
-          fr: Fabmob - Projets du wiki
-          en: Fabmob - Projects from wikimedia
         tag:
-          type: light-warning
+          type: warning
+          rounded: true
           label: 
-            fr: wiki
-            en: wiki
-      - name: demo-aac
-        link: /demo-aac
-        component: simpleLink
-        label: 
-          fr: AAC - Projets du wiki
-          en: AAC - Projects from wikimedia
-        tag:
-          type: light-warning
-          label: 
-            fr: wiki
-            en: wiki
-      - name: sep
-        separator: true
-      - name: katalog
-        link: https://konsilion.fr/katalog/projets/home/
-        component: extLink
+            fr: new
+            en: new
         label:
-          fr: Konsilion - Katalog
-          en: Konsilion - Katalog
-        tag:
-          type: success
-          label: 
-            fr: libre
-            en: libre
+          fr: Présentation
+          en: Slides
+      # - name: roadmap
+      #   link: /roadmap
+      #   component: simpleLink
+      #   tag:
+      #     type: warning
+      #     rounded: true
+      #     label: 
+      #       fr: new
+      #       en: new
+      #   label:
+      #     fr: Roadmap
+      #     en: Roadmap
+      # - name: benchmark
+      #   link: /benchmark
+      #   component: simpleLink
+      #   tag:
+      #     type: warning
+      #     rounded: true
+      #     label: 
+      #       fr: new
+      #       en: new
+      #   label:
+      #     fr: Benchmark
+      #     en: Benchmark
 
   - name: docs 
     # icon: book-open-variant
@@ -324,19 +388,6 @@ buttons-left:
     label: 
       fr: Contact
       en: Contact
-
-  - name: live-sessions
-    link: https://www.youtube.com/watch?v=HLKrmth6qbA
-    component: extLink
-    tag:
-      type: warning
-      rounded: true
-      label: 
-        fr: new
-        en: new
-    label:
-      fr: Démo (replay)
-      en: Live demo (replay)
 
 buttons-right: 
 

@@ -187,6 +187,17 @@ routes:
               label: 
                 fr: Contactez-nous
                 en: Contact us
+      - name: landing-slides-title
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: py-6 mt-6 mx-2
+          name:
+            fr: Slides title
+            en: Slides title
+        files:
+          fr: ./texts/fr/landing/landing-slides-title.md
+          en: ./texts/en/landing/landing-slides-title.md
       - name: landing-slides
         component: TextComponent
         options:
@@ -209,165 +220,140 @@ routes:
         files:
           fr: ./texts/fr/landing/landing-sponsors.md
           en: ./texts/en/landing/landing-sponsors.md
-
-  - name: main-features
-    url: /main-features
+  
+  - name: Presentation
+    url: /presentation-slides
     options:
-      summary: true
-      contrib: true
       name:
-        fr: Principales fonctionnalités
-        en: Main features
+        fr: Présentation
+        en: Presentation
       description:
-        fr: Les fonctionnalités principales et innovantes de nos widgets
-        en: The widgets' main original features
+        fr: Présentation
+        en: Presentation
       keywords:
-        fr: [ éditer, contribuer, partager, adapter, visualiser, dataviz ]
-        en: [ edit, contribute, share, adapt, visualise, dataviz ]
-    sections: 
-      - name: main-features
-        component: TextComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Introduction
-            en: Introduction
-        files:
-          fr: ./texts/fr/main-features/main-features.md
-          en: ./texts/en/main-features/main-features.md
-      - name: main-features-visualize
-        component: TextComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Visualiser vos données
-            en: Data-visualisaze your data
-        files:
-          fr: ./texts/fr/main-features/main-features-visualize.md
-          en: ./texts/en/main-features/main-features-visualize.md
-      - name: main-features-edit
-        component: TextComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Éditer & contribuer online
-            en: Edit & contribute online
-        files:
-          fr: ./texts/fr/main-features/main-features-edit.md
-          en: ./texts/en/main-features/main-features-edit.md
-      - name: main-features-share
-        component: TextComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Partager vos jeux de données
-            en: Share your datasets
-        files:
-          fr: ./texts/fr/main-features/main-features-share.md
-          en: ./texts/en/main-features/main-features-share.md
-      - name: main-features-adapt
-        component: TextComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Adapter les widgets à vos besoins
-            en: Adapt the widgets to your needs
-        files:
-          fr: ./texts/fr/main-features/main-features-adapt.md
-          en: ./texts/en/main-features/main-features-adapt.md
-      - name: Contact
-        component: ButtonsComponent
-        options:
-          columns-size: two-thirds
-          buttons-size: half
-          custom-class: mt-6
-          buttons:
-            - link: "mailto:contact@multi.coop"
-              # icon-left: email
-              rounded: false
-              size: is-large
-              style: "box-shadow: -5px 5px 5px #D7D7D7;"
-              label: 
-                fr: Nous contacter
-                en: Contact us
-      - name: logo-multi
+        fr: [ slides ]
+        en: [ slides ]
+    sections:
+      - name: landing-slides
         component: TextComponent
         options:
           columns-size: full
-          custom-class: mt-6
-          not-in-menu: true
-        files:
-          fr: ./texts/fr/landing/landing-multi.md
-          en: ./texts/en/landing/landing-multi.md
- 
-  - name: software
-    url: /software
-    options:
-      contrib: true
-      summary: true
-      name:
-        fr: Infos sur le logiciel
-        en: Software informations
-    sections: 
-      - name: docs-licence
-        component: TextComponent
-        options:
-          columns-size: three-quarters
+          custom-class: my-0 py-0
           name:
-            fr: Licence
-            en: Licence
+            fr: Slides
+            en: Slides
         files:
-          fr: ./texts/fr/software/licence.md
-          en: ./texts/en/software/licence.md
-      - name: docs-stack
-        component: TextComponent
-        options:
-          columns-size: three-quarters
-          name:
-            fr: Stack
-            en: Stack
-        files:
-          fr: ./texts/fr/software/stack.md
-          en: ./texts/en/software/stack.md
-      - name: Contact
-        component: ButtonsComponent
-        options:
-          columns-size: two-thirds
-          buttons-size: half
-          custom-class: mt-6
-          buttons:
-            # - link: /roadmap
-            #   icon-left: map-search-outline
-            #   rounded: true
-            #   label: 
-            #     fr: Roadmap
-            #     en: Roadmap
-            - link: https://gitlab.com/multi-coop/datami-project/datami
-              icon-left: gitlab
-              rounded: false
-              size: is-large
-              style: "box-shadow: -5px 5px 5px #D7D7D7;"
-              label: 
-                fr: Code source
-                en: Source code
-            - link: /contact
-              # icon-left: email
-              rounded: false
-              size: is-large
-              style: "box-shadow: -5px 5px 5px #D7D7D7;"
-              label: 
-                fr: Nous contacter
-                en: Contact us
-      - name: logo-multi
-        component: TextComponent
-        options:
-          columns-size: full
-          custom-class: mt-6
-          not-in-menu: true
-        files:
-          fr: ./texts/fr/landing/landing-multi.md
-          en: ./texts/en/landing/landing-multi.md
+          fr: ./texts/fr/landing/landing-slides.md
+          en: ./texts/en/landing/landing-slides.md
 
+  - name: Roadmap
+    url: /roadmap
+    options:
+      name:
+        fr: Roadmap
+        en: Roadmap
+      description:
+        fr: Roadmap
+        en: Roadmap
+      keywords:
+        fr: [ slides ]
+        en: [ slides ]
+    sections:
+      - name: roadmap-tech
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: my-0 py-0
+          name:
+            fr: Roadmap tech
+            en: Roadmap tech
+        files:
+          fr: ./texts/roadmap/roadmap-tech.md
+          en: ./texts/roadmap/roadmap-tech.md
+      # - name: roadmap-bizdev
+      #   component: TextComponent
+      #   options:
+      #     columns-size: full
+      #     custom-class: my-0 py-0
+      #     name:
+      #       fr: Roadmap bizdev
+      #       en: Roadmap bizdev
+      #   files:
+      #     fr: ./texts/roadmap/roadmap-bizdev.md
+      #     en: ./texts/roadmap/roadmap-bizdev.md
+
+  - name: Benchmark
+    url: /benchmark
+    options:
+      name:
+        fr: Benchmark
+        en: Benchmark
+      description:
+        fr: Benchmark
+        en: Benchmark
+      keywords:
+        fr: [ benchmark ]
+        en: [ benchmark ]
+    sections:
+      # - name: benchmark-dataviz
+      #   component: TextComponent
+      #   options:
+      #     columns-size: full
+      #     custom-class: my-0 py-0
+      #     name:
+      #       fr: Benchmark dataviz
+      #       en: Benchmark dataviz
+      #   files:
+      #     fr: ./texts/benchmark/benchmark-dataviz.md
+      #     en: ./texts/benchmark/benchmark-dataviz.md
+      # - name: benchmark-edition
+      #   component: TextComponent
+      #   options:
+      #     columns-size: full
+      #     custom-class: my-0 py-0
+      #     name:
+      #       fr: Benchmark edition
+      #       en: Benchmark edition
+      #   files:
+      #     fr: ./texts/benchmark/benchmark-edition.md
+      #     en: ./texts/benchmark/benchmark-edition.md
+      - name: benchmark-features
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: my-0 py-0
+          name:
+            fr: Benchmark features
+            en: Benchmark features
+        files:
+          fr: ./texts/benchmark/benchmark-features.md
+          en: ./texts/benchmark/benchmark-features.md
+
+  - name: Examples 
+    url: /examples
+    options:
+      name:
+        fr: Exemples
+        en: Examples
+      description:
+        fr: Exemples
+        en: Examples of Datami implementation
+      keywords:
+        fr: [ examples ]
+        en: [ examples ]
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/examples/fr/examples-head.md
+          en: ./texts/examples/en/examples-head.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/examples/fr/examples-data.md
+          en: ./texts/examples/en/examples-data.md
 
   # STANDARD ROUTES
   - name: Contact
@@ -431,114 +417,114 @@ routes:
                 en: Contact us
 
   # GALLERY - HTML
-  - name: demo-cooptech
-    url: /demo-cooptech
-    options:
-      contrib: true
-      name:
-        fr: Démo Cooptech
-        en: Demo Cooptech
-      description:
-        fr: Démonstrateur avec les données de Cooptech
-        en: Demonstrator with Cooptech dataset
-      keywords:
-        fr: [ démo, cooptech ]
-        en: [ demo, cooptech ]
-    sections:
-      - name: demo-datami-cooptech
-        component: HtmlComponent
-        options:
-          columns-size: three-quarters
-        files:
-          fr: ./texts/gallery/demo-cooptech.html
-          en: ./texts/gallery/demo-cooptech.html
-      - name: Contact
-        component: ButtonsComponent
-        options:
-          columns-size: two-thirds
-          buttons-size: half
-          custom-class: mt-6
-          buttons:
-            - link: /contact
-              # icon-left: email
-              rounded: false
-              size: is-large
-              style: "box-shadow: -5px 5px 5px #D7D7D7;"
-              label: 
-                fr: Nous contacter
-                en: Contact us
-  - name: demo-odf-observatoire
-    url: /demo-odf-observatoire
-    options:
-      contrib: true
-      name:
-        fr: Démo Open Data France | Observatoire
-        en: Demo Open Data France | Observatory
-      description:
-        fr: Démonstrateur avec les données de l'Observatoire d'Open Data France
-        en: Demonstrator with Open Data France Observatory dataset
-      keywords:
-        fr: [ démo, ODF ]
-        en: [ demo, ODF ]
-    sections:
-      - name: demo-datami-odf-observatoire
-        component: HtmlComponent
-        options:
-          columns-size: three-quarters
-        files:
-          fr: ./texts/gallery/demo-odf-observatoire.html
-          en: ./texts/gallery/demo-odf-observatoire.html
-      - name: Contact
-        component: ButtonsComponent
-        options:
-          columns-size: two-thirds
-          buttons-size: half
-          custom-class: mt-6
-          buttons:
-            - link: /contact
-              # icon-left: email
-              rounded: false
-              size: is-large
-              style: "box-shadow: -5px 5px 5px #D7D7D7;"
-              label: 
-                fr: Nous contacter
-                en: Contact us
-  - name: demo-odf-ressources
-    url: /demo-odf-ressources
-    options:
-      contrib: true
-      name:
-        fr: Démo Open Data France | Ressources
-        en: Demo Open Data France | Ressources
-      description:
-        fr: Démonstrateur avec les données des Ressources d'Open Data France
-        en: Demonstrator with Open Data France Ressources dataset
-      keywords:
-        fr: [ démo, ODF ]
-        en: [ demo, ODF ]
-    sections:
-      - name: demo-datami-odf-ressources
-        component: HtmlComponent
-        options:
-          columns-size: three-quarters
-        files:
-          fr: ./texts/gallery/demo-odf-ressources.html
-          en: ./texts/gallery/demo-odf-ressources.html
-      - name: Contact
-        component: ButtonsComponent
-        options:
-          columns-size: two-thirds
-          buttons-size: half
-          custom-class: mt-6
-          buttons:
-            - link: /contact
-              # icon-left: email
-              rounded: false
-              size: is-large
-              style: "box-shadow: -5px 5px 5px #D7D7D7;"
-              label: 
-                fr: Nous contacter
-                en: Contact us
+  # - name: demo-cooptech
+  #   url: /demo-cooptech
+  #   options:
+  #     contrib: true
+  #     name:
+  #       fr: Démo Cooptech
+  #       en: Demo Cooptech
+  #     description:
+  #       fr: Démonstrateur avec les données de Cooptech
+  #       en: Demonstrator with Cooptech dataset
+  #     keywords:
+  #       fr: [ démo, cooptech ]
+  #       en: [ demo, cooptech ]
+  #   sections:
+  #     - name: demo-datami-cooptech
+  #       component: HtmlComponent
+  #       options:
+  #         columns-size: three-quarters
+  #       files:
+  #         fr: ./texts/gallery/demo-cooptech.html
+  #         en: ./texts/gallery/demo-cooptech.html
+  #     - name: Contact
+  #       component: ButtonsComponent
+  #       options:
+  #         columns-size: two-thirds
+  #         buttons-size: half
+  #         custom-class: mt-6
+  #         buttons:
+  #           - link: /contact
+  #             # icon-left: email
+  #             rounded: false
+  #             size: is-large
+  #             style: "box-shadow: -5px 5px 5px #D7D7D7;"
+  #             label: 
+  #               fr: Nous contacter
+  #               en: Contact us
+  # - name: demo-odf-observatoire
+  #   url: /demo-odf-observatoire
+  #   options:
+  #     contrib: true
+  #     name:
+  #       fr: Démo Open Data France | Observatoire
+  #       en: Demo Open Data France | Observatory
+  #     description:
+  #       fr: Démonstrateur avec les données de l'Observatoire d'Open Data France
+  #       en: Demonstrator with Open Data France Observatory dataset
+  #     keywords:
+  #       fr: [ démo, ODF ]
+  #       en: [ demo, ODF ]
+  #   sections:
+  #     - name: demo-datami-odf-observatoire
+  #       component: HtmlComponent
+  #       options:
+  #         columns-size: three-quarters
+  #       files:
+  #         fr: ./texts/gallery/demo-odf-observatoire.html
+  #         en: ./texts/gallery/demo-odf-observatoire.html
+  #     - name: Contact
+  #       component: ButtonsComponent
+  #       options:
+  #         columns-size: two-thirds
+  #         buttons-size: half
+  #         custom-class: mt-6
+  #         buttons:
+  #           - link: /contact
+  #             # icon-left: email
+  #             rounded: false
+  #             size: is-large
+  #             style: "box-shadow: -5px 5px 5px #D7D7D7;"
+  #             label: 
+  #               fr: Nous contacter
+  #               en: Contact us
+  # - name: demo-odf-ressources
+  #   url: /demo-odf-ressources
+  #   options:
+  #     contrib: true
+  #     name:
+  #       fr: Démo Open Data France | Ressources
+  #       en: Demo Open Data France | Ressources
+  #     description:
+  #       fr: Démonstrateur avec les données des Ressources d'Open Data France
+  #       en: Demonstrator with Open Data France Ressources dataset
+  #     keywords:
+  #       fr: [ démo, ODF ]
+  #       en: [ demo, ODF ]
+  #   sections:
+  #     - name: demo-datami-odf-ressources
+  #       component: HtmlComponent
+  #       options:
+  #         columns-size: three-quarters
+  #       files:
+  #         fr: ./texts/gallery/demo-odf-ressources.html
+  #         en: ./texts/gallery/demo-odf-ressources.html
+  #     - name: Contact
+  #       component: ButtonsComponent
+  #       options:
+  #         columns-size: two-thirds
+  #         buttons-size: half
+  #         custom-class: mt-6
+  #         buttons:
+  #           - link: /contact
+  #             # icon-left: email
+  #             rounded: false
+  #             size: is-large
+  #             style: "box-shadow: -5px 5px 5px #D7D7D7;"
+  #             label: 
+  #               fr: Nous contacter
+  #               en: Contact us
   - name: demo-fabmob
     url: /demo-fabmob
     options:
