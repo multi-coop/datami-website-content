@@ -303,6 +303,17 @@ routes:
         files:
           fr: ./texts/roadmap/fr/roadmap-legend.md
           en: ./texts/roadmap/en/roadmap-legend.md
+      - name: roadmap-analysis
+        component: TextComponent
+        options:
+          columns-size: half
+          custom-class: my-0 py-0
+          name:
+            fr: Roadmap analysis
+            en: Roadmap analysis
+        files:
+          fr: ./texts/roadmap/roadmap-analysis.md
+          en: ./texts/roadmap/roadmap-analysis.md
 
   - name: Benchmark
     url: /benchmark
