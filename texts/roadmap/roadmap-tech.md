@@ -1,6 +1,7 @@
 
 ---
 
+
 |**Milestones**|**Features**|**Priority**|**Difficulty**|
 |---------|------------|:---:|---|
 |<b>More data sources</b>|Connect to external APIs - generic|🔴|▪️▪️|
@@ -39,3 +40,4 @@
 |<b>Translations</b>|Translate to Spanish|🔴|▪️|
 |<b>Translations</b>|Translate to Italian|🟡|▪️|
 
+---

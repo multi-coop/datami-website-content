@@ -12,3 +12,7 @@ table {
 .card-header {
   box-shadow: none;
 }
+
+table {
+  font-size: 11px;
+}

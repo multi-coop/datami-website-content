@@ -1,6 +1,10 @@
 
 ---
 
+<h2 class="has-text-centered my-6">
+   Data visualisation solutions
+</h2>
+
 | Solution               | Solution type    | Langages                            | Difficulty            | Saas    | Official website                                                 |
 | ------------------     | ---------------- | ----------------------------------- | ---                   | ---     | ---                                                              |
 | **Gogocarto**          | Open source      | Custom                              | Easy                  | Yes    | [https://gogocarto.fr/projects](https://gogocarto.fr/projects)   |

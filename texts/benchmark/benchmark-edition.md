@@ -1,6 +1,11 @@
 
 ---
 
+<h2 class="has-text-centered my-6">
+    Data management solutions
+</h2>
+
+
 | Solution            | Solution type | Langages                 | Difficulty             | Saas | Targeted public                                                              | Official webiste                                                             |
 | ------------------- | ------------  | ------------------------ | ---                    | ---  | -------------------------------------------------------------------------    | ---                                                                          |
 | **Apache Zeppelin** | Open source | Scala, Python, R, SQL      | Hard                   | No   | Developers and professional users                                            | [https://zeppelin.apache.org/](https://zeppelin.apache.org/)                 |

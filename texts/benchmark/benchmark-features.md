@@ -1,6 +1,10 @@
 
 ---
 
+<h2 class="has-text-centered my-6">
+   Features comparison
+</h2>
+
 | Solution            | Open source  | Readyness | Table view | Cards view  | Map view   | Dataviz view | Edition  | Moderation  | Configuration interface     | Data sources        | Backend              | Widget  | Official website                               |
 | -----------------   | :---:        | ---       | :---:      | :---:       | :---:      | :---:        | :---:    | :---:       | :---:                       | ------------------  | -------------------- | :---:   | ---                                            |
 | **Datami**          | ✅           | ⭐⭐      | ✅         | ✅          | ✅         | ✅           | ✅       | ✅          | ❌ (for now)                | API ext. (Git)      | Git platforms / APIs | ✅      | [Website](https://datami.multi.coop/?locale=en/)          |
@@ -17,6 +21,3 @@
 | **Airtable**        | 🔒           | ⭐⭐⭐    | ✅         | ✅          | ❌         | ⚠️            | ✅       | ⚠️           | ✅                          | proper, connectors  | Saas                 | ✅      | [Website](https://airtable.com/)                |
 | **Gsheet**          | 🔒           | ⭐⭐⭐    | ✅         | ❌          | ❌         | ✅           | ✅       | ✅          | ✅                          | proper, connectors  | Saas                 | ✅      | [Website](https://www.google.com/sheets/about/) |
 
-
-The ❓ indicates the information is to be completed<br>
-The ⚠️ that the functionality can be implemented either in a roundabout way or as a hack

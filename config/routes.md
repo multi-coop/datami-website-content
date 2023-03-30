@@ -259,11 +259,22 @@ routes:
         fr: [ slides ]
         en: [ slides ]
     sections:
+      - name: roadmap-head
+        component: TextComponent
+        options:
+          columns-size: half
+          custom-class: mt-6 mb-0 py-0
+          name:
+            fr: Roadmap head
+            en: Roadmap head
+        files:
+          fr: ./texts/roadmap/fr/roadmap-head.md
+          en: ./texts/roadmap/en/roadmap-head.md
       - name: roadmap-tech
         component: TextComponent
         options:
           columns-size: full
-          custom-class: my-0 py-0
+          custom-class: mb-0 py-0
           name:
             fr: Roadmap tech
             en: Roadmap tech
@@ -281,6 +292,17 @@ routes:
       #   files:
       #     fr: ./texts/roadmap/roadmap-bizdev.md
       #     en: ./texts/roadmap/roadmap-bizdev.md
+      - name: roadmap-legend
+        component: TextComponent
+        options:
+          columns-size: half
+          custom-class: my-0 py-0
+          name:
+            fr: Roadmap legend
+            en: Roadmap legend
+        files:
+          fr: ./texts/roadmap/fr/roadmap-legend.md
+          en: ./texts/roadmap/en/roadmap-legend.md
 
   - name: Benchmark
     url: /benchmark
@@ -295,28 +317,17 @@ routes:
         fr: [ benchmark ]
         en: [ benchmark ]
     sections:
-      # - name: benchmark-dataviz
-      #   component: TextComponent
-      #   options:
-      #     columns-size: full
-      #     custom-class: my-0 py-0
-      #     name:
-      #       fr: Benchmark dataviz
-      #       en: Benchmark dataviz
-      #   files:
-      #     fr: ./texts/benchmark/benchmark-dataviz.md
-      #     en: ./texts/benchmark/benchmark-dataviz.md
-      # - name: benchmark-edition
-      #   component: TextComponent
-      #   options:
-      #     columns-size: full
-      #     custom-class: my-0 py-0
-      #     name:
-      #       fr: Benchmark edition
-      #       en: Benchmark edition
-      #   files:
-      #     fr: ./texts/benchmark/benchmark-edition.md
-      #     en: ./texts/benchmark/benchmark-edition.md
+      - name: benchmark-head
+        component: TextComponent
+        options:
+          columns-size: half
+          custom-class: mb-0 py-0
+          name:
+            fr: Benchmark head
+            en: Benchmark head
+        files:
+          fr: ./texts/benchmark/fr/benchmark-head.md
+          en: ./texts/benchmark/en/benchmark-head.md
       - name: benchmark-features
         component: TextComponent
         options:
@@ -328,6 +339,39 @@ routes:
         files:
           fr: ./texts/benchmark/benchmark-features.md
           en: ./texts/benchmark/benchmark-features.md
+      - name: benchmark-legend
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: my-0 py-0
+          name:
+            fr: Benchmark legend
+            en: Benchmark legend
+        files:
+          fr: ./texts/benchmark/fr/benchmark-legend.md
+          en: ./texts/benchmark/en/benchmark-legend.md
+      - name: benchmark-dataviz
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: my-0 py-0
+          name:
+            fr: Benchmark dataviz
+            en: Benchmark dataviz
+        files:
+          fr: ./texts/benchmark/benchmark-dataviz.md
+          en: ./texts/benchmark/benchmark-dataviz.md
+      - name: benchmark-edition
+        component: TextComponent
+        options:
+          columns-size: full
+          custom-class: my-0 py-0
+          name:
+            fr: Benchmark edition
+            en: Benchmark edition
+        files:
+          fr: ./texts/benchmark/benchmark-edition.md
+          en: ./texts/benchmark/benchmark-edition.md
 
   - name: Examples 
     url: /examples

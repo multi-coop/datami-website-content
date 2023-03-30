@@ -322,30 +322,30 @@ buttons-left:
         label:
           fr: Présentation
           en: Slides
-      # - name: roadmap
-      #   link: /roadmap
-      #   component: simpleLink
-      #   tag:
-      #     type: warning
-      #     rounded: true
-      #     label: 
-      #       fr: new
-      #       en: new
-      #   label:
-      #     fr: Roadmap
-      #     en: Roadmap
-      # - name: benchmark
-      #   link: /benchmark
-      #   component: simpleLink
-      #   tag:
-      #     type: warning
-      #     rounded: true
-      #     label: 
-      #       fr: new
-      #       en: new
-      #   label:
-      #     fr: Benchmark
-      #     en: Benchmark
+      - name: roadmap
+        link: /roadmap
+        component: simpleLink
+        tag:
+          type: warning
+          rounded: true
+          label: 
+            fr: new
+            en: new
+        label:
+          fr: Feuille de route
+          en: Roadmap
+      - name: benchmark
+        link: /benchmark
+        component: simpleLink
+        tag:
+          type: warning
+          rounded: true
+          label: 
+            fr: new
+            en: new
+        label:
+          fr: Benchmark
+          en: Benchmark
 
   - name: docs 
     # icon: book-open-variant
